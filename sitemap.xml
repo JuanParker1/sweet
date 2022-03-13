@@ -409,6 +409,13 @@
   </url>
   
   <url>
+    <loc>https://swiest.com/tags/%E8%BF%99%E4%B8%80%E6%AC%A1%E4%B8%8D%E4%BB%85%E5%8F%98%E6%88%90%E5%AD%95%E5%A6%87%E8%BF%98%E5%92%8C%E4%BB%96%E5%8F%98%E6%88%90%E5%81%87%E9%9D%A2%E5%A4%AB%E5%A6%87/</loc>
+    <lastmod>2022-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://swiest.com/tags/%E7%B9%81%E9%AB%94/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -430,13 +437,6 @@
   </url>
   
   <url>
-    <loc>https://swiest.com/tags/%E8%BF%99%E4%B8%80%E6%AC%A1%E4%B8%8D%E4%BB%85%E5%8F%98%E6%88%90%E5%AD%95%E5%A6%87%E8%BF%98%E5%92%8C%E4%BB%96%E5%8F%98%E6%88%90%E5%81%87%E9%9D%A2%E5%A4%AB%E5%A6%87/</loc>
-    <lastmod>2022-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://swiest.com/tags/%E6%92%AD%E5%AE%A2/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -451,6 +451,13 @@
   </url>
   
   <url>
+    <loc>https://swiest.com/tags/%E9%80%99%E4%B8%80%E6%AC%A1%E4%B8%8D%E5%83%85%E8%AE%8A%E6%88%90%E5%AD%95%E5%A9%A6%E9%82%84%E5%92%8C%E4%BB%96%E8%AE%8A%E6%88%90%E5%81%87%E9%9D%A2%E5%A4%AB%E5%A9%A6/</loc>
+    <lastmod>2022-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://swiest.com/tags/%E6%92%AD%E5%AE%A2Podcast/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -459,13 +466,6 @@
   
   <url>
     <loc>https://swiest.com/tags/%E7%89%B9%E6%B4%9B%E4%BC%8A%E6%9C%A8%E9%A6%AC%E4%BA%8B%E4%BB%B6/</loc>
-    <lastmod>2022-03-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://swiest.com/tags/%E9%80%99%E4%B8%80%E6%AC%A1%E4%B8%8D%E5%83%85%E8%AE%8A%E6%88%90%E5%AD%95%E5%A9%A6%E9%82%84%E5%92%8C%E4%BB%96%E8%AE%8A%E6%88%90%E5%81%87%E9%9D%A2%E5%A4%AB%E5%A9%A6/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -509,14 +509,14 @@
   </url>
   
   <url>
-    <loc>https://swiest.com/categories/%E7%B6%B2%E6%96%87/</loc>
+    <loc>https://swiest.com/categories/%E7%BD%91%E6%96%87/%E8%BF%99%E4%B8%80%E6%AC%A1%E4%B8%8D%E4%BB%85%E5%8F%98%E6%88%90%E5%AD%95%E5%A6%87%E8%BF%98%E5%92%8C%E4%BB%96%E5%8F%98%E6%88%90%E5%81%87%E9%9D%A2%E5%A4%AB%E5%A6%87/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://swiest.com/categories/%E7%BD%91%E6%96%87/%E8%BF%99%E4%B8%80%E6%AC%A1%E4%B8%8D%E4%BB%85%E5%8F%98%E6%88%90%E5%AD%95%E5%A6%87%E8%BF%98%E5%92%8C%E4%BB%96%E5%8F%98%E6%88%90%E5%81%87%E9%9D%A2%E5%A4%AB%E5%A6%87/</loc>
+    <loc>https://swiest.com/categories/%E7%B6%B2%E6%96%87/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -537,14 +537,14 @@
   </url>
   
   <url>
-    <loc>https://swiest.com/categories/%E6%92%AD%E5%AE%A2Podcast/</loc>
+    <loc>https://swiest.com/categories/%E7%B6%B2%E6%96%87/%E9%80%99%E4%B8%80%E6%AC%A1%E4%B8%8D%E5%83%85%E8%AE%8A%E6%88%90%E5%AD%95%E5%A9%A6%E9%82%84%E5%92%8C%E4%BB%96%E8%AE%8A%E6%88%90%E5%81%87%E9%9D%A2%E5%A4%AB%E5%A9%A6/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://swiest.com/categories/%E7%B6%B2%E6%96%87/%E9%80%99%E4%B8%80%E6%AC%A1%E4%B8%8D%E5%83%85%E8%AE%8A%E6%88%90%E5%AD%95%E5%A9%A6%E9%82%84%E5%92%8C%E4%BB%96%E8%AE%8A%E6%88%90%E5%81%87%E9%9D%A2%E5%A4%AB%E5%A9%A6/</loc>
+    <loc>https://swiest.com/categories/%E6%92%AD%E5%AE%A2Podcast/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
