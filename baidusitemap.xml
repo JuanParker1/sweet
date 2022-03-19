@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://swiest.com/bn/3625848465/</loc>
-    <lastmod>2022-03-19</lastmod>
-  </url>
-  <url>
-    <loc>https://swiest.com/ar/2767390445/</loc>
-    <lastmod>2022-03-19</lastmod>
-  </url>
-  <url>
     <loc>https://swiest.com/zh-TW/1731473367/</loc>
-    <lastmod>2022-03-19</lastmod>
-  </url>
-  <url>
-    <loc>https://swiest.com/zh-CN/730715898/</loc>
     <lastmod>2022-03-19</lastmod>
   </url>
   <url>
@@ -21,11 +9,11 @@
     <lastmod>2022-03-19</lastmod>
   </url>
   <url>
-    <loc>https://swiest.com/en/1885166347/</loc>
+    <loc>https://swiest.com/zh-CN/730715898/</loc>
     <lastmod>2022-03-19</lastmod>
   </url>
   <url>
-    <loc>https://swiest.com/en/363953407/</loc>
+    <loc>https://swiest.com/en/1885166347/</loc>
     <lastmod>2022-03-19</lastmod>
   </url>
   <url>
@@ -33,11 +21,23 @@
     <lastmod>2022-03-19</lastmod>
   </url>
   <url>
-    <loc>https://swiest.com/en/2646602211/</loc>
+    <loc>https://swiest.com/bn/3625848465/</loc>
+    <lastmod>2022-03-19</lastmod>
+  </url>
+  <url>
+    <loc>https://swiest.com/en/363953407/</loc>
     <lastmod>2022-03-19</lastmod>
   </url>
   <url>
     <loc>https://swiest.com/en/465411070/</loc>
+    <lastmod>2022-03-19</lastmod>
+  </url>
+  <url>
+    <loc>https://swiest.com/en/2646602211/</loc>
+    <lastmod>2022-03-19</lastmod>
+  </url>
+  <url>
+    <loc>https://swiest.com/ar/2767390445/</loc>
     <lastmod>2022-03-19</lastmod>
   </url>
   <url>
