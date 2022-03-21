@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /js/
+Disallow: /css/
+
+Sitemap: https://swiest.com/sitemap.xml
+Sitemap: https://swiest.com/baidusitemap.xml
