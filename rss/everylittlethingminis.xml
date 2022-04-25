@@ -1,0 +1,515 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Every Little Thing Minis</title>
+    <link>https://api.spotify.com/v1/shows/4Lua9IGzQZ17PMv5V9qW3N</link>
+    <description>A fun, bite-sized fact show that tackles your burning questions. Like: Why do we cry? Did cavemen really carry clubs? Why are some people mosquito magnets?</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://i.scdn.co/image/ab6765630000ba8a8129eb7703576da2731871b6</url>
+      <title>Every Little Thing Minis</title>
+      <link>https://api.spotify.com/v1/shows/4Lua9IGzQZ17PMv5V9qW3N</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Apr 2022 07:32:25 +0000</lastBuildDate>
+    <item>
+      <title>WTF is Bubblegum Flavor?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1kfabRSN2kaf1R7LWOfVVg?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>There’s no bubblegum tree in nature — so where does that flavor come from? Confectioners Bob Boutin and Mauricio Bobadilla fill us in on the first-ever bubblegum recipe. Find more ELT episodes here and call any time with your own factual emergency: 833-RING-ELT. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1kfabRSN2kaf1R7LWOfVVg</guid>
+      <pubDate>Thu, 21 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>152</itunes:duration>
+    </item>
+    <item>
+      <title>Knockout Sounds: Making a Hollywood Punch Land</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3cu1DXjEGZ4dXowlrtsGaf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Why do Hollywood wallops sound so punched up? Foley artist and Emmy Award-winning sound editor Joanna Fang shares her punch recipe. Find more ELT episodes here and call any time with your own factual emergency: 833-RING-ELT. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3cu1DXjEGZ4dXowlrtsGaf</guid>
+      <pubDate>Thu, 14 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>162</itunes:duration>
+    </item>
+    <item>
+      <title>How to Shake an Earworm</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2OE0ZA6OWUv72uNIRv2Kua?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Why do some songs get stuck in our heads — and is there a way to unstick them? Earworm expert Elizabeth Margulis fills us in. Find more ELT episodes here and call any time with your own factual emergency: 833-RING-ELT. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2OE0ZA6OWUv72uNIRv2Kua</guid>
+      <pubDate>Thu, 07 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>154</itunes:duration>
+    </item>
+    <item>
+      <title>Dog Show Drama: Why Terriers Are Top-Dog</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6kq4Cq2o7hxGrPziBUC9l7?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Terriers have won nearly half of the Westminster Kennel Club’s Best-in-Show competitions since it began in 1877. How is that pawsible? Dog show judge Laurie Williams tells us what gives terriers a leg-up on the competition. Find more ELT episodes here and call any time with your own factual emergency: 833-RING-ELT. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6kq4Cq2o7hxGrPziBUC9l7</guid>
+      <pubDate>Thu, 31 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>157</itunes:duration>
+    </item>
+    <item>
+      <title>Do Cats Only Meow at Humans?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7zKgB8osYfavk7gsjGz5SS?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Could Fluffy’s classic catchphrase be for our ears only? Jackson Galaxy, cat behavior expert and host of the TV show “My Cat From Hell,” translates some tabby talk. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7zKgB8osYfavk7gsjGz5SS</guid>
+      <pubDate>Thu, 24 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>145</itunes:duration>
+    </item>
+    <item>
+      <title>How to Build an Underwater Tunnel</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5ZWZLpjAA6nHkVqefbJLZt?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Have you ever driven through an underwater tunnel and wondered... how did this tunnel get here? Civil engineer Gary Brierley — aka Dr. Mole — explains. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5ZWZLpjAA6nHkVqefbJLZt</guid>
+      <pubDate>Thu, 17 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>142</itunes:duration>
+    </item>
+    <item>
+      <title>Can You Freeze-Clean Your Pants?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5QQBNSqToucr2B2W8ziAW4?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Should you swap out your front loader for a deep freezer? Cleaning expert Jolie Kerr has answers. Hear more cleaning myths busted on our full-length show. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5QQBNSqToucr2B2W8ziAW4</guid>
+      <pubDate>Thu, 10 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>166</itunes:duration>
+    </item>
+    <item>
+      <title>Why Do We Cry?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2uHLUBbyEvSdK4wpa0hDCd?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Is there a good reason to let the teardrops roll? Crying researcher and clinical psychologist Ad Vingerhoets has a theory about why we cry. For more on why we well up, try our full-length show. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2uHLUBbyEvSdK4wpa0hDCd</guid>
+      <pubDate>Thu, 03 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>125</itunes:duration>
+    </item>
+    <item>
+      <title>Stealing the Mona Lisa of Plants</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2slMhEiXyeDtGTrfe1ZCXd?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Listener Carl wants to know: Why would someone lift a water lily from a botanical garden in London? Nick Johnson, horticultural manager of Queen Elizabeth II Botanic Park, Grand Cayman, dishes the dirt on a rare plant heist. Find more ELT episodes here and call any time with your own factual emergency: 833-RING-ELT. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2slMhEiXyeDtGTrfe1ZCXd</guid>
+      <pubDate>Thu, 24 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>156</itunes:duration>
+    </item>
+    <item>
+      <title>Do I Need to Warm Up My Car?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1pkxm5mr16O11TEYSJ4btU?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In cold weather, should you let your car heat up before taking it for a spin? Auto experts weigh in. Find more ELT episodes here and call any time with your own factual emergency: 833-RING-ELT. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1pkxm5mr16O11TEYSJ4btU</guid>
+      <pubDate>Thu, 17 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>93</itunes:duration>
+    </item>
+    <item>
+      <title>How Jigsaw Puzzles Are Made</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7bMtznqyQzXsl878fyrUJe?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>ELT goes inside a jigsaw puzzle factory to see how puzzles are produced. Thomas Kaeppeler, President of Ravensburger North America, puts the pieces together. Find more ELT episodes here and call any time with your own factual emergency: 833-RING-ELT. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7bMtznqyQzXsl878fyrUJe</guid>
+      <pubDate>Thu, 10 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>130</itunes:duration>
+    </item>
+    <item>
+      <title>How to Find a Missing Frog</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7CwcTJIc7aP9cFT3Fq0H3C?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Listener Diksha asks: how do we know when an endangered animal species is really gone? Professional frog counter Jamie Voyles has answers. Find more ELT episodes here and call any time with your own factual emergency: 833-RING-ELT. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7CwcTJIc7aP9cFT3Fq0H3C</guid>
+      <pubDate>Thu, 03 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>176</itunes:duration>
+    </item>
+    <item>
+      <title>Why Do Cold Days Make Your Nose Run?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2MmVkLQpTDnLIwbgPRVSRo?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Why does winter weather turn on your nose faucet? Rhinologist Simon Gane explains why noses start running when the temperature drops. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2MmVkLQpTDnLIwbgPRVSRo</guid>
+      <pubDate>Thu, 27 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>110</itunes:duration>
+    </item>
+    <item>
+      <title>Space Trash: Is It Coming For Us?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4W94Z2D4CRNkBqV7WGhuqW?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Earth is surrounded by a halo of trash — defunct satellites, discarded fuel tanks, one of Elon Musk’s Teslas. Listener Ryan wants to know: Does any of it ever fall down to Earth? ELT talks trash with Ted Muelhaupt, director of the Center for Orbital and Reentry Debris Study. Find more ELT episodes here and call any time with your own factual emergency: 833-RING-ELT. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4W94Z2D4CRNkBqV7WGhuqW</guid>
+      <pubDate>Thu, 20 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>131</itunes:duration>
+    </item>
+    <item>
+      <title>Is Your Pet a Righty or a Lefty?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1pfA4IkKyqvXKmt6EDdZc1?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Caller Juanita wants to know if her cats have a preferred paw. Neuroscientist Sebastian Ocklenburg gives us a hand with the answer. Find more ELT episodes here and call any time with your own factual emergency: 833-RING-ELT. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1pfA4IkKyqvXKmt6EDdZc1</guid>
+      <pubDate>Thu, 13 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>150</itunes:duration>
+    </item>
+    <item>
+      <title>What’s It Like to Hibernate?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2zMO6gLo0uQf5w5b5MM02e?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>What do bears do when they hibernate? Sean Farley, a bear researcher at the Alaska Department of Fish and Game, tells ELT what bears are up to during their winter downtime. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2zMO6gLo0uQf5w5b5MM02e</guid>
+      <pubDate>Thu, 06 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>141</itunes:duration>
+    </item>
+    <item>
+      <title>What Is a “Nog”?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3GnoH0q32c1hTKMV4q1WjT?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Chef and food writer J. Kenji López-Alt explains how eggnog got its name. You can find his eggnog recipe here. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3GnoH0q32c1hTKMV4q1WjT</guid>
+      <pubDate>Thu, 30 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>124</itunes:duration>
+    </item>
+    <item>
+      <title>Do You Only Breathe Through One Nostril?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4v4tIu2usXifczmUKjenJ6?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Listener Paige heard a rumor: we only breathe through one nostril. Can it be true? ELT gets an answer from someone in the nose — rhinologist Simon Gane. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4v4tIu2usXifczmUKjenJ6</guid>
+      <pubDate>Thu, 23 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>142</itunes:duration>
+    </item>
+    <item>
+      <title>Hummingbirds Need to Feed</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0oNAOi1JfLFedkcvryG6IQ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Caller Makaila needs to know how much to feed the hummingbirds that frequent her father’s feeders. Hummingbird expert Alejandro Rico-Guevara fills us in on these tiny nectar guzzlers, and how they find their fuel. Find more ELT episodes here and call any time with your own factual emergency: 833-RING-ELT. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0oNAOi1JfLFedkcvryG6IQ</guid>
+      <pubDate>Thu, 16 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>148</itunes:duration>
+    </item>
+    <item>
+      <title>How To Tell If Your Plane’s in Trouble</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5JB15oVb0B77YkILt5ORdc?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How can you be sure that turbulent flight doesn’t call for an SOS? Pilots Nick Anderson, of the Airline Pilot Guy podcast, and Sandy Williams glide in with an answer. Find more cockpit confessions with Nick and Sandy here, and call any time with your own factual emergency: 833-RING-ELT. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5JB15oVb0B77YkILt5ORdc</guid>
+      <pubDate>Thu, 09 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>176</itunes:duration>
+    </item>
+    <item>
+      <title>Much a Doo About Squirrels</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0McfCfLKZRNk2Q5H178iSE?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Why isn’t squirrel poop all over the place? Animal behaviorist and pro squirrel watcher Mikel Maria Delgado tells us what it looks like and where to find it. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0McfCfLKZRNk2Q5H178iSE</guid>
+      <pubDate>Thu, 02 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>107</itunes:duration>
+    </item>
+    <item>
+      <title>Why Aren’t Turkey Eggs a Thing?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0DDOziIhydxpB51qBjXsoc?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Why don’t we gobble turkey eggs like we do chicken eggs? ELT asks egg-sperts Phillip Clauer and Christine Alvarado. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0DDOziIhydxpB51qBjXsoc</guid>
+      <pubDate>Thu, 25 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>79</itunes:duration>
+    </item>
+    <item>
+      <title>The Real Pirates of the Caribbean</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1EtgUvqlOWyIJ6c6AyWufo?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Did pirates really have peg legs and hooks? Pirate expert Laura Sook Duncombe delivers the yar or nar on some common pirate tropes. Laura takes on more pirate tales here. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1EtgUvqlOWyIJ6c6AyWufo</guid>
+      <pubDate>Thu, 18 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>165</itunes:duration>
+    </item>
+    <item>
+      <title>Scrabble’s Scramble to the Top</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4NWaWLInwMJOcTJuaW93Mq?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Listener Malenia wants to know how her favorite word game came to be. Stefan Fatsis, author of Word Freak, fills in the blanks. For more on how Scrabble scored big, listen to the full episode here. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4NWaWLInwMJOcTJuaW93Mq</guid>
+      <pubDate>Thu, 11 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>169</itunes:duration>
+    </item>
+    <item>
+      <title>How Squirrels Find Their Stash</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1OW1vcK9tNd3BGSX3WHsOi?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The average tree squirrel buries up to 10,000 nuts every fall. How do they keep tabs on their stash? Animal behaviorist Mikel Maria Delgado exposes the secrets of squirrel pantry maintenance.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1OW1vcK9tNd3BGSX3WHsOi</guid>
+      <pubDate>Thu, 04 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>115</itunes:duration>
+    </item>
+    <item>
+      <title>No Spacesuit, No Space Shoes, Yes Problems</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1cbLoMT987fBTJiQ3009fL?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>What would happen to your body if you floated out of your spaceship without a spacesuit? Astrophysicist Paul M. Sutter gives ELT the gory details. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1cbLoMT987fBTJiQ3009fL</guid>
+      <pubDate>Thu, 28 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>172</itunes:duration>
+    </item>
+    <item>
+      <title>Will That Spider Jump on Me?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3JXWnzjZVfm3ug5PR5fdZH?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A spider-leary listener wants to know if cold weather means she’s safe from jumping spiders. Linda Rayor, arachnologist at Cornell University, unravels this eight-legged mystery. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3JXWnzjZVfm3ug5PR5fdZH</guid>
+      <pubDate>Thu, 21 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>148</itunes:duration>
+    </item>
+    <item>
+      <title>The Finest Ear in the Orchestra?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4EsnoJmVsfnfrmkrlLjNvG?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How do musicians tune up on a noisy stage? Conductor Rob Kapilow reveals the secret. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4EsnoJmVsfnfrmkrlLjNvG</guid>
+      <pubDate>Thu, 14 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>121</itunes:duration>
+    </item>
+    <item>
+      <title>Can You Really Feel Someone Else’s Pain?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0pOSs9VxTG8kR3xcrqg2uI?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Caller Lisa wants to know why her butt hurts whenever she sees someone else get injured. Pain researcher Stuart Derbyshire helps ELT get to the bottom of it. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0pOSs9VxTG8kR3xcrqg2uI</guid>
+      <pubDate>Thu, 07 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>157</itunes:duration>
+    </item>
+    <item>
+      <title>How Spies Hide in Plain Sight</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5jus9j3hqAHkrs5b6wCe3P?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Does that person sitting next to you on the plane REALLY work in IT? ELT learns how to spot a spy in the wild. Guest: Ex-CIA operative Robert Baer. Thanks to caller “anonymous.” Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5jus9j3hqAHkrs5b6wCe3P</guid>
+      <pubDate>Thu, 30 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>207</itunes:duration>
+    </item>
+    <item>
+      <title>Bioluminescence: The Glow Below</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/761QajOS02YWjRM7xVQzKy?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>More than half of all sea creatures are bioluminescent — but why? We get answers from biologist and ocean researcher Edie Widder, the “Jacques Cousteau of glow.” Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">761QajOS02YWjRM7xVQzKy</guid>
+      <pubDate>Thu, 23 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>128</itunes:duration>
+    </item>
+    <item>
+      <title>The Da Vinci Code of Pasta</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/27saJBBnswEqRHirb8TasT?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Orecchiette n. 8, fusilli n. 16. What do the numbers on pasta boxes mean? Marco Auriti, pasta guy and senior sales manager at De Cecco, reveals the truth. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">27saJBBnswEqRHirb8TasT</guid>
+      <pubDate>Thu, 16 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>171</itunes:duration>
+    </item>
+    <item>
+      <title>Should You Dump Your Sponge?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4xsxOVi9T9rYp3s1NhMRi4?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Should you leave your sponge out to dry . . . permanently? A trio of food safety experts weighs in. Guests: Kathryn Boor, Cornell University; Ian Shaw, University of Canterbury; Renée Goodrich-Schneider, University of Florida. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4xsxOVi9T9rYp3s1NhMRi4</guid>
+      <pubDate>Thu, 09 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>200</itunes:duration>
+    </item>
+    <item>
+      <title>What Sparked That Wildfire?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5v7ChxPFC5vX4F4Vz0844C?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>When there’s a wildfire, how do we figure out what caused it? Fire investigator Paul Steensland tells ELT about the clues that lead him to the cause.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5v7ChxPFC5vX4F4Vz0844C</guid>
+      <pubDate>Thu, 02 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>166</itunes:duration>
+    </item>
+    <item>
+      <title>Unlock Your Car With Your Brain</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4Y10CgH1sscYmGU56SqhN0?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>If you hold your car’s key fob to your chin, can you unlock your car from further away? Jalopnik senior editor Jason Torchinsky sets the record straight about this heady hack. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4Y10CgH1sscYmGU56SqhN0</guid>
+      <pubDate>Thu, 26 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>139</itunes:duration>
+    </item>
+    <item>
+      <title>Armadillos: A Roadside Mystery</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3VzTJ4hM9QrwZFxaiUQttM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Listener Gwen wants to know why she’s never seen an armadillo alive. Armadillo expert Colleen McDonough has the (unfortunate) answers. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3VzTJ4hM9QrwZFxaiUQttM</guid>
+      <pubDate>Thu, 19 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>164</itunes:duration>
+    </item>
+    <item>
+      <title>Does Spit Get Out Blood Stains?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5iLJCMBOKe6lDKFpWmu5HR?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A listener asks: can you clean blood stains with your own saliva? Jolie Kerr, cleaning expert and host of Ask a Clean Person, has answers. For more listener cleanspiracies, check out this episode.    Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5iLJCMBOKe6lDKFpWmu5HR</guid>
+      <pubDate>Thu, 12 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>110</itunes:duration>
+    </item>
+    <item>
+      <title>A Little Corn Mystery</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1RJZCecstv9xYGD1ct0Xvr?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>What is baby corn exactly? Carol Miles, a vegetable horticulture expert, solves listener Mary’s tiny lunchtime mystery.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1RJZCecstv9xYGD1ct0Xvr</guid>
+      <pubDate>Thu, 05 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>170</itunes:duration>
+    </item>
+    <item>
+      <title>Baseball and Organ Music: How’d That Start?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1vWU5vU8t5qYEaZfFysgNc?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>When did organ music become a fixture at baseball games? Josh Kantor, organist for the Boston Red Sox, explains why the organ hits all the right notes. For more baseball-organ history, including an interview with the legendary organist Nancy Faust, check out our full length episode. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1vWU5vU8t5qYEaZfFysgNc</guid>
+      <pubDate>Thu, 29 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>128</itunes:duration>
+    </item>
+    <item>
+      <title>When Did We Start Wearing Pants?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6JKqRtU6v3T0Cyc4FUpoeU?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>While there’s evidence that clothes go back 170,000 years, pants are a relatively recent addition to our wardrobes. Folklorist and historian Adrienne Mayor unravels the surprising story of slacks. For more pants history, try this episode. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6JKqRtU6v3T0Cyc4FUpoeU</guid>
+      <pubDate>Thu, 22 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>127</itunes:duration>
+    </item>
+    <item>
+      <title>Why Are Some People Mosquito Magnets?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0T9HICbvV8FW40iRIoM7vM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Caller Jenny is itching to know if these tiny bloodsuckers prefer some people more than others. Ecologist and mosquito maestro Don Yee shares some secrets of skeeter attraction. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0T9HICbvV8FW40iRIoM7vM</guid>
+      <pubDate>Thu, 15 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>159</itunes:duration>
+    </item>
+    <item>
+      <title>Will My Brother’s Car Explode?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2KUzvhOU1KbICChtPl4r44?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Should you turn off your car while you’re pumping gas? Guest: Jason Torchinsky, senior editor at Jalopnik. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2KUzvhOU1KbICChtPl4r44</guid>
+      <pubDate>Thu, 08 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>107</itunes:duration>
+    </item>
+    <item>
+      <title>Is Brain Freeze Dangerous?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6PbRFnTmIuGX7McY1qTqOj?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Listener Molly wants to know whether shotgunning a slushy could cause her physical harm. Blood flow researcher Ole Hensel has answers. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6PbRFnTmIuGX7McY1qTqOj</guid>
+      <pubDate>Thu, 01 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>152</itunes:duration>
+    </item>
+    <item>
+      <title>WTF is Bubblegum Flavor?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4TRq5WaYbnZE1Ll1hMjfya?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>There’s no bubblegum tree in nature — so where does that flavor come from? Confectioners Bob Boutin and Mauricio Bobadilla fill us in on the first-ever bubblegum recipe. More on how bubblegum blew onto the scene here. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4TRq5WaYbnZE1Ll1hMjfya</guid>
+      <pubDate>Thu, 24 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>152</itunes:duration>
+    </item>
+    <item>
+      <title>Eau de Thrift Store</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5qrTnrLhMTjuNcX5d4qGAg?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>ELT gets to the bottom of a familiar aroma with cleaning expert Jolie Kerr of Ask a Clean Person. Thanks to listener Theresa. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5qrTnrLhMTjuNcX5d4qGAg</guid>
+      <pubDate>Thu, 17 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>185</itunes:duration>
+    </item>
+    <item>
+      <title>Do Airplanes Have Keys?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7bZHlucbNBaFvwy7VVw5Qg?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Do do you need a key to start an airplane? Pilots Nick Anderson, of the Airline Pilot Guy podcast, and Sandy Williams glide in with an answer. For more cockpit confessions, check out this episode. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7bZHlucbNBaFvwy7VVw5Qg</guid>
+      <pubDate>Thu, 10 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>126</itunes:duration>
+    </item>
+    <item>
+      <title>Frozen Food: When Does It Get Fishy?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5X3mc6tWHGGstBq55Osxij?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Listener Max has a fishy question: How long is too long when it comes to frozen fish? Food safety expert Haley Oliver serves up the juicy facts. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5X3mc6tWHGGstBq55Osxij</guid>
+      <pubDate>Thu, 03 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>133</itunes:duration>
+    </item>
+    <item>
+      <title>A Shell-Less Snail Tale</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6o77L9DICJ9XOxtfXymjZ0?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Slugs vs. snails: is there any advantage to sliming along shell-free? Biologist Robert Cowie has been on the snail trail for decades and fills us in on slug life. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6o77L9DICJ9XOxtfXymjZ0</guid>
+      <pubDate>Thu, 27 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>145</itunes:duration>
+    </item>
+    <item>
+      <title>Stamps: Who Picks What Sticks?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0NKTq3iHjc1lKY3aw2PvWf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How do U.S. postage stamps come to be? ELT explores the secret world of the Citizens’ Stamp Advisory Committee, the group that decides what gets stuck on America’s envelopes. Jessica, a former member, dishes the dirt. More on stamps here. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0NKTq3iHjc1lKY3aw2PvWf</guid>
+      <pubDate>Thu, 20 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>182</itunes:duration>
+    </item>
+    <item>
+      <title>Who Names Nail Polish?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1YcX1IaquKIWWOKmZM6ZlX?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How do nail polish colors get names like “Don't Pretzel My Buttons” or “Gouda Gouda Two Shoes”? ELT talks to cuticle queen Suzi Weiss-Fischmann, co-founder and brand ambassador of OPI Products Inc., and author of I’m Not Really a Waitress. For more on nail polish, try our full-length show. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1YcX1IaquKIWWOKmZM6ZlX</guid>
+      <pubDate>Thu, 13 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>142</itunes:duration>
+    </item>
+    <item>
+      <title>Do Raccoons Wash Their Food?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6yyzOJYl4Q5HsVxsnF24gq?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Listener Jace wants to know why raccoons wash their food. Raccoon expert Suzanne MacDonald tells us what’s really going on with that signature raccoon rinse. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6yyzOJYl4Q5HsVxsnF24gq</guid>
+      <pubDate>Thu, 06 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>153</itunes:duration>
+    </item>
+    <item>
+      <title>Should Your Tush Touch the Throne?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/14csewICMHkNyVZ2KzGlaa?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>When using a public restroom, should you sit on the seat? A bowlful of biologists, including stall swabber and microbiologist Jack Gilbert, weigh in on the eternal question of whether to sit or hover. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">14csewICMHkNyVZ2KzGlaa</guid>
+      <pubDate>Thu, 29 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>159</itunes:duration>
+    </item>
+    <item>
+      <title>Can Coca-Cola Clean Your Toilet Bowla?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0v4jghmVJmcJuv9cg219KS?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Cleaning your commode with cola: Handy cleaning hack or baseless cleanspiracy theory? Jolie Kerr, cleaning expert and host of Ask a Clean Person, has the dirt. And listen to Jolie tackle every little stain on our full-length cleanspiracies episode. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0v4jghmVJmcJuv9cg219KS</guid>
+      <pubDate>Thu, 22 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>88</itunes:duration>
+    </item>
+    <item>
+      <title>Why Do We Cry?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6ll6WKnRq8xh0ah9oLzlaK?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Is there a good reason to let the teardrops roll? Ad Vingerhoets, crying researcher and clinical psychologist, has a theory about why we cry. For more on why we well up, try our full-length show. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6ll6WKnRq8xh0ah9oLzlaK</guid>
+      <pubDate>Thu, 15 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>125</itunes:duration>
+    </item>
+    <item>
+      <title>How Jigsaw Puzzles Are Made</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0IuVi8G0qyQWQjs06qKQQn?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>ELT goes inside a jigsaw puzzle factory to see how puzzles are produced. Thomas Kaeppeler, President of Ravensburger North America, puts the pieces together. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0IuVi8G0qyQWQjs06qKQQn</guid>
+      <pubDate>Thu, 08 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>130</itunes:duration>
+    </item>
+    <item>
+      <title>What’s the Best Seat on the Plane?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/49XlqqiMyVqa9JqRf84vwP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>When turbulence hits, which seat has the smoothest ride? Captain Nick Anderson, retired Virgin Atlantic airline pilot and Airline Pilot Guy Show co-host, fills us in. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">49XlqqiMyVqa9JqRf84vwP</guid>
+      <pubDate>Thu, 01 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>109</itunes:duration>
+    </item>
+    <item>
+      <title>Why Do Cold Days Make Your Nose Run?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5dDulk2cRuYUeu3BVWNHEa?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Why does winter weather turn on your nose faucet? Rhinologist Simon Gane explains why noses start running when the temperature drops. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5dDulk2cRuYUeu3BVWNHEa</guid>
+      <pubDate>Thu, 25 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>110</itunes:duration>
+    </item>
+    <item>
+      <title>How a Hollywood Prop Master Fakes Family Photos</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/53vODMoxTkdGhCtOIlSBaC?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How do they make the childhood photos that show up in movies and TV shows? Prop master Lynda Reiss dishes on the origin of the faux family photos you see on screen. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">53vODMoxTkdGhCtOIlSBaC</guid>
+      <pubDate>Thu, 18 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>193</itunes:duration>
+    </item>
+    <item>
+      <title>How Popcorn Popped Up in Theaters</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3ADmXrIPlzQJaTOE1W9kkw?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A movie isn’t a movie without the popcorn. But how did those buttery kernels make it to theaters in the first place? Gale Martin, director of the Wyandot Popcorn Museum, cracks the case. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3ADmXrIPlzQJaTOE1W9kkw</guid>
+      <pubDate>Thu, 11 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>151</itunes:duration>
+    </item>
+    <item>
+      <title>Knockout Sounds: Making a Hollywood Punch Land</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/763pzI5KPevELa7Tbhs9ru?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Why do Hollywood wallops sound so punched up? Foley artist and Emmy Award-winning sound editor Joanna Fang shares her punch recipe. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">763pzI5KPevELa7Tbhs9ru</guid>
+      <pubDate>Thu, 04 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>162</itunes:duration>
+    </item>
+    <item>
+      <title>Do FBI Agents Connect the Dots with String?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3zlFklZxwDZKCHF2YyzWW0?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Do real-life detectives solve crimes using thumb tacks and red string? Or is this just another Hollywood yarn? Retired FBI agent Jerri Williams solves the evidence-board mystery. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3zlFklZxwDZKCHF2YyzWW0</guid>
+      <pubDate>Thu, 25 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>183</itunes:duration>
+    </item>
+    <item>
+      <title>Stealing the Mona Lisa of Plants</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1jlQ8JAUTFeGQ4bBj3OFCt?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Listener Carl wants to know: Why would someone lift a water lily from a botanical garden in London? Nick Johnson, horticultural manager of Queen Elizabeth II Botanic Park, Grand Cayman, dishes the dirt on a rare plant heist. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1jlQ8JAUTFeGQ4bBj3OFCt</guid>
+      <pubDate>Thu, 18 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>156</itunes:duration>
+    </item>
+    <item>
+      <title>Can You Freeze-Clean Your Pants?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5Me33Y2WnJEJ6RtCF3XX83?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Should you swap out your front loader for a deep freezer? Cleaning expert Jolie Kerr has answers. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5Me33Y2WnJEJ6RtCF3XX83</guid>
+      <pubDate>Thu, 11 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>166</itunes:duration>
+    </item>
+    <item>
+      <title>How to Build an Underwater Tunnel</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3yZEw6kMoJOLILLRSicNxp?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Have you ever driven through an underwater tunnel and wondered ... how did this tunnel get here? Civil engineer Gary Brierley — aka Dr. Mole — explains. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3yZEw6kMoJOLILLRSicNxp</guid>
+      <pubDate>Thu, 04 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>142</itunes:duration>
+    </item>
+    <item>
+      <title>Do Cats Only Meow at Humans?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/26VVjdxVuLaHCO9Hp6shlM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Could Fluffy’s classic catchphrase be for our ears only? Jackson Galaxy, cat behavior expert and host of the TV show “My Cat From Hell,” translates some tabby talk. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">26VVjdxVuLaHCO9Hp6shlM</guid>
+      <pubDate>Thu, 28 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>145</itunes:duration>
+    </item>
+    <item>
+      <title>Can Ambulances Change Traffic Lights?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3SlsyX6oQ9B7kkXumfF55q?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How do-whee-oo-whee-oo they do it? Utah ambulance driver Josh spills the EMTea. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3SlsyX6oQ9B7kkXumfF55q</guid>
+      <pubDate>Thu, 21 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>128</itunes:duration>
+    </item>
+    <item>
+      <title>Do I Need to Warm Up My Car?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/14rldKQDzoYB6qEiQlqVUg?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In cold weather, should you let your car heat up before taking it for a spin? Auto experts weigh in. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">14rldKQDzoYB6qEiQlqVUg</guid>
+      <pubDate>Thu, 14 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>93</itunes:duration>
+    </item>
+    <item>
+      <title>What’s It Like to Hibernate?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2AD2hsB3OeV3UHcTQds33A?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>What do bears do when they hibernate? Sean Farley, a bear researcher at the Alaska Department of Fish and Game, tells ELT what bears are up to during their winter downtime. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2AD2hsB3OeV3UHcTQds33A</guid>
+      <pubDate>Thu, 07 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>141</itunes:duration>
+    </item>
+    <item>
+      <title>What is a “Nog”?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2e3UbJMkFy51GDctnDotCQ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Chef and food writer J. Kenji López-Alt explains how eggnog got its name. You can find his eggnog recipe here. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2e3UbJMkFy51GDctnDotCQ</guid>
+      <pubDate>Thu, 03 Dec 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>124</itunes:duration>
+    </item>
+    <item>
+      <title>Do Dogs Have Belly Buttons?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4AB3czkhcHJlwehoLue0SK?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Have you ever given your dog a belly rub and wondered … where’s the b-button? Veterinarian Justine Lee is here with answers. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4AB3czkhcHJlwehoLue0SK</guid>
+      <pubDate>Thu, 12 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>110</itunes:duration>
+    </item>
+    <item>
+      <title>How To Shake an Earworm</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4XbYM7Cp43xI4hDz5grA2j?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Why do some songs get stuck in our heads? And is there a way to unstick them? An earworm expert fills us in. Guest: Elizabeth Margulis, cognitive scientist and musicologist. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4XbYM7Cp43xI4hDz5grA2j</guid>
+      <pubDate>Thu, 22 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>154</itunes:duration>
+    </item>
+  </channel>
+</rss>
+

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Flameout</title>
+    <link>https://api.spotify.com/v1/shows/5iCxSo2etowcaovHXtjjjb</link>
+    <description>Flameout unravels four of the biggest business downfalls, spotlighting the unhinged leaders responsible for each company’s decline. Each story features insider interviews and juicy revelations — and is told by pairs of your favorite comedians, who offer their hilariously unfiltered takes on these epic flameouts. Produced by Spotify Studios and Treefort Media.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://i.scdn.co/image/ab6765630000ba8a68029c278daca48640877b57</url>
+      <title>Flameout</title>
+      <link>https://api.spotify.com/v1/shows/5iCxSo2etowcaovHXtjjjb</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Apr 2022 07:52:22 +0000</lastBuildDate>
+    <item>
+      <title>Introducing: The Sketch Factor</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2FJFV6fA701eaQnhNpO17f?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Looking for another great Spotify original comedy series? Nosy Neighbors hosts Chinedu Unaka and Candice Thompson are back to share an episode of The Sketch Factor, hosted by Fred Armisen. Follow and listen for free only on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2FJFV6fA701eaQnhNpO17f</guid>
+      <pubDate>Wed, 05 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>583</itunes:duration>
+    </item>
+    <item>
+      <title>Martin Shkreli | Pt. 1: Pharma Bro No No No</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3XtfblzG6co6nmQmHuecIm?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How did “Pharma Bro” Martin Shkreli go from unknown hedge funder to “most hated man in America”? Comedians Alison Becker and Baron Vaughn tackle the price-hiking media troll’s rise and hear from Shkreli’s recently revealed journalist-turned-lover. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3XtfblzG6co6nmQmHuecIm</guid>
+      <pubDate>Wed, 21 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2632</itunes:duration>
+    </item>
+    <item>
+      <title>Martin Shkreli | Pt. 2: They See Me Trollin'</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/491XzFKqxLDC8NsNQdtaNq?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>What’s Martin Shkreli doing in prison besides getting fire nicknames and claiming he can find the cure to the Coronavirus? Comedians Alison Becker and Baron Vaughn dig through Shkreli’s recent headlines and what the future holds for Shkreli - love?! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">491XzFKqxLDC8NsNQdtaNq</guid>
+      <pubDate>Wed, 21 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2551</itunes:duration>
+    </item>
+    <item>
+      <title>American Apparel | Pt. 1: Rub-a-Dov-Dov</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3oDF5bQp0la02QAZiscMcp?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How did American Apparel go from trend-setting fashion darling to a bankrupt poster child of the #MeToo movement? Comedians Joel Kim Booster and Atsuko Okatsuka unravel the brand’s marketing “genius” and the creepy CEO behind it all, Dov Charney. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3oDF5bQp0la02QAZiscMcp</guid>
+      <pubDate>Wed, 14 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2419</itunes:duration>
+    </item>
+    <item>
+      <title>American Apparel | Pt. 2: When Dov Cries</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2FSCruYTI2MUYhyWM1ND6E?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How did it all unfold for American Apparel and Dov leaving him with nothing but the shirt on his back and a pile of lawsuits? Comedians Joel Kim Booster and Atsuko Okatsuka also reveal the current dangerous headlines Dov’s making with his new brand. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2FSCruYTI2MUYhyWM1ND6E</guid>
+      <pubDate>Wed, 14 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2521</itunes:duration>
+    </item>
+    <item>
+      <title>Victoria Secret | Pt. 1: Sex Lies and Victorias</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5uLnLpBPJ4EVdNYxLde7de?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How did Victoria’s Secret sell “sexy” while also creating a culture of misogyny and harassment? Comedians and Nosy Neighbors’ hosts Candice Thompson and Chinedu Unaka reveal how the once beloved brand and its iconic “Angels” have fallen from grace. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5uLnLpBPJ4EVdNYxLde7de</guid>
+      <pubDate>Wed, 07 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2560</itunes:duration>
+    </item>
+    <item>
+      <title>Victoria Secret | Pt. 2: Can't Bring Sexy Back</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2oR6RP6V7gyBIg1NOTFQoZ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How did Victoria’s Secret change our culture and then become so unsexy as a brand? Comedians and Nosy Neighbors’ hosts Candice Thompson and Chinedu Unaka uncover the company’s current decline amidst recent toxic revelations. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2oR6RP6V7gyBIg1NOTFQoZ</guid>
+      <pubDate>Wed, 07 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>3273</itunes:duration>
+    </item>
+    <item>
+      <title>Crossfit | Pt. 1: You Call That a Snatch?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7o5NYWmt9wtgBMSvjX3aPV?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How did Crossfit go from one of the hottest fitness trends and brands to a sweaty mess on its last legs? Comedians Michael Ian Black and Abbi Crutchfield delve into how the controversial founder made Crossfit a cultish community of devoted gym nuts. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7o5NYWmt9wtgBMSvjX3aPV</guid>
+      <pubDate>Wed, 31 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2835</itunes:duration>
+    </item>
+    <item>
+      <title>Crossfit | Pt. 2: From WOD to WAP</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0GAcS37vzE9RPMeYWT6ONC?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How has Crossfit been huffing and puffing its way into really awful headlines and a shaky future? Comedians Michael Ian Black and Abbi Crutchfield break down the brand’s fallout leading to new leadership and new world order no-thanks to COVID-19. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0GAcS37vzE9RPMeYWT6ONC</guid>
+      <pubDate>Wed, 31 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2776</itunes:duration>
+    </item>
+    <item>
+      <title>This is... Flameout!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/19xwc1LK7A9jRAXKriPvV0?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Flameout pairs your favorite comedians to unravel the biggest business success stories gone oh-so-wrong. Featuring insider interviews, juicy revelations and hilariously unfiltered takes. Follow Flameout and listen for free, only on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">19xwc1LK7A9jRAXKriPvV0</guid>
+      <pubDate>Wed, 24 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>114</itunes:duration>
+    </item>
+  </channel>
+</rss>
+

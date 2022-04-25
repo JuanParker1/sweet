@@ -1,0 +1,977 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Mythical Monsters </title>
+    <link>https://api.spotify.com/v1/shows/5viQDUDBZ4tsPFlAwnn1v0</link>
+    <description>The great heroes of myth are known throughout the world. Their deeds are legendary. But what would these champions be without obstacles in their path? Without monsters to challenge them… Dragons, sea serpents, giants, demons...they aren't merely foils to the hero. They are primal symbols reflecting ancient truths. Mythical Monsters tells the stories of these beasts and asks what they represent to mankind. New episodes released every Monday. Mythical Monsters is a Spotify Original from Parcast.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://i.scdn.co/image/ab6765630000ba8a33d793132a990df98e4f072b</url>
+      <title>Mythical Monsters </title>
+      <link>https://api.spotify.com/v1/shows/5viQDUDBZ4tsPFlAwnn1v0</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Apr 2022 07:40:00 +0000</lastBuildDate>
+    <item>
+      <title>Bats: Vetala</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2xlSDq1Jf7RJmU2TWnxMGQ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The vetala is a winged corpse, a necromancer, and in today’s story... a stowaway. Lieutenant Lambton has just arrived home to England, and his daughter Viola couldn’t be more excited to reunite — until she realizes her father’s brought something back with him.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2xlSDq1Jf7RJmU2TWnxMGQ</guid>
+      <pubDate>Sun, 17 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1963</itunes:duration>
+    </item>
+    <item>
+      <title>Bats: Minyades</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5WIL9ObChu8r4qIU9viINv?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In a cautionary tale from ancient Greece, a weaver declines to join the wine-soaked revelry of the Bacchanalia… and gets a surprise visit from the daughters of King Minyas.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5WIL9ObChu8r4qIU9viINv</guid>
+      <pubDate>Sun, 10 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1627</itunes:duration>
+    </item>
+    <item>
+      <title>Bats: Balayang</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4CYpjHfO1gzPUh6Fv3zPIL?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From Aboriginal Australia, Balayang is a powerful bat deity who exists outside of linear time. But that doesn’t make him invincible… Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4CYpjHfO1gzPUh6Fv3zPIL</guid>
+      <pubDate>Sun, 03 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1772</itunes:duration>
+    </item>
+    <item>
+      <title>Hard-Drinking Horrors: Bahkauv</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5ZN1xtyQDwS2SAi1Uy1zIx?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Lurking in the sewers of a German town, the Bahkauv is a hybrid monster that’s lured out by loud noises and the smell of alcohol. So revelers, beware. If you make a ruckus on your way home from a night out, you could lose your wallet… or your life.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5ZN1xtyQDwS2SAi1Uy1zIx</guid>
+      <pubDate>Sun, 27 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1993</itunes:duration>
+    </item>
+    <item>
+      <title>Hard-Drinking Horrors: Green Fairy</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2GOzWJmkGZKiXhAq1Y2szN?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In turn-of-the-century France, an artist’s muse meets the beguiling Green Fairy after tasting absinthe for the first time. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2GOzWJmkGZKiXhAq1Y2szN</guid>
+      <pubDate>Sun, 20 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1988</itunes:duration>
+    </item>
+    <item>
+      <title>Hard-Drinking Horrors: Clurichaun</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2SjfXU8JZDFaJP9TFgOx2r?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Lurking in the cellars of Ireland’s noble families, the clurichaun is a red-clothed, ruddy-cheeked terror. He offers his services in exchange for wine. But when the stores run dry, misfortune follows.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2SjfXU8JZDFaJP9TFgOx2r</guid>
+      <pubDate>Sun, 13 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2150</itunes:duration>
+    </item>
+    <item>
+      <title>Hard-Drinking Horrors: Silenus</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4kb6YdxCebAnjMW8grFqnZ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In Greek mythology, Silenus is the adoptive father of Dionysus – the god of wine. And despite having a taste for the drink himself, Silenus’s mind is keen and cunning. Which makes it all the harder for King Midas to use him as a pawn in his schemes.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4kb6YdxCebAnjMW8grFqnZ</guid>
+      <pubDate>Sun, 06 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1980</itunes:duration>
+    </item>
+    <item>
+      <title>Monsters of Seduction: Deer Woman</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4lvijOScjzaKCpcUxLVy08?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Appearing in Indigenous stories all across America, the Deer Woman is a beautiful stranger who keeps your eyes on her at every moment. Even when she’s about to kill you. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4lvijOScjzaKCpcUxLVy08</guid>
+      <pubDate>Sun, 27 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1759</itunes:duration>
+    </item>
+    <item>
+      <title>Monsters of Seduction: Leanan Sídhe</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2r2aTH5QTfoTlTI8S7WvVh?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In Ireland, a supernatural muse appears to artists of great talent, promising to be a wellspring of new ideas. But her help comes with a catch. She won’t just earn your devotion. She’ll feed on it.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2r2aTH5QTfoTlTI8S7WvVh</guid>
+      <pubDate>Sun, 20 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2026</itunes:duration>
+    </item>
+    <item>
+      <title>Monsters of Seduction: Trauco &amp; Fiura</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1GwQVOOkdYt6FMkL0zBRrX?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>On an island off the coast of Chile, in the darkest part of the rainforest, lives a troll named Trauco and his wife Fiura. You don’t want to meet them… But if you hear three knocks in the woods, it’s already too late.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1GwQVOOkdYt6FMkL0zBRrX</guid>
+      <pubDate>Sun, 13 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2090</itunes:duration>
+    </item>
+    <item>
+      <title>Monsters of Seduction: Boto Encantado</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4RM0E2ekm0v1X0Hho0eFak?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Lurking in the depths of the Amazon river, the Boto Encantado is a smooth-talking shapeshifter. He sheds his dolphin form to emerge onto land, with a proposition for you. And you won’t want to say no…  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4RM0E2ekm0v1X0Hho0eFak</guid>
+      <pubDate>Sun, 06 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2090</itunes:duration>
+    </item>
+    <item>
+      <title>Victorian Monsters: Frankenstein's Monster</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6FuTMC4yTvWGmfvFjBeQeB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>After Kytgy races into the polar night, she comes face to face with an undead monster and the doctor who created it. The encounter leaves her shaken, but more determined than ever to get back what was taken from her.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6FuTMC4yTvWGmfvFjBeQeB</guid>
+      <pubDate>Sun, 30 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1892</itunes:duration>
+    </item>
+    <item>
+      <title>Ghost Stories: The Raven</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7BYBLuioZwqikhATJjHbBf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In our fourth and final adaptation of Edgar Allan Poe’s most macabre tales, a midnight visitor interrupts the silent, mournful reveries of a grieving widower. From Haunted Places: Ghost Stories, a Spotify Original from Parcast. New heart-racing stories every Thursday. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7BYBLuioZwqikhATJjHbBf</guid>
+      <pubDate>Wed, 26 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1763</itunes:duration>
+    </item>
+    <item>
+      <title>Ghost Stories: The Masque of the Red Death</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4owM9QTRmiRjnqiBXwHgMA?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Can you ever escape a plague? When a privileged soon-to-be doctor seeks shelter from a deadly disease, he learns no place is safe from the terror of death. This is the third episode in our Edgar Allan Poe takeover, originally airing on Haunted Places: Ghost Stories, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4owM9QTRmiRjnqiBXwHgMA</guid>
+      <pubDate>Tue, 25 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1924</itunes:duration>
+    </item>
+    <item>
+      <title>Ghost Stories: The Tell-Tale Heart</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3BK1yzmt440EUlpig2VcFT?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Continuing our Edgar Allan Poe takeover, this is The Tell-Tale Heart. Caring for the ailing and eldery has taken its toll on Philip Langdon. He insists on his sanity, but proof of his deteriorating mental health lies pulsing beneath the surface. From Haunted Places: Ghost Stories, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3BK1yzmt440EUlpig2VcFT</guid>
+      <pubDate>Mon, 24 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1740</itunes:duration>
+    </item>
+    <item>
+      <title>Ghost Stories: The Fall of the House of Usher</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5AmwvyaaZHbdYLNI7ZKfQR?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This week we’re celebrating the genius of Edgar Allan Poe with four chilling tales, starting with The Fall of the House of Usher. Sickly and desperate, Roderick Usher calls upon a childhood friend to join him in his ancestral home. There, the weight of the Usher family’s wicked legacy threatens to overwhelm them both. This episode first aired on Haunted Places: Ghost Stories, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5AmwvyaaZHbdYLNI7ZKfQR</guid>
+      <pubDate>Sun, 23 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2199</itunes:duration>
+    </item>
+    <item>
+      <title>Victorian Monsters: Mr. Hyde</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0W4igruquxvqopMGBmYE5H?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Agnes Carew loved her fiancé. The refined doctor Henry Jekyll was everything she wanted in a husband. But she had no idea what — or who — was hiding within him.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0W4igruquxvqopMGBmYE5H</guid>
+      <pubDate>Sun, 16 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2146</itunes:duration>
+    </item>
+    <item>
+      <title>Victorian Monsters: The Beetle</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6WvvM6u3E8hvES5emh83ci?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In this retelling of Richard Marsh’s “The Beetle,” a downtrodden man and a great politician struggle against the mesmeric grip of a supernatural shapeshifter.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6WvvM6u3E8hvES5emh83ci</guid>
+      <pubDate>Sun, 09 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2047</itunes:duration>
+    </item>
+    <item>
+      <title>Victorian Monsters: The Mummy </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6hVW5a5w984PmCSYc9zqQJ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ancient, vengeful, powerful… and free. What happens when the corpse of an Egyptian queen is reanimated in London? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6hVW5a5w984PmCSYc9zqQJ</guid>
+      <pubDate>Sun, 02 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2178</itunes:duration>
+    </item>
+    <item>
+      <title>Best of 2021: At the Seance</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3khKTZvUalGDWt7ZzGMo4I?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>As we look ahead to the new year, we want to take one last chance to say thank you for the year that was — and present our "Best of 2021"! Please enjoy this episode from Mediums, one of our favorite new shows of this year, where we take you straight into the heart of a 19th-century seance. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3khKTZvUalGDWt7ZzGMo4I</guid>
+      <pubDate>Mon, 27 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2282</itunes:duration>
+    </item>
+    <item>
+      <title>The Lost Nativity: An Apocryphal Christmas Tale</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3q0PrU3OE9lnukSMuJEKPt?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Dark, sweeping, and brimming with cosmic significance — this is the nativity story as you’ve never heard it before. Join us for a pulse-pounding tale sourced from ancient texts and apocryphal gospels, featuring scenes that didn’t quite make it into the Bible. This is a storytelling special from Parcast Network, hosted by Vanessa Richardson and Alastair Murden. Coming up: A prophecy unfolds, and a child — unlike any other — is born…  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3q0PrU3OE9lnukSMuJEKPt</guid>
+      <pubDate>Mon, 20 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>3842</itunes:duration>
+    </item>
+    <item>
+      <title>Orochi the Dragon</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6dmdb4m0ezobrhPCXn7l13?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>An eight-headed dragon named Yamata-No-Orochi becomes obsessed with devouring a young farmer. She meets a powerful ally just in time, but making a deal with the god of chaos is going to cost her…  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6dmdb4m0ezobrhPCXn7l13</guid>
+      <pubDate>Sun, 12 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2209</itunes:duration>
+    </item>
+    <item>
+      <title>Monsters of Disease: Loviatar and Her Children</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7r2nC7t9sy1eeysQSmK12Q?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Loviatar is a goddess and reigning queen of the icy, dark Finnish north. But she's also a mother to nine disease-carrying children. And she has no qualms about sending them away from the nest to wreak havoc on humanity. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7r2nC7t9sy1eeysQSmK12Q</guid>
+      <pubDate>Sun, 05 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2118</itunes:duration>
+    </item>
+    <item>
+      <title>Monsters of Disease: Poreskoro</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7dtcWYJS4fd6N1HzFkaLmR?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Poreskoro is a Romani demon with command over the worst diseases known to man: cholera, smallpox, and the plague. It has four dog heads, four cat heads, the body of a bird, and a snake for a tail. It's so gross that even its father, the King of the Demons, is disgusted by it. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7dtcWYJS4fd6N1HzFkaLmR</guid>
+      <pubDate>Sun, 28 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2087</itunes:duration>
+    </item>
+    <item>
+      <title>Superstitions: Wishbone</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5Er1r11LrlJLsBQdVOTsZg?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Everything can change in a snap. In this Thanksgiving special from Superstitions, a Spotify Original from Parcast, breaking the wishbone can change your luck and your life… in wonderful and terrible ways. Search and follow Superstitions for more episodes like this one, diving into eerie codes of conduct that can sway the fates. New episodes Wednesdays! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5Er1r11LrlJLsBQdVOTsZg</guid>
+      <pubDate>Mon, 22 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2518</itunes:duration>
+    </item>
+    <item>
+      <title>Monsters of Disease: Jwara</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1z7s4yF75eBMaJQQc6oppx?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Jwara is the lord of all diseases. Part Ayurvedic medical concept and part Hindu god, he’s a shapeshifting figure that causes a mysterious fever that has no cure.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1z7s4yF75eBMaJQQc6oppx</guid>
+      <pubDate>Sun, 14 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2492</itunes:duration>
+    </item>
+    <item>
+      <title>Monsters of Disease: Sopona</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7yCBYoitbJb1YcpzapzGE9?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Sopona is one of the most powerful gods of the Yoruba religion. He's the god of the earth, in charge of blessing the crops and grains. But if you anger him, he'll clap back in a fearsome way, infecting your body with a deadly rash — a disease known today as smallpox. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7yCBYoitbJb1YcpzapzGE9</guid>
+      <pubDate>Sun, 07 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2341</itunes:duration>
+    </item>
+    <item>
+      <title>Nightmare Creatures: Mara</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3SHZpo0DF4KP8FrkhKAFEA?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Deep in the forests of Germany and Britain lies a creature seemingly made of darkness. It will render you immobile in sleep, then crush your lungs so you can't breathe. This is the Mara, and she's the origin of the word “nightmare.”  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3SHZpo0DF4KP8FrkhKAFEA</guid>
+      <pubDate>Sun, 31 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2204</itunes:duration>
+    </item>
+    <item>
+      <title>Nightmare Creatures: Manananggal</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1eLGg2xmI0G38lFVNRmos2?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A beautiful woman transforms at nightfall, sprouting bat wings and severing the lower half of her body. Dragging her entrails, she goes in search of the one thing that will sate her appetite: fetuses. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1eLGg2xmI0G38lFVNRmos2</guid>
+      <pubDate>Sun, 24 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1891</itunes:duration>
+    </item>
+    <item>
+      <title>Nightmare Creatures: Camazotz</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0piMAUGOU5z0Fo7hH0SIX1?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A fearsome bat god of the K’iche’ Mayans, the Camazotz is at home in both the underworld and the apocalypse. And it specializes in slicing heads. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0piMAUGOU5z0Fo7hH0SIX1</guid>
+      <pubDate>Sun, 17 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1896</itunes:duration>
+    </item>
+    <item>
+      <title>Nightmare Creatures: Soucouyant</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1ZN5yjR8xkBW19D50S3Qkv?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the Caribbean, a blood-sucking fireball has an insatiable hunger, a terrible grudge, and a secret that will divide a family… Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1ZN5yjR8xkBW19D50S3Qkv</guid>
+      <pubDate>Sun, 10 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2404</itunes:duration>
+    </item>
+    <item>
+      <title>Nightmare Creatures: Mares of Diomedes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4h4O26iIOQEutIKkYRPrWr?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The monsters of Hercules’ eighth Labor put the ‘mare’ in ‘nightmare’ — they may look like ordinary horses, but these creatures are supernaturally strong, with an insatiable taste for human flesh.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4h4O26iIOQEutIKkYRPrWr</guid>
+      <pubDate>Sun, 03 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2129</itunes:duration>
+    </item>
+    <item>
+      <title>Hercules’ Labors: Cretan Bull</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/488lzq4urqBhftoPOMrzYM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Hercules heads south to meet the Minoans. You might know them from the stories of Icarus, Daedalus, Theseus, and the Minotaur. But there was another fearsome beast that started it all... with plenty of blood, gore, and savage hatred. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">488lzq4urqBhftoPOMrzYM</guid>
+      <pubDate>Sun, 26 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2015</itunes:duration>
+    </item>
+    <item>
+      <title>Hercules’ Labors: Stymphalian Birds</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/51gQ2WSPYului95zXBbTZM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>On the surface, hunting the Stymphalian Birds seems right in Hercules' wheelhouse: it should be a simple point and shoot. Unfortunately, things start to look a little more complicated once our hero gets to Lake Stymphalia... Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">51gQ2WSPYului95zXBbTZM</guid>
+      <pubDate>Sun, 19 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1831</itunes:duration>
+    </item>
+    <item>
+      <title>Hercules’ Labors: Ceryneian Hind</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7temLHYxx9XmhwR2M8wxKI?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The chase is on when Hercules is tasked with capturing the fastest creature in the world — a deer that can outrun the goddess of the hunt herself, Artemis. But the real challenge may come later, when Hercules must outwit a king…  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7temLHYxx9XmhwR2M8wxKI</guid>
+      <pubDate>Sun, 12 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1983</itunes:duration>
+    </item>
+    <item>
+      <title>Hercules’ Labors: Hydra</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/05pDPMMdEBpdl6Xbe1TKmt?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>An epic hero. An unusually terrifying monster. If Hercules is going to survive, his greatest weakness will need to become his greatest strength. Join us over the next four weeks as we look at the monsters of the Twelve Labors of Hercules, and the legendary showdowns that were his penance for a terrible crime.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">05pDPMMdEBpdl6Xbe1TKmt</guid>
+      <pubDate>Sun, 05 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2206</itunes:duration>
+    </item>
+    <item>
+      <title>Monsters of Revenge: Oiwa</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7eWDePrCt2DfetI3O0Nqb9?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The disfigured, betrayed bride known as Oiwa is one of Japan’s most legendary spirits. Her hideous appearance and thirst for revenge are scary enough, but what’s even more terrifying is her ability to warp her victims’ entire sense of reality. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7eWDePrCt2DfetI3O0Nqb9</guid>
+      <pubDate>Sun, 29 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2292</itunes:duration>
+    </item>
+    <item>
+      <title>Monsters of Revenge: Tupilaq</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2oLO1cxJvcyKRJ4WTc1BAJ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Stalking the waters and villages of the Greenlandic Inuit, the Tupilaq is a horrific creature made up of parts from many dead animals. It’s conjured by a shaman for revenge… but all bets are off once the Tupilaq begins to think for itself. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2oLO1cxJvcyKRJ4WTc1BAJ</guid>
+      <pubDate>Sun, 22 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1788</itunes:duration>
+    </item>
+    <item>
+      <title>Monsters of Revenge: The Erinyes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3Ezs3XWN1aCo132RbP3eTY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Erinyes are some of Greek mythology’s most menacing figures. Though the three winged sisters make their home in Hades torturing wicked souls, they will also rise up to the human world if it means they can drink the blood of those who break the moral laws of society. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3Ezs3XWN1aCo132RbP3eTY</guid>
+      <pubDate>Sun, 15 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2158</itunes:duration>
+    </item>
+    <item>
+      <title>Monsters of Revenge: Kanontsistóntie</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0Rh3z7iXmwrYCFJB7Cgm4B?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Kanontsistóntie is a flying, blood-thirsty head that terrorized Native American and First Nation clans across the U.S. and Canada. It’s bound to stalk and devour anyone who sees it… and it’ll take one young woman’s cleverness and patience to defeat it. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0Rh3z7iXmwrYCFJB7Cgm4B</guid>
+      <pubDate>Sun, 08 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2077</itunes:duration>
+    </item>
+    <item>
+      <title>Monsters of Revenge: The Pontianak</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3Ur6V8nvN0jvTt1iqEZo5K?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From Southeast Asia comes the legend of the Pontianak. Once an innocent victim, she’s now a vampiric monster who pursues men and pregnant women to avenge her unfair death… Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3Ur6V8nvN0jvTt1iqEZo5K</guid>
+      <pubDate>Sun, 01 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2006</itunes:duration>
+    </item>
+    <item>
+      <title>American Monsters: Dark Watchers</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0pI7cmABugYM25DsmiqssJ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>First observed by Spanish colonizers in the 16th century, the Dark Watchers reside high up in California’s Santa Lucia Mountains. But these phantom figures do far more than just watch… Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0pI7cmABugYM25DsmiqssJ</guid>
+      <pubDate>Sun, 25 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2070</itunes:duration>
+    </item>
+    <item>
+      <title>American Monsters: Flathead Lake Monster</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7pamQB6FF2smku6lBYxQGd?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It has a home covering nearly 200 square miles in Big Sky Country. This slithering, serpentine water-beast is Montana's Flathead Lake Monster and you better hope you see it before it sees you. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7pamQB6FF2smku6lBYxQGd</guid>
+      <pubDate>Sun, 18 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1992</itunes:duration>
+    </item>
+    <item>
+      <title>American Monsters: Mothman</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/07x1SJHuB0udXFESyBETcu?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From the dregs of war-loving humanity’s industrial waste comes the terrifying winged Mothman, who’s a warning of danger to come... and also the danger itself. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">07x1SJHuB0udXFESyBETcu</guid>
+      <pubDate>Sun, 11 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1894</itunes:duration>
+    </item>
+    <item>
+      <title>American Monsters: Skunk Ape</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3ukWfGF8lfc7gPD5R1VIco?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The red-haired skunk ape stalks the Florida Everglades, and it’ll do anything to protect its territory against nosy humans and their cameras. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3ukWfGF8lfc7gPD5R1VIco</guid>
+      <pubDate>Sun, 04 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2065</itunes:duration>
+    </item>
+    <item>
+      <title>Grendel</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2Egoep74SWdV1oW7EigaVA?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Grendel is the fearsome villain from the classic “Beowulf,” but this beast started out as a protector of nature. He only went bad to fight a terrifying threat to nature: humankind. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2Egoep74SWdV1oW7EigaVA</guid>
+      <pubDate>Sun, 27 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2160</itunes:duration>
+    </item>
+    <item>
+      <title>Solstice Special: Scorpion Men</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6Vh3r3Ut2ZOqeZUUJSLIlm?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Stinging tails. Fatal venom. The Scorpion Men from Babylonian mythology are ruthless guards of the underworld. But they were created by a powerful goddess for a noble purpose: to avenge a murder, and seek out justice. For more celestial stories, keep listening across Parcast Network for episodes on the Zodiac signs, constellations and more!  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6Vh3r3Ut2ZOqeZUUJSLIlm</guid>
+      <pubDate>Sun, 20 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2787</itunes:duration>
+    </item>
+    <item>
+      <title>Hecatoncheires</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/60mZHDWdecgk6ZBIQ3zaVF?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>With their fifty heads and one hundred arms, the giant Hecatoncheires terrorize ancient Greece as they rise from their undersea prison to wreak havoc. It’s up to one scared young man to find his bravery and stop the devastation. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">60mZHDWdecgk6ZBIQ3zaVF</guid>
+      <pubDate>Sun, 13 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2522</itunes:duration>
+    </item>
+    <item>
+      <title>Sphinx</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6UqLdtRlVqzjzny0BX5QbF?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The winged, feminine, and very feline Sphinx terrorizes ancient Greece with her sharp claws and unsolvable riddles. But all that changes when the Sphinx meets a young man named Oedipus… Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6UqLdtRlVqzjzny0BX5QbF</guid>
+      <pubDate>Sun, 06 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2147</itunes:duration>
+    </item>
+    <item>
+      <title>Shojo</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/58ZwhzcPNlxHB3p89ncosA?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Shojo is a water-dwelling monkey with bright red fur and a fondness for getting drunk. The creatures are said to have created sake, and they delight in drinking it with new human friends. But if a Shojo is betrayed, the party ends… and the danger begins. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">58ZwhzcPNlxHB3p89ncosA</guid>
+      <pubDate>Sun, 30 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2233</itunes:duration>
+    </item>
+    <item>
+      <title>Yamauba</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1xTmegm0oRIVfXQvTLSxSN?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Amidst Japan’s highest peaks, a kindly woman provides weary travelers with food and shelter — if they obey her rules. If they don’t, the Yamauba reveals the demon inside of her.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1xTmegm0oRIVfXQvTLSxSN</guid>
+      <pubDate>Sun, 23 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2074</itunes:duration>
+    </item>
+    <item>
+      <title>Bagan</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1kLZECHltgUzmHb3yWotJL?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Much like Godzilla, the Bagan is an ancient dragon-like beast who erupts from the Earth to wreak havoc. Though the fire-breathing monster leaves a trail of destruction in its wake, it may actually be there to teach a lesson about balance in the natural world. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1kLZECHltgUzmHb3yWotJL</guid>
+      <pubDate>Sun, 16 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1947</itunes:duration>
+    </item>
+    <item>
+      <title>Kappa</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/07bc2FF7VolMCYXFnh40xb?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Lurking in the rivers of Japan is the kappa, a turtle-monkey hybrid who’s quite curious about human ways. The kappa’s favorite food is cucumbers, so you’d better have some on hand. Otherwise, it will want to indulge in its other favorite: human blood. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">07bc2FF7VolMCYXFnh40xb</guid>
+      <pubDate>Sun, 09 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2094</itunes:duration>
+    </item>
+    <item>
+      <title>Gashadokuro</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5em0oOvexy682iPXsv1M3M?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Japanese Gashadokuro is a giant, ravenous skeleton made of restless, angry spirits. It can be controlled for a time with the right magic, but if it gets too hungry, it can ravage an entire country. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5em0oOvexy682iPXsv1M3M</guid>
+      <pubDate>Sun, 02 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2147</itunes:duration>
+    </item>
+    <item>
+      <title>Lilith</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7366X1asm6niqyRW8MTErQ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Before Eve, there was Lilith. Adam’s first wife was a feisty, lusty woman whose defiance gets her thrown out of Eden, and whose passions put her in the Lord’s line of fire. But her power is undeniable.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7366X1asm6niqyRW8MTErQ</guid>
+      <pubDate>Sun, 25 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2360</itunes:duration>
+    </item>
+    <item>
+      <title>The Amorites</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2ur3iZFomFelpN1FmglLU4?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In biblical times, no tribe was as feared as the Amorites. Legends say they were fearsome giants with no morals — but this band of enormous shepherds had very human goals: to love, survive, and help their flock thrive.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2ur3iZFomFelpN1FmglLU4</guid>
+      <pubDate>Sun, 18 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2225</itunes:duration>
+    </item>
+    <item>
+      <title>Beasts of Revelation</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/437qlP3gbDYkhOdxZEiBvj?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Book of Revelation presents an apocalypse worthy of a Hollywood blockbuster, with rivers of fire and gigantic beasts that lay waste to the land. These creatures haunt the visions of the old prophet John, who must figure out their meaning and warn the rest of the world before it’s too late. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">437qlP3gbDYkhOdxZEiBvj</guid>
+      <pubDate>Sun, 11 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2280</itunes:duration>
+    </item>
+    <item>
+      <title>Asmodeus</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/40CmuGdzklaBUgGj4Y1Q1g?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The King of Demons stokes the flames of humanity’s lust and wrath. But when Asmodeus becomes obsessed with a young woman, killing her suitors until she agrees to marry him, a young man steps up to end his reign of terror... with a little help from an angelic guide. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">40CmuGdzklaBUgGj4Y1Q1g</guid>
+      <pubDate>Sun, 04 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2278</itunes:duration>
+    </item>
+    <item>
+      <title>Morgan Le Fay</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1ZGY015IBJWQqSgrajE9nP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Before she gained a reputation as a scheming sorceress and King Arthur’s nemesis, Morgan Le Fay was an ambitious teenager struggling to claim her power in the world of men. It takes a trip to an eerie fairy domain for Morgan to find her strength. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1ZGY015IBJWQqSgrajE9nP</guid>
+      <pubDate>Sun, 28 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2162</itunes:duration>
+    </item>
+    <item>
+      <title>Fairy Godmother</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3cU2rKVJJXQtDYRdfWkJp0?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Fairy Godmother is a classic character who solves children’s problems with sparkles, magic, and whimsy. But some children have issues that are far more disturbing than finding the perfect prince… and it takes a fairy with edge and attitude to save the day. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3cU2rKVJJXQtDYRdfWkJp0</guid>
+      <pubDate>Sun, 21 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2232</itunes:duration>
+    </item>
+    <item>
+      <title>The Tooth Fairy</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2UjHCKwR7lhWzjmzIZHtWu?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>She’s charmed her way into the hearts and piggy banks of children across America… But instead of asking how much money she’ll give them for their teeth, perhaps kids should be asking instead: Why does the Tooth Fairy need all those teeth? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2UjHCKwR7lhWzjmzIZHtWu</guid>
+      <pubDate>Sun, 14 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2047</itunes:duration>
+    </item>
+    <item>
+      <title>The Wicked Fairy</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3e7Lqi00wVoauDeKPIyM5b?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>No one likes a Wicked Fairy who crashes a christening and curses a princess, but maybe she has her reasons. Perhaps the Wicked Fairy is a mother herself, who’s only fighting for her own daughter’s future… and will do anything to prove her love. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3e7Lqi00wVoauDeKPIyM5b</guid>
+      <pubDate>Sun, 07 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2262</itunes:duration>
+    </item>
+    <item>
+      <title>Puck (Robin Goodfellow)</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6C1r25SiaGwiB6SdnKPf17?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>You may know Puck as the impish sprite from Shakespeare’s tales, but he also lurks in the English countryside and offers help to people with household chores… for a price. As one overwhelmed, newly married housewife learns, a deal with Puck may bring bad luck. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6C1r25SiaGwiB6SdnKPf17</guid>
+      <pubDate>Sun, 28 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2182</itunes:duration>
+    </item>
+    <item>
+      <title>Bái Hǔ</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1rRhtqMNeX6AgxyjRO7mZx?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Bái Hǔ is a celestial deity in ancient Chinese mythology who takes on the form of the majestic White Tiger. Those who worship Bái Hǔ can count on his blessings and protection… but those who thumb their noses at him may find themselves fleeing the claws and jaws of this ferocious beast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1rRhtqMNeX6AgxyjRO7mZx</guid>
+      <pubDate>Sun, 21 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1983</itunes:duration>
+    </item>
+    <item>
+      <title>Tatzelwurm</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3PiMom5FouqX97anjZR4hs?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>High up in the Alps lives a creature that is part-snake, part-cat, and fully terrifying. The Tatzelwurm’s venomous bite can kill a man on sight, but it’s still a target for the Alps’ bravest hunters… especially Heinrich, a wrongly imprisoned man who learns that killing the beast will earn him his freedom. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3PiMom5FouqX97anjZR4hs</guid>
+      <pubDate>Sun, 14 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2094</itunes:duration>
+    </item>
+    <item>
+      <title>Wampus Cat</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3dnxxPzwZZfZoKODnda5Cn?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Wampus Cat is a human-feline hybrid that stalks the woods of Appalachia and terrorizes young and old alike. But while legends of the Wampus have been around since the 19th century, its true origins may lie in the tale of the Ewah — a mythical Cherokee creature who is both predator and protector. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3dnxxPzwZZfZoKODnda5Cn</guid>
+      <pubDate>Sun, 07 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2215</itunes:duration>
+    </item>
+    <item>
+      <title>Bakeneko</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1BgFel9Ei5B627jk35pOYJ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From Japanese folklore, the Bakeneko is a cat with supernatural powers. Unlike its benevolent cousin, the magical Maneki Neko, Bakeneko terrorized medieval Japan — but it has also been known to avenge cruel injustice. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1BgFel9Ei5B627jk35pOYJ</guid>
+      <pubDate>Sun, 31 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2677</itunes:duration>
+    </item>
+    <item>
+      <title>Tezcatlipoca</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2d2jnW9UWwjzOPt6ZwKKeA?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Jaguar is the animal embodiment of Tezcatlipoca, the Aztec god of chaos. While the Aztecs fear and celebrate him, their Spanish conquerors brush him off as a pagan myth… until the Jaguar returns to avenge his worshippers with sharp claws and madness-inducing magic. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2d2jnW9UWwjzOPt6ZwKKeA</guid>
+      <pubDate>Sun, 24 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2795</itunes:duration>
+    </item>
+    <item>
+      <title>Frau Perchta</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5jo374GAWVArQmgKpfTYJy?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>She’s no Santa Claus: Frau Perchta is a Germanic Christmas witch who punishes lazy, unproductive people in sadistic ways. When a flax spinner named Anna spends a year mourning a loss, a visit from the Frau brings sharp clarity… and impending wrath. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5jo374GAWVArQmgKpfTYJy</guid>
+      <pubDate>Sun, 17 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2525</itunes:duration>
+    </item>
+    <item>
+      <title>Fossegrim</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/712bXsx1TW1a8xzKrjOpXA?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A Norwegian water spirit will bestow the gift of musical talent upon desperate pupils — for a price. But a barter with this bard can be treacherous: Fail to uphold your end of the deal, and pay more dearly than you ever intended. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">712bXsx1TW1a8xzKrjOpXA</guid>
+      <pubDate>Sun, 10 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2511</itunes:duration>
+    </item>
+    <item>
+      <title>Dwarf</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4yfC1fuPuMrttESNjy4fMP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A brew of blood and honey bestows knowledge upon Fjalarr and Galarr, dwarf brothers in Norse mythology who begrudge their lowly status among the gods and their creations. But enlightenment brings its own set of troubles.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4yfC1fuPuMrttESNjy4fMP</guid>
+      <pubDate>Sun, 03 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2645</itunes:duration>
+    </item>
+    <item>
+      <title>Jólakötturinn</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2eqa4ZOIpmjzHX0WEecLyK?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Jólakötturinn is the Icelandic Yule Cat, but this massive feline is anything but cuddly. He emerges from the dark mountain woods once a year to feast on lazy children… and this Christmas, a rude little girl named Margrét is on Jólakötturinn’s wish list. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2eqa4ZOIpmjzHX0WEecLyK</guid>
+      <pubDate>Sun, 13 Dec 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2436</itunes:duration>
+    </item>
+    <item>
+      <title>Huldra</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5i2y80dr1DaIjEPMHxFp9u?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the dense woodlands of Scandinavia, a beautiful maiden walks amid the pines. Her melodious song murmurs through the branches — and lures wandering men into her clutches. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5i2y80dr1DaIjEPMHxFp9u</guid>
+      <pubDate>Sun, 06 Dec 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2672</itunes:duration>
+    </item>
+    <item>
+      <title>Jörmungandr</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/12MHSnzMRSVnurElZ2vKIQ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Colossal fangs filled with venom. A body so large it encircles the world. Jörmungandr is the sea serpent middle child of Loki and Angrboda, and a Norse monster so menacing, his mere existence is a threat to humanity. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">12MHSnzMRSVnurElZ2vKIQ</guid>
+      <pubDate>Sun, 29 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2615</itunes:duration>
+    </item>
+    <item>
+      <title>Unexplained Mysteries Crossover: The Bunny Man</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2S8YpfXKhO7Azuvs34G7LM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Today we’re bringing you a special episode from another Spotify Original from Parcast. If you enjoy it, check out Unexplained Mysteries on Spotify, or wherever you listen to podcasts! Not all monsters originate from myths… The mysterious Bunny Man was said to run amok in the forests of Fairfax County, Virginia, eating live rabbits and displaying their corpses on an overpass known as Bunny Man Bridge. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2S8YpfXKhO7Azuvs34G7LM</guid>
+      <pubDate>Sun, 22 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2235</itunes:duration>
+    </item>
+    <item>
+      <title>Fenrir</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2nWlWNeqlBcFnqDhW8ESt5?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The gods of Asgard use deception and wiles to betray the fearsome Fenrir, courting their own doom even as they make the giant wolf their prisoner. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2nWlWNeqlBcFnqDhW8ESt5</guid>
+      <pubDate>Sun, 15 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2652</itunes:duration>
+    </item>
+    <item>
+      <title>Phoenix</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/31vglGTmdi2Raac12m52Sy?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Reborn again and again from ashes, with brilliant red and gold feathers and wisdom to dispense, the phoenix is a guide through the ages. And when a young apprentice spies the magnificent bird in a forbidden temple, he undergoes a reinvention of his own. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">31vglGTmdi2Raac12m52Sy</guid>
+      <pubDate>Sun, 08 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2538</itunes:duration>
+    </item>
+    <item>
+      <title>Satyr</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7iDPaY4sfdM69smExM08rL?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From ancient Greece comes a mischievous hybrid of human and animal, with a penchant for parties and wine. The satyr is often used as comedic relief in myths… but its lecherous behavior also acts as a warning against unbound inhibitions. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7iDPaY4sfdM69smExM08rL</guid>
+      <pubDate>Sun, 01 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2372</itunes:duration>
+    </item>
+    <item>
+      <title>Vampires</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2aqMWByUhTxHJh9WpdqiII?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the 1700s, a Serbian soldier encountered a bloated corpse with a hunger for human flesh, known as a Vrykolakas. But when he tried to break the creature’s power over him, he created a monster even more terrifying. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2aqMWByUhTxHJh9WpdqiII</guid>
+      <pubDate>Sun, 25 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2553</itunes:duration>
+    </item>
+    <item>
+      <title>Werewolf</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/570kWfDOS1fjFmTohYek9h?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Wolfman is more than just a Universal Monster — it’s a representation of man's capacity for evil. Today's story retells one of the original werewolf stories from Norse mythology's The Saga of the Volsungs. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">570kWfDOS1fjFmTohYek9h</guid>
+      <pubDate>Sun, 18 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2542</itunes:duration>
+    </item>
+    <item>
+      <title>Cerberus</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2guNURZywAM77J0uJg7TG4?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>When the demi-god Heracles is tasked with defeating the three-headed guard dog of Hades, we see what happens when the world’s greatest hero meets the underworld’s greatest monster. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2guNURZywAM77J0uJg7TG4</guid>
+      <pubDate>Sun, 11 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2694</itunes:duration>
+    </item>
+    <item>
+      <title>Zombies</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4kOok9wLqxSJ0RC24hSmrE?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Their ubiquity in pop culture suggests zombies are a recent creation, but the ideas animating these cannibalistic cadavers originated in a 16th century French colony. Enslaved Africans conceived of a soul in unrest, occupying the ether. In Western culture, zombies transformed into flesh-eating ghouls. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4kOok9wLqxSJ0RC24hSmrE</guid>
+      <pubDate>Sun, 04 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2664</itunes:duration>
+    </item>
+    <item>
+      <title>Santa Muerte</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5QyH9x43FXWajdIGCRkHAU?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>She’s the queen of death, a folk saint known as the champion of lost souls. Those who pray to Santa Muerte are granted what they desire without judgement. But her generosity comes with a dark side. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5QyH9x43FXWajdIGCRkHAU</guid>
+      <pubDate>Sun, 27 Sep 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2471</itunes:duration>
+    </item>
+    <item>
+      <title>Dragons</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7Lctb2g4YvpRUVgkk51U5K?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Before “Lord of the Rings” and “Game of Thrones,” dragons stalked the pages of mythology across the world. The European version became a powerful metaphor for the evils that supposedly stalked mankind. And that's where we get the most iconic European Dragon Story, featuring a man known as Saint George. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7Lctb2g4YvpRUVgkk51U5K</guid>
+      <pubDate>Sun, 20 Sep 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2714</itunes:duration>
+    </item>
+    <item>
+      <title>Dybbuk</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0MDaWbpNazw08raoUyz17C?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From Jewish mythology, a dybbuk is a ghost with the power to enter and seize control of the body of a living person. While they are often the malicious soul of a particularly sinful person, possession by even the most well-meaning dybbuks can have disastrous consequences. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0MDaWbpNazw08raoUyz17C</guid>
+      <pubDate>Sun, 13 Sep 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2738</itunes:duration>
+    </item>
+    <item>
+      <title>Ammit</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1RJdf2Ohw8eEYXxl09gCrK?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>To the ancient Egyptians, Ammit was known as the Devourer of the Dead and the Eater of Souls. A hybrid creature and a demon of the underworld, she plays a vital role in the Final Judgment of souls, doling out deadly punishment to those found unworthy. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1RJdf2Ohw8eEYXxl09gCrK</guid>
+      <pubDate>Sun, 06 Sep 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>3127</itunes:duration>
+    </item>
+    <item>
+      <title>Djinn</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1wMihtaoaqBI4JkcESaM5S?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Djinn that appear in the Qu'ran and throughout Arabic mythology are far more terrifying and dangerous than the wish-granting entities known as genies. They’re complicated spirits with incredible powers and free will, able to grant immense fortune… or gruesome death. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1wMihtaoaqBI4JkcESaM5S</guid>
+      <pubDate>Sun, 30 Aug 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2852</itunes:duration>
+    </item>
+    <item>
+      <title>Roc</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3kNM5b2mlVhjcxiwZJSWOu?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Roc is an enormous bird of prey from Arabic mythology that was said to be large enough to carry elephants in its huge talons. It was once the ultimate symbol of adventure, and featured heavily in the adventures of Sinbad the Sailor. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3kNM5b2mlVhjcxiwZJSWOu</guid>
+      <pubDate>Sun, 23 Aug 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2337</itunes:duration>
+    </item>
+    <item>
+      <title>Will O’ the Wisp</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0P1ahpBiyQFSI7MEamnACE?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>They’re mysterious ghost lights, lurking in swamps and marshes. In European folklore, the Will O’ the Wisp, or Ignus Fatuus, are said to be the spirit of a sinful man, using his lantern to lure travelers to their deaths… Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0P1ahpBiyQFSI7MEamnACE</guid>
+      <pubDate>Sun, 16 Aug 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2418</itunes:duration>
+    </item>
+    <item>
+      <title>Unicorn</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2byc6DCsCzCjNLwtODsvJf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s known the world over as a symbol of innocence and purity… But the unicorn has a history as dark as any other beast in the mythological menagerie. Through its evolution from dangerous and deadly to noble and majestic, its story has always been one of blood, sacrifice, and transformation. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2byc6DCsCzCjNLwtODsvJf</guid>
+      <pubDate>Sun, 09 Aug 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2476</itunes:duration>
+    </item>
+    <item>
+      <title>Questing Beast</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2bAbQobbTQP5w0PJtkGWLy?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Hailing from Arthurian Legend, the Questing Beast is not so much a horrific predator or a noble creature… It’s an enigma, layered with symbolism and competing interpretations. With a bizarre appearance—and even more confounding purpose—the barking animal conjures a sense of immense strangeness. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2bAbQobbTQP5w0PJtkGWLy</guid>
+      <pubDate>Sun, 02 Aug 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2944</itunes:duration>
+    </item>
+    <item>
+      <title>Manticore</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4PKQnM0xZtXSkoFKauX0zK?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s a symbol of chaos and destruction. A chimeric beast with the body of a lion, the tail of a scorpion, the face of a human man… and an appetite for human flesh. But is the manticore’s horrific visage a mirror for humanity’s own evil propensities? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4PKQnM0xZtXSkoFKauX0zK</guid>
+      <pubDate>Sun, 26 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2708</itunes:duration>
+    </item>
+    <item>
+      <title>Chupacabra</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5xp4Br9mkenJm2k0SrYlFj?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Vampiric and reptilian, the Chupacabra first appeared in Puerto Rico in the 1990s. It’s known for sucking the blood of goats, but its true victims are the communities it destroys. Its thirst is so great, it will feed and feed until nothing is left… Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5xp4Br9mkenJm2k0SrYlFj</guid>
+      <pubDate>Sun, 19 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2575</itunes:duration>
+    </item>
+    <item>
+      <title>Thunderbird</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2oT5S1POz2CbpH9LwhPj9D?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In some legends, this elemental creature is considered a sacred force for good, while in others, it is a dangerous figure with the power to create unparalleled chaos and destruction. In every telling, it’s clear: the Thunderbird inspires equal amounts of awe and terror. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2oT5S1POz2CbpH9LwhPj9D</guid>
+      <pubDate>Sun, 12 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2648</itunes:duration>
+    </item>
+    <item>
+      <title>Leviathan</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6QAEbp9ou58ox9TLqzdTit?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Leviathan is an enormous sea monster, often depicted as a serpent or dragon. While best known for its appearances in the Old Testament of the Bible, its story is part of a mythological tradition that stretches all the way back to the very first civilizations. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6QAEbp9ou58ox9TLqzdTit</guid>
+      <pubDate>Sun, 05 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2713</itunes:duration>
+    </item>
+    <item>
+      <title>Cthulhu</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2aASgTmf36JBMJ4UivinId?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>An ancient alien goliath slumbers at the bottom of the Pacific Ocean, awaiting the day when he will rise again to destroy humanity. From the mind of weird fiction author H.P. Lovecraft comes Cthulhu, a cosmic entity of almost unimaginable scale and power. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2aASgTmf36JBMJ4UivinId</guid>
+      <pubDate>Sun, 28 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2816</itunes:duration>
+    </item>
+    <item>
+      <title>Changeling</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6S1RWCY8euKII38rqBio1P?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In Medieval Europe, parents lived in fear of the Fae-folk, who liked to steal sleeping infants from their crib. Whenever they did this, the faeries would replace their human child with one of their own. These Changelings would take the shape of the human child, so that the parents would have no way of knowing that it was an imposter. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6S1RWCY8euKII38rqBio1P</guid>
+      <pubDate>Sun, 21 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2427</itunes:duration>
+    </item>
+    <item>
+      <title>Centaur</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3XqmsUQYZypdy9wrQm3Tu3?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This half-man, half-horse creature from Greek mythology combines the wisdom associated with civilization and the wildness of nature. We'll look at the stories of several of the worlds' most famous centaurs, each of which shines a light on the bestial elements of human nature. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3XqmsUQYZypdy9wrQm3Tu3</guid>
+      <pubDate>Sun, 14 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2456</itunes:duration>
+    </item>
+    <item>
+      <title>Qalupalik</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3RZsZqzeTsyMFpx3GsP2ab?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It is a mermaid-like creature from Inuit folklore that makes its home in the icy-cold waters of the arctic. The qalupalik pounces on any children foolish enough to stray into its path. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3RZsZqzeTsyMFpx3GsP2ab</guid>
+      <pubDate>Sun, 07 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2201</itunes:duration>
+    </item>
+    <item>
+      <title>Púca</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5ihInjPLTcWfjDy7MRvbfR?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s a mischievous, shape-shifting trickster from Celtic folklore, often appearing in the guise of a demonic horse. Though the Púca can bring good or bad fortune, its ability to hold a grudge has made it an enemy of Irish farmers for centuries. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5ihInjPLTcWfjDy7MRvbfR</guid>
+      <pubDate>Sun, 31 May 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1988</itunes:duration>
+    </item>
+    <item>
+      <title>Typhon</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4lc7FKDb358zaVx8eoSvfX?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Part man, part monstrous amalgamation—his thighs are said to have been made of snakes, and his back covered in feathers and wings. A denizen of pure evil, Typhon was created for the sole purpose of sowing chaos, and has often been called the father of all monsters. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4lc7FKDb358zaVx8eoSvfX</guid>
+      <pubDate>Sun, 24 May 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2542</itunes:duration>
+    </item>
+    <item>
+      <title>Griffin</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1ql8tpREXH4fUoU9LPDirQ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Part eagle, part lion, these formidable creatures have commanded respect for centuries. Today, the griffin is used as a symbol of strength. But hundreds of years ago, its incredible size and power instilled true dread. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1ql8tpREXH4fUoU9LPDirQ</guid>
+      <pubDate>Sun, 17 May 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2597</itunes:duration>
+    </item>
+    <item>
+      <title>Abaddon’s Locusts</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6DYYgGQDVpfpkoNxFZPMMS?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>They are an obscure but truly disturbing army of monsters found in the Book of Revelation. While the description for Abaddon’s Locusts is less than 12 lines long, these hybrid creatures make a real impression—torturing everyone they see who isn’t marked for safety by God. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6DYYgGQDVpfpkoNxFZPMMS</guid>
+      <pubDate>Sun, 10 May 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2826</itunes:duration>
+    </item>
+    <item>
+      <title>Nephilim</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3O1TRei3DJrJ43yhSPcSnW?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>They’re a mysterious race of giants mentioned in the Book of Genesis. The non-canonical Book of Enoch tells the story of the Nephilim’s conception—sired by rebellious angels and human women, they were one of the most destructive forces in the world before the Great Flood covered the earth. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3O1TRei3DJrJ43yhSPcSnW</guid>
+      <pubDate>Sun, 03 May 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2631</itunes:duration>
+    </item>
+    <item>
+      <title>Beelzebub</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5RAOQ5NaislVisrNkTUygV?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>He is a demon prince of hell, often depicted as the right-hand man of Satan. But long before Beelzebub appeared in the Bible or Paradise Lost, he was the pagan god Ba'al Zebub, the "Lord of the Flies." Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5RAOQ5NaislVisrNkTUygV</guid>
+      <pubDate>Sun, 26 Apr 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2634</itunes:duration>
+    </item>
+    <item>
+      <title>NEW: The Behemoth</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6a3uiZwCtZgNV86Df7CTCx?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We are thrilled to bring you a brand new episode of Mythical Monsters today and for the foreseeable future. We thank you for your patience during this unprecedented time.Appearing in Abrahamic mythology, the Behemoth is a gargantuan beast of chaos. Its steps shake the earth and drive livestock insane. At the end of the world, it will face its sister Leviathan where the land meets the sea. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6a3uiZwCtZgNV86Df7CTCx</guid>
+      <pubDate>Sun, 19 Apr 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2248</itunes:duration>
+    </item>
+    <item>
+      <title>Crossover Week: Tales (The Sandman Pt. 2)</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1yKYDAH8gkXz2KI4qiNL1q?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>If you enjoy the stories told in Mythical Monsters, check out this episode from our series Tales: An adult Nathanael attempts to overcome the traumatic experiences of his childhood. But he knows, deep down, that Coppelius will always return, ready to take his eyes. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1yKYDAH8gkXz2KI4qiNL1q</guid>
+      <pubDate>Sun, 12 Apr 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2877</itunes:duration>
+    </item>
+    <item>
+      <title>Crossover Week: Tales (The Sandman Pt. 1)</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/26hDvLs1m1S6T2MfyhchMY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>If you enjoy the stories told in Mythical Monsters, check out this episode from our series Tales: Young Nathanael fears the one who comes in the night, who takes the eyes of children. His fear only grows when his father's co-worker, Coppelius, begins to show signs of being the boogeyman himself. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">26hDvLs1m1S6T2MfyhchMY</guid>
+      <pubDate>Sun, 12 Apr 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2388</itunes:duration>
+    </item>
+    <item>
+      <title>Succubus</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/68jQt9En1WrqlVkexOmjkM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Prevalent in medieval European folklore, the Succubus is a demonic entity that assumes a female form and seduces men as they sleep. She was said to drain her victims of vitality, bringing fatigue, mental illness, and even death. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">68jQt9En1WrqlVkexOmjkM</guid>
+      <pubDate>Sun, 05 Apr 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2903</itunes:duration>
+    </item>
+    <item>
+      <title>Scylla &amp; Charybdis</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7GUEa0p5EApfBkKR3Kr3Pa?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>They were two sea monsters from Greek mythology that represented real-life hazards in the Strait of Messina. One was a jagged, rocky cliff wall, and the other, a deadly whirlpool. Greek sailors who tried to pass through the strait found themselves caught between a rock and a hard place...literally. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7GUEa0p5EApfBkKR3Kr3Pa</guid>
+      <pubDate>Sun, 29 Mar 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2528</itunes:duration>
+    </item>
+    <item>
+      <title>Parcast Classic: Ogre</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5mffotlZnyMKzPs2WwvUKA?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Due to the unfortunate spread of COVID-19, Parcast has decided to halt recording for the time-being. This is a precautionary measure taken to ensure the safety of our hosts and staff. In the meantime, we're excited to share one of our classic episodes that we know you'll enjoy!He’s not the loveable guy you’re used to seeing in animated films: These 12th century monsters were usually depicted as large, hideous, man-like beings that ate humans—especially infants and children. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5mffotlZnyMKzPs2WwvUKA</guid>
+      <pubDate>Sun, 22 Mar 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2627</itunes:duration>
+    </item>
+    <item>
+      <title>Mermaids</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5QD2dokUZpQhZ1uCTIMORc?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>They’re one of history's most pervasive mythological creatures, appearing in the folklore of cultures from around the world. From the temples of Ancient Assyria to the epic poems of Ancient Greece, mermaids have endured the test of time to make a big splash in pop culture. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5QD2dokUZpQhZ1uCTIMORc</guid>
+      <pubDate>Sun, 15 Mar 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2512</itunes:duration>
+    </item>
+    <item>
+      <title>Banshee</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3N6efHsFLKwsJOPhA4uLX4?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Known as the “Irish harbinger of death,” this female fairy appears before the death of members of the oldest families of Ireland. If the Banshee appears to you, it means that before the day is over, some unlucky soul will perish. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3N6efHsFLKwsJOPhA4uLX4</guid>
+      <pubDate>Sun, 08 Mar 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2306</itunes:duration>
+    </item>
+    <item>
+      <title>Lamia</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1LGiNqeMucKlN34wEBFDFJ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Before Lamia was a monster, she was a queen. Her children were sired by Zeus, and her life was perfect. But then, Hera, the queen of the gods, became jealous. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1LGiNqeMucKlN34wEBFDFJ</guid>
+      <pubDate>Sun, 01 Mar 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2666</itunes:duration>
+    </item>
+    <item>
+      <title>Yumboes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2fF9lyTQldUVOOpK6mRFTy?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Pearly white and standing no more than two feet tall, Yumboes have been described as Senegal’s Wolof counterpart to the European fairy. Unlike fairies, however, Yumboes are the chosen form of the spirits of the dead, who haunt the hills of the woodland savannah. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2fF9lyTQldUVOOpK6mRFTy</guid>
+      <pubDate>Sun, 23 Feb 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2399</itunes:duration>
+    </item>
+    <item>
+      <title>Inkanyamba</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7CXDNxqpQxBHWXAwT3MebG?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>For years, Zulu people living near Howick Falls in South Africa have reported encounters with the Inkanyamba—a giant water-dwelling serpent with a horse-like head.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7CXDNxqpQxBHWXAwT3MebG</guid>
+      <pubDate>Sun, 16 Feb 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2140</itunes:duration>
+    </item>
+    <item>
+      <title>Grootslang</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5tE0Lj9WnjvD2F1NLg6Rk2?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s a legendary creature said to live in the Richtersveld, a desert region of South Africa. Was the Grootslang an abomination from the dawn of the Earth, or a mythological warning against the dangers of man’s greed? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5tE0Lj9WnjvD2F1NLg6Rk2</guid>
+      <pubDate>Sun, 09 Feb 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2289</itunes:duration>
+    </item>
+    <item>
+      <title>Kongamato</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0UXXvovQWGGKP0weoZSDUf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Kongamato is a legendary winged creature first described by the Kaonde tribe of modern Zambia, formerly Northern Rhodesia. Sightings of the Kongamato have continued well into the 21st century, leading some cryptozoologists to believe that it might actually exist. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0UXXvovQWGGKP0weoZSDUf</guid>
+      <pubDate>Sun, 02 Feb 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2146</itunes:duration>
+    </item>
+    <item>
+      <title>Narasimha</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0x1ADcEqoRLJnEfqzsg8FG?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In Hindu Mythology, Narasimha was the fourth avatar of Lord Vishnu. Vishnu took the form of the half-lion, half-man to face the evil Asura Hiranyakashipu—adopting Narasimha’s fierce lion appearance to fight evil, injustice, and to protect the earth. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0x1ADcEqoRLJnEfqzsg8FG</guid>
+      <pubDate>Sun, 26 Jan 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2630</itunes:duration>
+    </item>
+    <item>
+      <title>Draugr</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3SzLg4ehrpNP9aiakjvcgW?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A walking corpse with inhuman strength and the power to change its shape and size, the Draugr was a true outcast. In death, it preyed upon the society it had scorned in life. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3SzLg4ehrpNP9aiakjvcgW</guid>
+      <pubDate>Sun, 19 Jan 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2668</itunes:duration>
+    </item>
+    <item>
+      <title>Ymir</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6dR5YysXpzC20rimjgN5FM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Long before the Vikings, before the first man, and even before the Gods, there was Ymir—a primordial giant who figures prominently in the Norse creation myth. As the first being to exist in Norse cosmology, Ymir gets to the very heart of their culture and belief system. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6dR5YysXpzC20rimjgN5FM</guid>
+      <pubDate>Sun, 12 Jan 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2352</itunes:duration>
+    </item>
+    <item>
+      <title>Nosferatu &amp; Dracula</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/42LNuGhm1UDe5w7rHud1gj?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Vampires have sucked on our attention for centuries, thriving on our fears. But they reached a new height in 1897, when Irish author Bram Stoker published his novel, Dracula. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">42LNuGhm1UDe5w7rHud1gj</guid>
+      <pubDate>Sun, 05 Jan 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2866</itunes:duration>
+    </item>
+    <item>
+      <title>Chimaera</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6xRuxA6ietMLdxkyfOkRXy?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It had the head and body of a lion, as well as a goat’s head protruding from its back, and a long tail that ended in the head of a serpent. Chimaera is one of the most fearsome legendary beasts in the Greek pantheon. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6xRuxA6ietMLdxkyfOkRXy</guid>
+      <pubDate>Sun, 29 Dec 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2501</itunes:duration>
+    </item>
+    <item>
+      <title>The Abominable Snowman</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4A1J76UJ5aPhMwlGKKzxmV?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Also known as the Yeti, the Abominable Snowman has purportedly stalked the mountainous areas of Nepal, Tibet, and Bhutan for hundreds of years. Often reported, but never caught, the Yeti is the spirit of the harsh conditions of the Himalayas, where death is a constant companion. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4A1J76UJ5aPhMwlGKKzxmV</guid>
+      <pubDate>Sun, 22 Dec 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2623</itunes:duration>
+    </item>
+    <item>
+      <title>Jorōgumo</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4VqI1JSHR0EvSHvxtLPcNU?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>According to Japanese legend, when a golden orb-weaver spider turns 400-years-old, it grows horrifically large and becomes capable of transforming into a beautiful woman known as the Jorōgumo. Their shape-shifting abilities enable them to lure young, virile men into their webs to devour. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4VqI1JSHR0EvSHvxtLPcNU</guid>
+      <pubDate>Sun, 15 Dec 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2527</itunes:duration>
+    </item>
+    <item>
+      <title>Tengu</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5a792yDlyBcF4m5bHN1GX9?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A powerful and mischievous shape-shifter from Japanese mythology, Tengu was known as a mythological trickster. Its depiction ranges from a fierce demonic dog in Chinese folklore to a modern half-man-half-bird creature that permeates Japanese art and ceremony. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5a792yDlyBcF4m5bHN1GX9</guid>
+      <pubDate>Sun, 08 Dec 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2982</itunes:duration>
+    </item>
+    <item>
+      <title>Argus</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3MVLiCV4utmBPlLtxQe854?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In Greek mythology, Argus Panoptes was a giant with 100 eyes spread over his entire body. Unlike most of the giants, who rebelled against the gods, Argus was one of Queen Hera’s most loyal servants. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3MVLiCV4utmBPlLtxQe854</guid>
+      <pubDate>Sun, 01 Dec 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2583</itunes:duration>
+    </item>
+    <item>
+      <title>Medusa</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7hNlTad9rsn29gFitYg4tW?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Instantly recognizable by her venomous snake hair, and for the ability to turn mortals to stone with a single glance, Medusa is one of the three Gorgon sisters and an iconic monster from Greek Mythology.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7hNlTad9rsn29gFitYg4tW</guid>
+      <pubDate>Sun, 24 Nov 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>3021</itunes:duration>
+    </item>
+    <item>
+      <title>The Qilin</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0BsLzoeNNaOwGXEjF1Z8ua?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A chimeric beast from Chinese mythology—the Qilin has an appearance that ranges from resembling a unicorn to a dragon-headed, ox-tailed, tiger-bodied creature. But in all its forms, it is considered the lord of the four-footed creatures, and always a symbol of good things to come. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0BsLzoeNNaOwGXEjF1Z8ua</guid>
+      <pubDate>Sun, 17 Nov 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2628</itunes:duration>
+    </item>
+    <item>
+      <title>The Basilisk</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4gqWFQUYWHLexvikN6KnBz?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Born from an egg laid by two roosters—and hatched by a toad—Basilisks were hybrid monsters who terrorized ancient and medieval Europe with their deadly gaze and even deadlier breath. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4gqWFQUYWHLexvikN6KnBz</guid>
+      <pubDate>Sun, 10 Nov 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2510</itunes:duration>
+    </item>
+    <item>
+      <title>Gargoyle</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0spNemP0pE4UXYRGINKjl4?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Demonically possessed or merely architectural design? While they were believed in mythology to frighten away evil spirits, the idea of Gargoyles physically coming to life is a more recent notion. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0spNemP0pE4UXYRGINKjl4</guid>
+      <pubDate>Sun, 03 Nov 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2440</itunes:duration>
+    </item>
+    <item>
+      <title>The Grim Reaper</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/35o9tG1YpHsFslEaVrQ5DB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Hooded and scythe-wielding, he walks the living world collecting the souls of the recently departed. Signifying death, the Grim Reaper is one of the most recognizable mythical figures in the western world. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">35o9tG1YpHsFslEaVrQ5DB</guid>
+      <pubDate>Sun, 27 Oct 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>3157</itunes:duration>
+    </item>
+    <item>
+      <title>Ogre</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4oQPPJIz6OxxHObQKeXw8x?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Not the loveable guy you’re used to seeing in animated films...these 12th century monsters were usually depicted as large, hideous, man-like beings that ate humans—especially infants and children. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4oQPPJIz6OxxHObQKeXw8x</guid>
+      <pubDate>Sun, 20 Oct 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2627</itunes:duration>
+    </item>
+    <item>
+      <title>Tanuki</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6jwmFBqxQFlbQT28QL7vkf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A mythical shape-shifter? An evil raccoon dog? The Tanuki is one of Japan’s most famous fairy tale creatures, known for being a trickster god lurking in the woods. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6jwmFBqxQFlbQT28QL7vkf</guid>
+      <pubDate>Sun, 13 Oct 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2361</itunes:duration>
+    </item>
+    <item>
+      <title>The Nemean Lion</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4Fb0WzlMTJyGac2nSczFxE?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Greek mythology’s vicious monster with golden fur. Impervious to attack by mere mortals. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4Fb0WzlMTJyGac2nSczFxE</guid>
+      <pubDate>Sun, 06 Oct 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2912</itunes:duration>
+    </item>
+    <item>
+      <title>The Kraken</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/186zGc83Gz3isOacsI59hT?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Under the oceans of ancient Scandinavia lurked a monster that nobody quite understood. Was it a crab? A massive squid? An incredibly large starfish? One thing was certain, the beast had an incredible size and was a threat to all seafarers. Over time, it came to be known as the Kraken, and tales of its destructive tendencies spanned centuries. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">186zGc83Gz3isOacsI59hT</guid>
+      <pubDate>Sun, 29 Sep 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2385</itunes:duration>
+    </item>
+    <item>
+      <title>Welcome to Mythical Monsters</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3KUKIjACVZd7VvkjWcE4rL?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The great heroes of myth are known throughout the world. Their deeds are legendary. But what would these champions be without obstacles in their path? Without monsters to challenge them… Dragons, sea serpents, giants, demons...they aren't merely foils to the hero. They are primal symbols reflecting ancient truths. The new Parcast original, Mythical Monsters, tells the stories of these beasts and asks what they represent to mankind. New episodes released every Monday. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3KUKIjACVZd7VvkjWcE4rL</guid>
+      <pubDate>Thu, 19 Sep 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>133</itunes:duration>
+    </item>
+  </channel>
+</rss>
+

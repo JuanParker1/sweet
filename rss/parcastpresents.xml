@@ -1,0 +1,991 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Parcast Presents</title>
+    <link>https://api.spotify.com/v1/shows/3j3GybU9u03zLYqLUOSfPB</link>
+    <description>Welcome to Parcast Presents, your new home for special mini-series running across the Parcast Network! This is where you'll find holiday specials, retrospectives on pivotal historical moments, deep-dives into cultural phenomena, and other can't-miss episodes curated from over 40 Parcast shows! Parcast Presents is a Spotify Original from Parcast.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://i.scdn.co/image/ab6765630000ba8aa9e45609e7bda8372f815855</url>
+      <title>Parcast Presents</title>
+      <link>https://api.spotify.com/v1/shows/3j3GybU9u03zLYqLUOSfPB</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Apr 2022 07:39:12 +0000</lastBuildDate>
+    <item>
+      <title>The Fall of the House of Usher</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/40PPW1klRWhZaALsHKVdAz?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This week we’re celebrating the genius of Edgar Allan Poe with four chilling tales! Today’s story: Sickly and desperate, Roderick Usher calls upon a childhood friend to join him in his ancestral home. There, the weight of the Usher family’s wicked legacy threatens to overwhelm them both. From Haunted Places: Ghost Stories, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">40PPW1klRWhZaALsHKVdAz</guid>
+      <pubDate>Thu, 21 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2120</itunes:duration>
+    </item>
+    <item>
+      <title>Conspiracies of the Grateful Dead Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3E7b7HVLG5lRz4vEP568Pt?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Nitrous Mafia have been a fixture at Grateful Dead shows and other jam band concerts since the ‘90s. They deal nitrous oxide to fans who want a taste of euphoria, but critics claim the cutthroat racket is taking shows’ atmospheres from mellow… to menacing. This is the final episode in our two-part special from Conspiracy Theories. Follow for new conspiracies every Monday and Wednesday!  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3E7b7HVLG5lRz4vEP568Pt</guid>
+      <pubDate>Tue, 19 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1821</itunes:duration>
+    </item>
+    <item>
+      <title>Conspiracies of the Grateful Dead Pt. 1 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7jTnoJZPxKAMPQCSDgh9LB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the 1960s a counterculture revolution was upending traditional norms of life, and the Grateful Dead were providing the soundtrack… and the drugs. Of course, this put them right in the crosshairs of the FBI. But while the feds had a file on the band, did they also have a deal together? Some say the disastrous Altamont Music Festival has all the markings of sabotage... Enjoy this special two-part series from Conspiracy Theories, a Spotify Original from Parcast! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7jTnoJZPxKAMPQCSDgh9LB</guid>
+      <pubDate>Sun, 17 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2131</itunes:duration>
+    </item>
+    <item>
+      <title>Femme Fatales Pt. 5</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3gc7YnjnFx8ShkNkTVcbOu?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>She's perhaps the most famous femme fatale of the 20th century. And yet, Mata Hari's supposed crimes are shrouded in mystery. Who was this woman who captivated all of Europe? How did she become embroiled in the espionage of WWI? And who masterminded her ultimate fate? From Female Criminals, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3gc7YnjnFx8ShkNkTVcbOu</guid>
+      <pubDate>Tue, 12 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2662</itunes:duration>
+    </item>
+    <item>
+      <title>Femme Fatales Pt. 4</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2lXgjdeNX2TECcQFFM02F3?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In espionage terms, honeytraps are the stuff of legend: a beautiful temptress so seductive that she can convince even the most cunning of men to reveal state secrets. But in the case of Shi Pei Pu and the affair known as M. Butterfly, seduction would turn to love, and a decades-long deception which would ultimately expose a very different kind of secret. From Female Criminals, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2lXgjdeNX2TECcQFFM02F3</guid>
+      <pubDate>Sun, 10 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2551</itunes:duration>
+    </item>
+    <item>
+      <title>Femme Fatales Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6xahBqVMSUiv4Qpa1HJgX0?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The beautiful Soviet seductress is a well-known figure of femme fatale lore. She's patriotic, irresistible, and deadly. But how much of that is true? Did the KGB really train women to seduce and kill men? Or were the "sparrows" just women desperate for a better life? From Female Criminals, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6xahBqVMSUiv4Qpa1HJgX0</guid>
+      <pubDate>Thu, 07 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2709</itunes:duration>
+    </item>
+    <item>
+      <title>Femme Fatales Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4tXW0PuFr8TrBwo5IAobwQ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A cunning puppetmaster, Catherine de Medici is most vividly remembered as a one-time queen of France who dispatched beautiful women in her court to manipulate the men of France. Except… that’s not really the case. But hidden in the spectacular legends lie kernels of truth about Catherine and her Flying Squadron. From Female Criminals, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4tXW0PuFr8TrBwo5IAobwQ</guid>
+      <pubDate>Tue, 05 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2602</itunes:duration>
+    </item>
+    <item>
+      <title>Femme Fatales Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5ldeOWhbq9JR7fcx60f84U?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The term "femme fatale" conjures up noir vixens whose sole purpose is to bring the story's male hero to his knees. But sometimes, women behaving badly are just getting things done the only way society will allow. Enjoy this series from Female Criminals, a Spotify Original from Parcast! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5ldeOWhbq9JR7fcx60f84U</guid>
+      <pubDate>Sun, 03 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2415</itunes:duration>
+    </item>
+    <item>
+      <title>Heaven’s Gate Pt. 4</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1t1kdSgPIGNa0n6BpBJ64J?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>As the days count down to Hale-Bopp’s arrival, 39 people prepare for ascension. They’d abandoned their old lives, embraced a new ideology, weathered the death of a beloved leader… and finally, made themselves worthy of the Next Level. Now, the comet was coming. And with it, the spaceship that would ferry them onward. In March of 1997, they left everything behind. From Cults, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1t1kdSgPIGNa0n6BpBJ64J</guid>
+      <pubDate>Thu, 31 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2485</itunes:duration>
+    </item>
+    <item>
+      <title>Heaven’s Gate Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4QUw7qRuwJOkdsiUoAtDeV?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The group’s belief system had never been infallible. There had been adjustments along the way; revisions meant to keep the wheels turning whenever prophecies didn’t manifest. But then, in 1985, Bonnie Lu Nettles died. And her passing threw Heaven’s Gate’s whole world askew. From Cults, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4QUw7qRuwJOkdsiUoAtDeV</guid>
+      <pubDate>Tue, 29 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2001</itunes:duration>
+    </item>
+    <item>
+      <title>Heaven’s Gate Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2vxbtY1rtOYbw7SQVtvA8o?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>1976 was a turning point for Heaven’s Gate. The spaceship that was promised had not arrived. Members were defecting. Nettles and Applewhite gathered their truest believers in Wyoming and made it clear: Things were going to be different from here on out. Much different. From Cults, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2vxbtY1rtOYbw7SQVtvA8o</guid>
+      <pubDate>Sun, 27 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2156</itunes:duration>
+    </item>
+    <item>
+      <title>Heaven’s Gate Pt. 1 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2ZnrF2hMq3cRrKn2kpvac9?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>When Bonnie Lu Nettles and Marshall Applewhite meet in Houston in 1972, it’s not for the first time — at least, not according to their birth charts. They’ve known each other in a past life. And in this lifetime, they have a joint mission. They set out, amid a wave of social and political upheaval, to find it. From Cults, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2ZnrF2hMq3cRrKn2kpvac9</guid>
+      <pubDate>Tue, 22 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2447</itunes:duration>
+    </item>
+    <item>
+      <title>“They Knew” Pt. 4: PG&amp;E’s Wildfires</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3fblUpjyAGRd6Fm861xmAe?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In November 2018, equipment from the largest utility company in America sparked a fire that killed 86 people and destroyed thousands of homes. The devastation was unprecedented, but the Camp Fire is far from the only disaster caused by Pacific Gas &amp; Electric — and yet they remain California’s largest energy provider. From Conspiracy Theories, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3fblUpjyAGRd6Fm861xmAe</guid>
+      <pubDate>Sun, 20 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2551</itunes:duration>
+    </item>
+    <item>
+      <title>“They Knew” Pt. 3: Fukushima Nuclear Disaster </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2ovLuH3NebLbm7QiBhzZfk?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In March 2011, the worst nuclear meltdown since Chernobyl took place in northern Japan. The incident was triggered by a natural disaster, but it was decisions made by the facility’s operators that led to such catastrophic damage. From Conspiracy Theories, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2ovLuH3NebLbm7QiBhzZfk</guid>
+      <pubDate>Tue, 15 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2459</itunes:duration>
+    </item>
+    <item>
+      <title>“They Knew” Pt. 2: Flint Water Crisis</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/37uRHt6EzExT1LSLqiI4vZ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>An emergency plan to cut costs in Flint, Michigan, resulted in a contaminated water supply for the city’s residents. The water looked, tasted, and smelled foul – because it was tainted with toxic chemicals, harmful bacteria, and lead from old pipes. But government officials repeatedly dismissed the community’s concerns. So today, we’re tracing what officials knew about the burgeoning crisis, and when — and how they’re paying for their negligence now. From Conspiracy Theories, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">37uRHt6EzExT1LSLqiI4vZ</guid>
+      <pubDate>Sun, 13 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2088</itunes:duration>
+    </item>
+    <item>
+      <title>“They Knew” Pt. 1: New York’s Toxic Love Canal</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1GPxhFSgxB8H1YzTyLfRQu?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Love Canal was supposed to be a suburban idyll. Instead, it became a dumping ground for chemical waste. After the land changed hands in the 1950s, a school and 900 homes were built atop the toxic landfill. Decades later, residents are still battling adverse health outcomes and government negligence. From Conspiracy Theories, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1GPxhFSgxB8H1YzTyLfRQu</guid>
+      <pubDate>Tue, 08 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2025</itunes:duration>
+    </item>
+    <item>
+      <title>Killer Patients: Hans Peterson</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/21BrvrCUhpW7hHNPyzIjO3?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>28-year-old Hans Peterson spent four years nursing his rage against a dermatologist who prescribed a drug that turned his life upside down. In October 2006, Peterson rented a car and drove it to Chicago for a final confrontation. From Medical Murders, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">21BrvrCUhpW7hHNPyzIjO3</guid>
+      <pubDate>Sun, 06 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>3117</itunes:duration>
+    </item>
+    <item>
+      <title>Killer Patients: Stephen Pasceri</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4p5JyGCnfG3m0ivyKaIMGB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A hospital murder unfolded at the intersection of grief and illness in January 2015. From Medical Murders, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4p5JyGCnfG3m0ivyKaIMGB</guid>
+      <pubDate>Tue, 01 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2836</itunes:duration>
+    </item>
+    <item>
+      <title>Killer Patients: Chester Leo Posby</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5AsNA6eCubqropumtbOjy4?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In June 1992, Dr. John Kemink was fatally shot by a former patient, retired car salesman Chester Leo Posby. Posby blamed the doctor for an injury that had upended his entire life. But he also believed that Dr. Kemink was conspiring to kill him. From Medical Murders, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5AsNA6eCubqropumtbOjy4</guid>
+      <pubDate>Sun, 27 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2976</itunes:duration>
+    </item>
+    <item>
+      <title>Killer Patients: Stanwood Elkus</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4uwbXAlMsyZEMXGEsEwYXa?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In January of 2013, Dr. Ron Gilbert was shot and killed in his office by a new patient who said his name was Allen Gold. Only he wasn't a new patient and his name was actually Stanwood Elkus. It had been 20 years since Dr. Gilbert originally diagnosed him, and Elkus was back for revenge. From Medical Murders, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4uwbXAlMsyZEMXGEsEwYXa</guid>
+      <pubDate>Tue, 22 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2737</itunes:duration>
+    </item>
+    <item>
+      <title>The Ghost of Easterville</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0qw9L3vVTnVaILvyuUWovH?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the fall of 2011, a 17-year-old model struck up an online relationship with NBA player Chris “Birdman” Andersen. But someone else was pulling the strings of their ill-fated romance. From Crimes of Passion, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0qw9L3vVTnVaILvyuUWovH</guid>
+      <pubDate>Sun, 20 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2164</itunes:duration>
+    </item>
+    <item>
+      <title>The Facebook Murders</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/67wxWfIEe3BWbGSpoHOQQH?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>When Jenelle Potter's crush, Billy Payne, started dating another woman, she used Facebook to spread rumors about the couple. But when a CIA agent contacted her parents, informing them that Payne was a threat to Jenelle's life, they took matters into their own hands. From Crimes of Passion, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">67wxWfIEe3BWbGSpoHOQQH</guid>
+      <pubDate>Tue, 15 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2637</itunes:duration>
+    </item>
+    <item>
+      <title>The Talhotblond Case</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0KjRpuJ5cAKYiVorXmv7ih?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>An online love triangle between 18-year-old Tommy, 17-year-old Jessi, and 22-year-old Brian turned tragic when their romantic fantasy world collided with their harsh realities. From Crimes of Passion, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0KjRpuJ5cAKYiVorXmv7ih</guid>
+      <pubDate>Sun, 13 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2555</itunes:duration>
+    </item>
+    <item>
+      <title>Tyrannical Popes: Leo X Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/48WZxrZr2Vcxg7mwKe4aEa?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>After an ascendant rise to the papacy, Pope Leo X began draining the massive treasury left by his predecessor. The nonstop feasting and over-the-top festivities were partly strategic, mostly indulgent, and at the root of a controversy that would produce the sale of indulgences, Luther’s 95 Theses… and Leo’s suspicious death. This episode first aired on Dictators. New episodes every Tuesday.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">48WZxrZr2Vcxg7mwKe4aEa</guid>
+      <pubDate>Wed, 09 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2697</itunes:duration>
+    </item>
+    <item>
+      <title>Tyrannical Popes: Leo X Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2JLeDDYKeLypwsKAYCZd6B?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Giovanni de' Medici was a shrewd strategist who became pope before the age of 40. As a cardinal, he ended the Medicis’ exile in Florence, returning the dynasty to their seat of power. As pope, he would nearly bankrupt the Vatican — and upend the Christian world. This episode first aired on Dictators. New episodes every Tuesday.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2JLeDDYKeLypwsKAYCZd6B</guid>
+      <pubDate>Mon, 07 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2623</itunes:duration>
+    </item>
+    <item>
+      <title>Tyrannical Popes: Julius II Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/27IiwoYkEjV7OlnRD7MXwx?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Seated atop the papal throne, Pope Julius II was determined to bring order along the Italian Peninsula — by any means necessary. This episode first aired on Dictators. New episodes every Tuesday. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">27IiwoYkEjV7OlnRD7MXwx</guid>
+      <pubDate>Wed, 02 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2613</itunes:duration>
+    </item>
+    <item>
+      <title>Tyrannical Popes: Julius II Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3NNZ0P2ccEc52CoYhBu6bF?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Later nicknamed ‘The Warrior Pope,’ Giuliano della Rovere always nurtured visions of personal glory. As a cardinal, he thought he could obtain glory on the battlefield. But he was constantly embroiled in feuds with family and rivalries with former allies. This episode first aired on Dictators. New episodes every Tuesday.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3NNZ0P2ccEc52CoYhBu6bF</guid>
+      <pubDate>Mon, 31 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2391</itunes:duration>
+    </item>
+    <item>
+      <title>Tyrannical Popes: Alexander VI Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6GQb4aapo6O1T5laN2RxCU?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Now wearing the papal tiara, Pope Alexander VI was determined to root out the corruption that plagued Rome and the Vatican. But rumors spread that the Spanish pope was guilty of his own corruption, murder, and incest. This episode first aired on Dictators. New episodes every Tuesday. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6GQb4aapo6O1T5laN2RxCU</guid>
+      <pubDate>Wed, 26 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2558</itunes:duration>
+    </item>
+    <item>
+      <title>Tyrannical Popes: Alexander VI Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2HYQkEpVw1Jbh5w6sIUtKk?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Elevated into power by his uncle, Pope Calixtus III, Rodrigo Borgia became instrumental in settling affairs throughout the Papal States. As a cardinal, he orchestrated the election of popes for decades — biding his time before making moves to become a pope himself. This episode first aired on Dictators. New episodes every Tuesday.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2HYQkEpVw1Jbh5w6sIUtKk</guid>
+      <pubDate>Mon, 24 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2422</itunes:duration>
+    </item>
+    <item>
+      <title>NWO: The Great Reset</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/56cfdj4CyBfpsef5bdkp1O?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In 2020, the founder of the World Economic Forum proposed a new set of policies called The Great Reset. The initiative was a response to the COVID-19 pandemic, but conspiracy theorists smelled a power play. It begged the question: How might a New World Order promise utopia, while enacting an agenda far more sinister? This is the final part of an Unexplained Mysteries series. Follow Unexplained Mysteries for new episodes twice a week! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">56cfdj4CyBfpsef5bdkp1O</guid>
+      <pubDate>Wed, 19 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1929</itunes:duration>
+    </item>
+    <item>
+      <title>NWO: Death of Democracy</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7A7VfmEzOK5gNmic4SRcXj?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>What if our leaders weren’t elected, but installed? Today we’re investigating relationships that positioned people for power and re-shaped our world. From the Bilderberg Group ushering politicians into the White House, to Citizens United and the insidiousness of super PACs. This episode originally aired on Unexplained Mysteries.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7A7VfmEzOK5gNmic4SRcXj</guid>
+      <pubDate>Mon, 17 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2161</itunes:duration>
+    </item>
+    <item>
+      <title>NWO: Bonus Minisode </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3HtvgkQNd5CH5Pfr4gjRUg?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Today, we take a rapid-fire tour through the psychological factors that make us susceptible to misinformation. And ask: How would a New World Order take advantage? This episode is part of a series from Unexplained Mysteries, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3HtvgkQNd5CH5Pfr4gjRUg</guid>
+      <pubDate>Wed, 12 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>767</itunes:duration>
+    </item>
+    <item>
+      <title>NWO: Tactics</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1IfNMlGsZgph4Bmr24eXl5?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How would a New World Order covertly seize control? We don’t have to look far to find precedents. This episode is Part 3 of a miniseries from Unexplained Mysteries, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1IfNMlGsZgph4Bmr24eXl5</guid>
+      <pubDate>Mon, 10 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1982</itunes:duration>
+    </item>
+    <item>
+      <title>NWO: United States Government</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4OYO4kxzqalEfQu6h6gXPo?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>For two centuries, secret societies, elite families and wealthy individuals have worked to consolidate power and wield their influence in and over the U.S. government. Has it become the perfect front for a New World Order? This episode is Part 2 of a miniseries from Unexplained Mysteries, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4OYO4kxzqalEfQu6h6gXPo</guid>
+      <pubDate>Wed, 05 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2031</itunes:duration>
+    </item>
+    <item>
+      <title>NWO: Illuminati Origins</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0le4kqzK8aroWgZlDXK7oM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Are secret groups of elites working in the shadows to take over the world? Over the next few weeks, Unexplained Mysteries is exploring the most likely candidates for global dominion. Up first: the Illuminati, and how this private club in Bavaria became a catch-all for totalitarian conspiracies. If you like this episode and want to hear more of history’s greatest unknowns, follow Unexplained Mysteries, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0le4kqzK8aroWgZlDXK7oM</guid>
+      <pubDate>Mon, 03 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2077</itunes:duration>
+    </item>
+    <item>
+      <title>Sodder Family Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6EfhGL4VdaOY0gfaO06iWg?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>For decades, family members and sleuths have tried to determine what really happened the night of the fire. As of yet, they have been unsuccessful. But the clues remain, the questions linger, and the case unofficially stays open… This is the final episode of our Sodder Family special. If you enjoyed it, follow Unexplained Mysteries, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6EfhGL4VdaOY0gfaO06iWg</guid>
+      <pubDate>Mon, 27 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2123</itunes:duration>
+    </item>
+    <item>
+      <title>Sodder Family Pt. 2 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7I5ZnMLnk1ClXBPZAFBZVU?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the aftermath of the fire, a startling number of tips, twists, and witnesses came forward regarding the fate of the Sodder children. Their father, George, followed the clues for decades, driven by a suspicion of the “official” story and a belief that the blaze was no accident. If you enjoy this episode, follow Unexplained Mysteries for more of history’s most puzzling events.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7I5ZnMLnk1ClXBPZAFBZVU</guid>
+      <pubDate>Wed, 22 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2183</itunes:duration>
+    </item>
+    <item>
+      <title>Sodder Family Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0t2tt0fgJd02rt5Qchf7xZ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Early Christmas day in 1945, Jennie Sodder woke up to her house on fire. The blaze consumed her home, and five of her young children. Or did it? Strange events, prescient remarks, and a lack of human remains hinted at more nefarious — though no less tragic — outcomes. If you enjoy this episode, follow Unexplained Mysteries for more of history’s most puzzling events.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0t2tt0fgJd02rt5Qchf7xZ</guid>
+      <pubDate>Mon, 20 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1928</itunes:duration>
+    </item>
+    <item>
+      <title>Codes, Cover-ups &amp; Conspiracies </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1HcjW0U1LFuYze4G75Fisw?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the final episode of our crossover special, Molly and Carter from Conspiracy Theories investigate what exactly the U.S. government knew ahead of the attack on Pearl Harbor. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1HcjW0U1LFuYze4G75Fisw</guid>
+      <pubDate>Tue, 14 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2173</itunes:duration>
+    </item>
+    <item>
+      <title>Entering the Pacific Theater</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2RCZlhqB5B0J2deqjtC81R?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the hours, days and weeks after the attack on Pearl Harbor, Japan’s forces coordinated a vast takeover of the Pacific. Back at home, Hideki Tojo’s reign as Prime Minister oversaw brutal wartime atrocities. Kate and Richard from Dictators detail the Japanese war effort, the experiments of Unit 731, and the battles that changed the course of the war.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2RCZlhqB5B0J2deqjtC81R</guid>
+      <pubDate>Sun, 12 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2594</itunes:duration>
+    </item>
+    <item>
+      <title>“A Date Which Will Live in Infamy”</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6cdsSxuKWnVUQ6xnahRRNa?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the summer of 1941, as hostilities between the two nations escalated, wartime negotiations officially broke down. Combat was imminent — but where? This is the second part of our crossover special with Conspiracy Theories and Dictators, two Spotify Originals from Parcast, commemorating the 80th anniversary of the attack on Pearl Harbor.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6cdsSxuKWnVUQ6xnahRRNa</guid>
+      <pubDate>Tue, 07 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2311</itunes:duration>
+    </item>
+    <item>
+      <title>Hideki Tojo &amp; Japanese Imperialism</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3EuOpCr1kjyYA2EqSNL9bq?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Eighty years ago, the surprise attack on Pearl Harbor by Japanese fighter planes devastated the U.S. and spurred the nation into war. Join us for a special crossover between Dictators and Conspiracy Theories where we’ll analyze the event from all sides, starting with the life of Japanese Prime Minister Hideki Tojo — a career militarist whose devotion to Japan thrust him into power.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3EuOpCr1kjyYA2EqSNL9bq</guid>
+      <pubDate>Sun, 05 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2648</itunes:duration>
+    </item>
+    <item>
+      <title>Yoga Cults Pt. 3 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3XvSLgAiyXgloePQ4inKwJ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In Japan, a yoga teacher named Shoko Asahara claimed he had special DNA, developed the battery-powered “Perfect Salvation System,” and directed his cult, Aum Shinrikyo, to carry out chemical attacks in Tokyo. This is the final episode in the three-part series — if you enjoyed it, search and follow Cults to hear what really happens behind the closed doors of covert societies. New episodes Tuesdays.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3XvSLgAiyXgloePQ4inKwJ</guid>
+      <pubDate>Tue, 30 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2336</itunes:duration>
+    </item>
+    <item>
+      <title>Yoga Cults Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/73tAOWiSvGasUYH4kx659D?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Hosts Vanessa Richardson and Lanie Hobbs explore the story of Geshe Michael Roach and Christie McNally — the so-called king and queen of Diamond Mountain who used tantric yoga to lure hundreds to their Arizona desert retreat. This episode is a collaboration between Cults and Crimes of Passion, two Spotify Originals from Parcast. Every week, Cults analyzes the minds and movements of notorious cult leaders, and Crimes of Passion follows love stories that turn into crime stories. Search and follow to catch new episodes! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">73tAOWiSvGasUYH4kx659D</guid>
+      <pubDate>Sun, 28 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2269</itunes:duration>
+    </item>
+    <item>
+      <title>Yoga Cults Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/42TgXOF7tJc4ohy3eNrqdi?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How do quests for enlightenment get so sinister? In this three-part special from Cults, a Spotify Original from Parcast, we’re looking at three stories of yoga gurus who were loved — then loathed — for their practices. We start in Romania, charting the rise of Gregorian Bivolaru: an allegedly all-powerful mystic who remixed religions for an ever-expanding cache of followers across Europe. But the price of following him was more than devotion… If you like this episode, search and follow Cults to delve into the minds of more notorious cult leaders every Tuesday. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">42TgXOF7tJc4ohy3eNrqdi</guid>
+      <pubDate>Tue, 23 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1850</itunes:duration>
+    </item>
+    <item>
+      <title>Killer Couples Pt. 4</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6iAZTPJ4mMuqeuGjr2WBgG?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Once a promising intelligence officer, Ray Fernandez transformed into a career conman, swindling lonely women out of their savings. When he met Martha Beck in 1947, his Lonely Hearts con became a deadly scheme of spiralling jealousies and stolen fortunes. For more episodes like this one, follow Serial Killers, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6iAZTPJ4mMuqeuGjr2WBgG</guid>
+      <pubDate>Sun, 21 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2287</itunes:duration>
+    </item>
+    <item>
+      <title>Killer Couples Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1yi4EzDaZka8Hcj8R0cBnu?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>If love makes you do something evil, does that make you evil, too? In the late 1970s, Gerald Gallego twisted himself around Charlene’s heart and didn’t let go. The couple, later known as “The Sex Slave Killers,” worked in tandem to kidnap and murder ten women. Was Charlene also a victim?For more episodes like this one, follow Serial Killers, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1yi4EzDaZka8Hcj8R0cBnu</guid>
+      <pubDate>Tue, 16 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2586</itunes:duration>
+    </item>
+    <item>
+      <title>Killer Couples Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0gVHlIc8LwFADxGBmFJQam?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Following a whirlwind romance, Alton Coleman and Debra Brown embarked on a violent rampage that turned the summer of 1984 bloody.For more episodes like this one, follow Serial Killers, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0gVHlIc8LwFADxGBmFJQam</guid>
+      <pubDate>Sun, 14 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2515</itunes:duration>
+    </item>
+    <item>
+      <title>Killer Couples Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5MInrEFd4mtD6GCqU0QHaW?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>They say love is a many-splendored thing. But for Ray and Faye Copeland, it was a thing of violence. The couple’s murderous crimes made them two of the oldest people ever sentenced to death in the United States.For more episodes like this one, follow Serial Killers, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5MInrEFd4mtD6GCqU0QHaW</guid>
+      <pubDate>Tue, 09 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2480</itunes:duration>
+    </item>
+    <item>
+      <title>Babysitters Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/48XDpRr5F2fM7i9bqPLWha?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>As babysitters became horror movie tropes, the real-life terror didn't slow down. In 1981, 15-year-old babysitter Kelly Cook was murdered by a man who called himself "Bill Christensen." To this day, his true identity remains a mystery.For more episodes like this one, follow Unsolved Murders, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">48XDpRr5F2fM7i9bqPLWha</guid>
+      <pubDate>Sun, 07 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2012</itunes:duration>
+    </item>
+    <item>
+      <title>Babysitters Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6xl2AstoB0QzIgxaHWDaY9?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In 1953, 15-year-old Evelyn Hartley left to babysit a neighbor's child – but she never came home. Following a trail of bloodstains and clothing scraps, police led a fruitless search for her killer. Today, some believe Evelyn might've been the victim of one of the most terrifying serial killers in American history.For more episodes like this one, follow Unsolved Murders, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6xl2AstoB0QzIgxaHWDaY9</guid>
+      <pubDate>Tue, 02 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2116</itunes:duration>
+    </item>
+    <item>
+      <title>Babysitters Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/679ALDA2CKFJoSmAd8lscy?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A 1950 crime in Missouri may have inspired the urban legend about the babysitter and the man upstairs. When the Romacks returned from a night out, they found their 13-year-old babysitter, Janett Christman, dead in their living room — and police had reason to believe it was an “inside job.” For more episodes like this one, follow Unsolved Murders, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">679ALDA2CKFJoSmAd8lscy</guid>
+      <pubDate>Sun, 31 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2097</itunes:duration>
+    </item>
+    <item>
+      <title>Life After Death Pt. 4</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/63DAEjGZTzu752cNjyyqOs?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Occasionally, a presence comes along that is so wicked, it can infest entire groups of people — even nuns. But getting rid of demonic power will take more than a sprinkling of holy water. Today we explore infamous cases of exorcisms, including the real-life example observed by the director of The Exorcist, and investigate why exorcisms are still on the rise. For more episodes like this one, follow Unexplained Mysteries, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">63DAEjGZTzu752cNjyyqOs</guid>
+      <pubDate>Wed, 27 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2296</itunes:duration>
+    </item>
+    <item>
+      <title>Life After Death Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/382n3VbNr6b7iaWbCMpQtY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How does a house become haunted? It could be because a gruesome murder occurred there. Maybe it sits on an ancient burial ground. Or perhaps it has to do with the perspective of the people who are calling it haunted. For more episodes like this one, follow Unexplained Mysteries, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">382n3VbNr6b7iaWbCMpQtY</guid>
+      <pubDate>Mon, 25 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1942</itunes:duration>
+    </item>
+    <item>
+      <title>Life After Death Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6lZVeLy4KaUYA4mXgWMvOf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Photographs and ouija boards. Tape recorders and EMF detectors. Ghost hunters have long tried using technology to prove the existence of spirits. With new instruments on the horizon, will spiritualists finally be able to show proof of the supernatural? For more episodes like this one, follow Unexplained Mysteries, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6lZVeLy4KaUYA4mXgWMvOf</guid>
+      <pubDate>Wed, 20 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1997</itunes:duration>
+    </item>
+    <item>
+      <title>Life After Death Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/465suYkwNtlkBDyaXVrNAY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From shamans to mystics to medical marvels, people have been experiencing out of body experiences for centuries. Some think they can give us a glimpse into the afterlife, while military experiments suggest they can give us healing powers and time-travel capabilities. For more episodes like this one, follow Unexplained Mysteries, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">465suYkwNtlkBDyaXVrNAY</guid>
+      <pubDate>Mon, 18 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2065</itunes:duration>
+    </item>
+    <item>
+      <title>NXIVM Pt. 4</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4S0CVADEATfPKbYzrNOxUD?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In 2017, news of Keith Raniere’s predatory sorority finally hit the airwaves. After disavowing any connection to the group, the 57-year-old cult leader read the writing on the wall and fled to Mexico. But he wouldn’t be allowed to avoid consequences that easily...For more episodes like this one, follow Cults, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4S0CVADEATfPKbYzrNOxUD</guid>
+      <pubDate>Thu, 14 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2614</itunes:duration>
+    </item>
+    <item>
+      <title>NXIVM Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0hXhtYdEAuonaCHO3I1T1h?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>By 2006, 46-year-old Keith Raniere had made NXIVM alluring enough to attract billionaire heiresses and Hollywood actresses. But as women began defecting, he feared he was losing control — and in a bid to reassert dominance, created a predatory group known as DOS. For more episodes like this one, follow Cults, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0hXhtYdEAuonaCHO3I1T1h</guid>
+      <pubDate>Tue, 12 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2473</itunes:duration>
+    </item>
+    <item>
+      <title>NXIVM Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3u8fZjcRr8maykMmSsMtue?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In 1999, after the collapse of Consumers Buyline, 39-year-old Keith embarked on a new business venture. But while the product he was selling changed, his approach remained the same. And soon, he began to prey upon the very students he had promised to help.For more episodes like this one, follow Cults, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3u8fZjcRr8maykMmSsMtue</guid>
+      <pubDate>Sun, 10 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2493</itunes:duration>
+    </item>
+    <item>
+      <title>NXIVM Pt. 1 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/50muOSniXz3SXyDfGh5yGb?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>After acing an IQ test in 1988, 28-year-old Keith Raniere was able to brand himself “The Smartest Man in the World.” The moniker allowed him to seduce unappreciated businesswoman Toni Natalie, who would go on to help Keith grow the first of his predatory companies.For more episodes like this one, follow Cults, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">50muOSniXz3SXyDfGh5yGb</guid>
+      <pubDate>Tue, 05 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2660</itunes:duration>
+    </item>
+    <item>
+      <title>Working Late Pt. 6</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5tHWLtDVvZ6ePv0JTl0o2l?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In this chilling conclusion to our Working Late series, we're diving into the frightening world of medical professionals who killed again and again. And this wasn't just malpractice — these healers from hell delighted in their power, and got away with it for years.For more episodes like this one, follow Serial Killers, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5tHWLtDVvZ6ePv0JTl0o2l</guid>
+      <pubDate>Sun, 03 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2211</itunes:duration>
+    </item>
+    <item>
+      <title>Working Late Pt. 5</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5sjoSBxyYGLIuZZs3gcPN8?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In our continuing exploration of the most popular jobs for serial killers, we're taking a deep dive into those murderers who spent time in the military. It's a job that literally taught these men to kill, and they wielded that skill with alarming ferocity.For more episodes like this one, follow Serial Killers, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5sjoSBxyYGLIuZZs3gcPN8</guid>
+      <pubDate>Thu, 30 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2371</itunes:duration>
+    </item>
+    <item>
+      <title>Working Late Pt. 4</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7HrF5XcUQsQXWQ6Uf4xGNW?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The number of psychopaths who hold positions with "CEO" in the title would alarm you — even if it wouldn't surprise you. Today, we're turning our attention to the business world, where a termination doesn't just mean you're losing your job...For more episodes like this one, follow Serial Killers, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7HrF5XcUQsQXWQ6Uf4xGNW</guid>
+      <pubDate>Tue, 28 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2136</itunes:duration>
+    </item>
+    <item>
+      <title>Working Late Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7bvcsNCcM9csWvfGzesptQ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>At the halfway point of this Working Late series, we want to look at the people whose work is often overlooked, but that keeps society running. Laborers possess the skills to repair our homes, build roads, and keep us safe. But these skills can also help them get away with murder.For more episodes like this one, follow Serial Killers, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7bvcsNCcM9csWvfGzesptQ</guid>
+      <pubDate>Sun, 26 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2170</itunes:duration>
+    </item>
+    <item>
+      <title>Working Late Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Ai9jWcYSK7AXZ8TV2e8SC?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>You pass them every day in the car — truck drivers hauling things from one end of the country to the other. But do you ever think about how that transient lifestyle makes truckers the perfect serial killers? Well, if you haven't yet, you will now. Welcome to episode two of our Working Late series on the most popular jobs for serial killers.For more episodes like this one, follow Serial Killers, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1Ai9jWcYSK7AXZ8TV2e8SC</guid>
+      <pubDate>Thu, 23 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2276</itunes:duration>
+    </item>
+    <item>
+      <title>Working Late Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1DDCbuLUm68MIhI9RIzTXw?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>What are the most popular jobs among serial killers? In this six-part series, we explore the professions that were twisted to suit the darkest after-hours pursuits. For more episodes like this one, follow Serial Killers, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1DDCbuLUm68MIhI9RIzTXw</guid>
+      <pubDate>Tue, 21 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2194</itunes:duration>
+    </item>
+    <item>
+      <title>9/11 Pt. 6: Legacy</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0yh7RJjZhtolgQdCeHkr1A?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the final episode of our 9/11 series, we take a look at the legacy of 9/11 and how the memory of that day impacted the world in unexpected ways. For more episodes like this one, follow Conspiracy Theories, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0yh7RJjZhtolgQdCeHkr1A</guid>
+      <pubDate>Sun, 19 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1892</itunes:duration>
+    </item>
+    <item>
+      <title>9/11 Pt. 5: Warning Signs</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5GsbFgPOKBJdWamVIVcUOY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How much did the U.S. government actually know about the 9/11 attacks before they happened? Was President George W. Bush angling for war since his first day in office? For more episodes like this one, follow Conspiracy Theories and Unexplained Mysteries, Spotify Originals from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5GsbFgPOKBJdWamVIVcUOY</guid>
+      <pubDate>Tue, 14 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2183</itunes:duration>
+    </item>
+    <item>
+      <title>9/11 Pt. 4: Coverup</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/36OxYtbuEGWkgxTDOjhOQB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Throughout the 1990s, a private equity firm called the Carlyle Group began purchasing and investing in a multitude of private defense contracting and weapons companies. In the months after 9/11, they made millions as the U.S. prepared for war. Some of Carlyle's most prominent investors and associates included the Saudi royal family, the bin Laden family, and the Bush family. Did they profit off 9/11? And did George W. Bush help cover up for the Saudis?For more episodes like this one, follow Conspiracy Theories and Unexplained Mysteries, Spotify Originals from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">36OxYtbuEGWkgxTDOjhOQB</guid>
+      <pubDate>Sun, 12 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2371</itunes:duration>
+    </item>
+    <item>
+      <title>9/11 Pt. 3: Fringe Theories</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5AYrYMoypLXdhhKQW0CQyL?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We trace the path through history to 9/11, then examine how the official 9/11 Commission Report gave conspiracy theorists a foothold. For more episodes like this one, follow Conspiracy Theories and Unexplained Mysteries, Spotify Originals from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5AYrYMoypLXdhhKQW0CQyL</guid>
+      <pubDate>Tue, 07 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1878</itunes:duration>
+    </item>
+    <item>
+      <title>9/11 Pt. 2: Ground Zero</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3PWY0UmVmAWURLfcBI0rHj?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The horrific attacks of September 11th come to an end. In the aftermath, rescuers and volunteers clean up while military and government leaders decide how to respond. For more episodes like this one, follow Conspiracy Theories and Unexplained Mysteries, Spotify Originals from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3PWY0UmVmAWURLfcBI0rHj</guid>
+      <pubDate>Sun, 05 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1690</itunes:duration>
+    </item>
+    <item>
+      <title>9/11 Pt. 1: The Attacks</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5lJ9hdbmLN2jBFHb4GpmbM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The morning of September 11, 2001 changed the world. Twenty years later, questions still linger about the worst terrorist attack in U.S. history. In this six-part crossover special, we’re taking a look back at what we do and don’t know about the tragedy that unfolded, starting with a moment-by-moment account of the attacks. For more episodes like this one, follow Conspiracy Theories and Unexplained Mysteries, Spotify Originals from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5lJ9hdbmLN2jBFHb4GpmbM</guid>
+      <pubDate>Tue, 31 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1881</itunes:duration>
+    </item>
+    <item>
+      <title>Party Fouls Pt. 4</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6zlIisVlQ02rcpNxNVCuWS?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In 1977, a couple built a Satanically-inspired mansion in rural Georgia. They called their abode Corpsewood Manor. Five years later, a gruesome double-murder made the home true to its name.For more episodes like this one, follow Solved Murders, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6zlIisVlQ02rcpNxNVCuWS</guid>
+      <pubDate>Sun, 29 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2529</itunes:duration>
+    </item>
+    <item>
+      <title>Party Fouls Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5l2crmAHANtac6arwEt0Iw?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In August 1969, eight-and-a-half-months-pregnant actress Sharon Tate was on top of the world, living the Hollywood dream. That is, until it turned into the bloodiest kind of Hollywood nightmare.For more episodes like this one, follow Solved Murders, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5l2crmAHANtac6arwEt0Iw</guid>
+      <pubDate>Tue, 24 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2549</itunes:duration>
+    </item>
+    <item>
+      <title>Party Fouls Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2S6hcn9ankyOH5m1bM6q7g?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In 2011, 17-year-old Tyler Hadley threw a wild house party in Port St. Lucie, Florida. What his guests didn’t know was that on the other side of a locked door, dead bodies lay hidden. A jarring confession ignited a race against time to end the revelry for good.For more episodes like this one, follow Solved Murders, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2S6hcn9ankyOH5m1bM6q7g</guid>
+      <pubDate>Sun, 22 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1928</itunes:duration>
+    </item>
+    <item>
+      <title>Party Fouls Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/11x0W7CKBL3QKrs8ThOFZg?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the 1990s, the Club Kids ruled the New York City party scene. They represented fun, freedom, and self-expression — until a grisly murder rocked their tight-knit community.For more episodes like this one, follow Solved Murders, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">11x0W7CKBL3QKrs8ThOFZg</guid>
+      <pubDate>Tue, 17 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2232</itunes:duration>
+    </item>
+    <item>
+      <title>Satanic Panic Pt. 5</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3wUvY6VhTTGs0yQBY7sIZ8?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the years since the Satanic Panic, it's become obvious that the crimes people were accused of never really happened. But while none of the nightmarish stories of ritual abuse in Satan’s name were true, it doesn’t mean there weren’t real victims… For more episodes like this one, follow Cults, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3wUvY6VhTTGs0yQBY7sIZ8</guid>
+      <pubDate>Sun, 15 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2436</itunes:duration>
+    </item>
+    <item>
+      <title>Satanic Panic Pt. 4</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4hrtGPtKVGK0JYIg3SJA2h?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Emboldened by power- and money-hungry conmen, Evangelical doomsdayers set the stage for an epic showdown of biblical proportions. The fight for the souls of every last American was beginning, they claimed, and Satan was coming to drag us all to hell.For more episodes like this one, follow Cults, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4hrtGPtKVGK0JYIg3SJA2h</guid>
+      <pubDate>Tue, 10 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2537</itunes:duration>
+    </item>
+    <item>
+      <title>Satanic Panic Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4GMCIKu194BNvCRwthyTv7?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From Adolfo Costanzo and the Narcosatanists to the gruesome Chicago Rippers, these horrific groups showed that fears of murderous devil-worshipping cults weren't entirely unfounded.For more episodes like this one, follow Cults, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4GMCIKu194BNvCRwthyTv7</guid>
+      <pubDate>Sun, 08 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2345</itunes:duration>
+    </item>
+    <item>
+      <title>Satanic Panic Pt. 2 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6Thk4DgiSQfwxfK9GY2wxq?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The terrifying crimes of three serial killers helped feed fears of a growing satanic influence in the U.S. In part two, we’re covering the occult influences and media coverage of “Son of Sam” David Berkowitz, “Night Stalker” Richard Ramirez, and “Devil Child” Sean Sellers. For more episodes like this one, follow Cults, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6Thk4DgiSQfwxfK9GY2wxq</guid>
+      <pubDate>Tue, 03 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2214</itunes:duration>
+    </item>
+    <item>
+      <title>Satanic Panic Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1b2gVMzszSYuFq2MLFUfIr?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the 1980s, Satanic Panic was a mass hysteria that consumed communities and ruined lives — all over things that never happened. In this five-part series, we’re examining the origins of the panic, tracing back through the decades to see how the fear of Satan’s influence in society swept across North America. For more episodes like this one, follow Cults, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1b2gVMzszSYuFq2MLFUfIr</guid>
+      <pubDate>Sun, 01 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2402</itunes:duration>
+    </item>
+    <item>
+      <title>Failed Conspiracies Pt. 4</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5drIVeVrVzngBTAjznD2Wy?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the 1st century B.C.E., competition between Roman senators was stiff — even deadly. When a politician named Catiline learned he'd been knocked out of the running, he organized a coup to overthrow the Roman government entirely. And let's just say, he didn't end up getting his way.For more episodes like this one, follow Conspiracy Theories. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5drIVeVrVzngBTAjznD2Wy</guid>
+      <pubDate>Tue, 27 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2429</itunes:duration>
+    </item>
+    <item>
+      <title>Failed Conspiracies Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6hLhBjNeFsjXwagJo0AbYI?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the 15th century, the Medicis were the most powerful banking family in Italy. Members of a rival banking family known as the Pazzi attempted to overthrow them but failed. What would the world look like today if the Medici line had ended in 1478?For more episodes like this one, follow Conspiracy Theories.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6hLhBjNeFsjXwagJo0AbYI</guid>
+      <pubDate>Sun, 25 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2275</itunes:duration>
+    </item>
+    <item>
+      <title>Failed Conspiracies Pt. 2 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/37EBlcgWQVzoioaQJ95WTq?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Remember, remember the 5th of November? You might remember it differently had Guy Fawkes and his team successfully blown up Parliament back in 1605.For more episodes like this one, follow Conspiracy Theories free on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">37EBlcgWQVzoioaQJ95WTq</guid>
+      <pubDate>Tue, 20 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2473</itunes:duration>
+    </item>
+    <item>
+      <title>Failed Conspiracies Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1yPUwMRcQCM1tJ1eHDfqK6?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In 1944, a group of Adolf Hitler's top-ranking officials devised a plot to kill the Nazi leader and end his reign for good. But things didn't exactly go as planned…For more episodes like this one, follow Conspiracy Theories free on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1yPUwMRcQCM1tJ1eHDfqK6</guid>
+      <pubDate>Sun, 18 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2315</itunes:duration>
+    </item>
+    <item>
+      <title>Declassified UFOs Pt. 4</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2AKj0P8Oddxx67xHGPEfkP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Freedom of Information Act allowed civilian UFOlogists to access information the government had kept under wraps. But after the millennium, the U.S. government itself decided to get back into the game — and discover once and for all where UFOs come from.For more episodes like this one, follow Unexplained Mysteries. Every Tuesday and Thursday, unravel the stories behind history’s most compelling puzzles. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2AKj0P8Oddxx67xHGPEfkP</guid>
+      <pubDate>Tue, 13 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2407</itunes:duration>
+    </item>
+    <item>
+      <title>Declassified UFOs Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2LLPNUccjeAyuNMUEPRKAF?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In 1952, the Air Force created a third project, pursuing objective UFO data without a bias. After examining thousands of cases, and dismissing many as planes, birds, or clouds, Project Blue Book was left with several UFO sightings that no one could explain.For more episodes like this one, follow Unexplained Mysteries. Every Tuesday and Thursday, unravel the stories behind history’s most compelling puzzles.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2LLPNUccjeAyuNMUEPRKAF</guid>
+      <pubDate>Sun, 11 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2368</itunes:duration>
+    </item>
+    <item>
+      <title>Declassified UFOs Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4Qp15cvQcum3Ndo95ySs61?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In 1949, the Air Force launched a new UFO research project: Project Grudge. But this time, they had a new mandate to follow: extraterrestrial UFOs did not — and could not — exist. For more episodes like this one, follow Unexplained Mysteries. Every Tuesday and Thursday, unravel the stories behind history’s most compelling puzzles. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4Qp15cvQcum3Ndo95ySs61</guid>
+      <pubDate>Tue, 06 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1924</itunes:duration>
+    </item>
+    <item>
+      <title>Declassified UFOs Pt. 1 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7cmkbBNBzvWh2SOO8tNboO?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In 1947, a team of Air Force officials and scientific experts began studying unidentified flying objects spotted in American skies. Their investigations under Project Sign marked the beginning of a decades-long battle for objectivity and transparency in UFO research. For more episodes like this one, follow Unexplained Mysteries. Every Tuesday and Thursday, unravel the stories behind history’s most compelling puzzles.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7cmkbBNBzvWh2SOO8tNboO</guid>
+      <pubDate>Sun, 04 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2293</itunes:duration>
+    </item>
+    <item>
+      <title>Solstice Special: Pisces, Aries, Taurus</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5udZaBsompUq0QZjKtCTIT?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the final installment of our Astrology takeover, we look at Pisces, Aries, and Taurus — the twin fish, the ram, and the bull of the zodiac.For more celestial stories, keep listening across Parcast Network for episodes on the rest of the Zodiac signs, constellations and more!  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5udZaBsompUq0QZjKtCTIT</guid>
+      <pubDate>Wed, 23 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2657</itunes:duration>
+    </item>
+    <item>
+      <title>Solstice Special: Sagittarius, Capricorn, Aquarius</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5ymIHwjeDr08vFdoje1hKe?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Our astrology takeover continues, with Sagittarius, Capricorn, and Aquarius — the archer, the sea goat, and the water-bearer.For more celestial stories, keep listening across Parcast Network for episodes on the rest of the Zodiac signs, constellations, and more!  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5ymIHwjeDr08vFdoje1hKe</guid>
+      <pubDate>Mon, 21 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>3043</itunes:duration>
+    </item>
+    <item>
+      <title>Solstice Special: Virgo, Libra, and Scorpio</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0xFePW52Rj58pNgta5ya1F?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Our astrology takeover continues with the stories behind Virgo, Libra and Scorpio — the maiden, the scales of justice, and the vicious scorpion.For more celestial stories, keep listening across Parcast Network for episodes on the rest of the Zodiac signs, constellations and more! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0xFePW52Rj58pNgta5ya1F</guid>
+      <pubDate>Wed, 16 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>3005</itunes:duration>
+    </item>
+    <item>
+      <title>Solstice Special: Gemini, Cancer, Leo</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0LXs1Sj0Uk1gLyucslPhIB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The stars can tell us our fates, but they also have stories of their own. Today, hear the tales behind Gemini, Cancer and Leo — the cosmic twins of Rome, a monstrous crab, and the ferocious Nemean Lion. For more celestial stories, keep listening across Parcast Network for episodes on the rest of the Zodiac signs, constellations and more!  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0LXs1Sj0Uk1gLyucslPhIB</guid>
+      <pubDate>Mon, 14 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2582</itunes:duration>
+    </item>
+    <item>
+      <title>Miracle Healers Pt. 4</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1EDLCzw5gLqpzALQj1FmM8?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From creating costly “healing instruments” to engaging in group sex activities, the Gentle Wind Project claimed to address traumas through spiritual energy work in the 1980s and ‘90s. When former members spoke out about the cult’s abuse, it disbanded, only to reemerge in 2007.If you enjoy this Cults episode and want to hear more international crime cases, follow International Infamy with Ashley Flowers, a new Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1EDLCzw5gLqpzALQj1FmM8</guid>
+      <pubDate>Tue, 08 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2318</itunes:duration>
+    </item>
+    <item>
+      <title>Miracle Healers Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5oDSOhV4vdhdPkAVu8JLZ5?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Known as “Babu” to locals, former pastor Ambilikile Mwasapile gained international attention after claiming in 2010 that he had found a cure for cancer, diabetes and AIDS. His alleged medical breakthrough was inspired by divine dreams — but it cost potentially thousands of people their lives. If you enjoy this Cults episode and want to hear more international crime cases, follow International Infamy with Ashley Flowers, a new Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5oDSOhV4vdhdPkAVu8JLZ5</guid>
+      <pubDate>Sun, 06 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1891</itunes:duration>
+    </item>
+    <item>
+      <title>Miracle Healers Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7J3ujrleOKlq9NCEmkzVaK?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Around 2007, a new miracle healer stepped on stage in Brazil, claiming to cure cancer, heart disease and HIV. Followers flocked from all over the world… But the healer wasn’t a traditional preacher, or even a flashy snake oil salesman. She was a 3-year-old girl named Alani Santos.For more international crime cases, follow International Infamy with Ashley Flowers, a new Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7J3ujrleOKlq9NCEmkzVaK</guid>
+      <pubDate>Thu, 03 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1763</itunes:duration>
+    </item>
+    <item>
+      <title>Miracle Healers Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2HsYs6AYMErq3M0DHt7qum?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ukrainian psychotherapist Anatoly Kashpirovsky led hypnotic TV healing sessions in the late 1980s and ‘90s, drawing millions of viewers across Eastern Europe. He laid low after a series of controversies — but made his comeback in 2009, and is still allegedly healing the masses on his hit YouTube channel.For more international crime cases, follow International Infamy with Ashley Flowers, a new Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2HsYs6AYMErq3M0DHt7qum</guid>
+      <pubDate>Tue, 01 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2051</itunes:duration>
+    </item>
+    <item>
+      <title>Behind The Conjuring Pt. 4</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7MzK0YfxY4LlQ4nC4TQSoS?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>An Amityville, New York home was the site of a brutal family murder in 1974. When a new family moved in less than a year later, they lasted just weeks before being driven out by bizarre and horrifying events. The house is featured in the opening scenes of The Conjuring Two. For more episodes like this one, follow Haunted Places free on Spotify.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7MzK0YfxY4LlQ4nC4TQSoS</guid>
+      <pubDate>Sun, 30 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2533</itunes:duration>
+    </item>
+    <item>
+      <title>Behind The Conjuring Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5o2WOIXmRGncGj9F46r8ol?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In 1980, a family in Connecticut encountered a demon while checking out a rental home. Paranormal experts Ed and Lorraine Warren were brought in to help, inspiring The Conjuring film franchise's third installment, The Conjuring: The Devil Made Me Do It. The building became known as the Brookfield House... and many believe the demon still lurks there, waiting for its next victim.For more episodes like this one, follow Haunted Places free on Spotify.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5o2WOIXmRGncGj9F46r8ol</guid>
+      <pubDate>Tue, 25 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2208</itunes:duration>
+    </item>
+    <item>
+      <title>Behind The Conjuring Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3kCsPioVnTN2dgJEWoEGzb?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A single mother and her four children are plagued by paranormal activity at their house in Enfield, England. Everyone who visits has a different explanation for its terrors — medieval yeomen, an evil magician, “ten naughty things''... The haunting becomes one of the most well-publicized cases in modern history, and the inspiration for The Conjuring 2.For more episodes like this one, follow Haunted Places free on Spotify.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3kCsPioVnTN2dgJEWoEGzb</guid>
+      <pubDate>Sun, 23 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2336</itunes:duration>
+    </item>
+    <item>
+      <title>Behind The Conjuring Pt. 1 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0IyyoPVO7VL9eEeaq0iIWR?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The original film of The Conjuring franchise was inspired by a centuries-old Rhode Island property. Built in 1736, the Old Arnold Estate was allegedly once the home of a satanic witch. When the Perron family moved into the home in 1973, they reawakened her spirit — and famed paranormal experts Ed and Lorraine Warren showed up to investigate. For more episodes like this one, follow Haunted Places free on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0IyyoPVO7VL9eEeaq0iIWR</guid>
+      <pubDate>Tue, 18 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2507</itunes:duration>
+    </item>
+    <item>
+      <title>Whistleblowers Pt. 6</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7ja0FV0bDdts1Acxvai07w?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Wrapping up our deep dive into the world of whistleblowing, we're examining its current state. We look at where marquee whistleblowers like Chelsea Manning, Julian Assange, and Edward Snowden are today. And we look ahead at what will happen to whistleblowers in the future. Will technological advances help them — or make their jobs even more deadly?For more episodes like this one, follow Espionage free on Spotify.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7ja0FV0bDdts1Acxvai07w</guid>
+      <pubDate>Thu, 13 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2661</itunes:duration>
+    </item>
+    <item>
+      <title>Whistleblowers Pt. 5</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4IxMhUYzCIesAeKaPoG9Gd?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In 2013, NSA systems administrator Edward Snowden handed over thousands of classified documents to journalists. The subsequent revelations of government mass surveillance re-defined whistleblowing in the 21st century and sparked an international conversation about privacy.For more episodes like this one, follow Espionage free on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4IxMhUYzCIesAeKaPoG9Gd</guid>
+      <pubDate>Tue, 11 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2828</itunes:duration>
+    </item>
+    <item>
+      <title>Whistleblowers Pt. 4</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/177PkUm7idpBUVUfNH9Ta3?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ambiguity and risk are par for the course with whistleblowing. The space between people’s rights to government transparency and the government’s need to keep certain secrets can seem nebulous. But whatever a potential whistleblower decides, one thing is clear: whistleblowing stories are most often tragedies. For more episodes like this one, follow Espionage free on Spotify.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">177PkUm7idpBUVUfNH9Ta3</guid>
+      <pubDate>Sun, 09 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2562</itunes:duration>
+    </item>
+    <item>
+      <title>Whistleblowers Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0q5zmscuWU9JycrnQT7h2I?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The WikiLeaks releases in 2010 came almost entirely from a single source: Chelsea Manning. While deployed in Iraq, the struggling U.S. Army private was also fighting a private war with her identity. When she was given access to classified information, Manning finally found an opportunity to assert her true beliefs to the world.For more episodes like this one, follow Espionage free on Spotify.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0q5zmscuWU9JycrnQT7h2I</guid>
+      <pubDate>Thu, 06 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2572</itunes:duration>
+    </item>
+    <item>
+      <title>Whistleblowers Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5srx7ix68Ys0yAuGB5XURj?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Hacker and transparency activist Julian Assange founded the website WikiLeaks in early 2006. In 2010, he garnered worldwide attention for several massive information drops that exposed some of the darkest aspects of U.S. foreign relations — and set himself up as one of the most compelling figures of contemporary whistleblowing.For more episodes like this one, follow Espionage free on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5srx7ix68Ys0yAuGB5XURj</guid>
+      <pubDate>Tue, 04 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2282</itunes:duration>
+    </item>
+    <item>
+      <title>Whistleblowers Pt. 1 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/10ocps7BtFtQ3e95wrQ3v6?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The modern origins of whistleblowing reach all the way back to a surprising source: Benjamin Franklin. The act has developed significantly into the 20th century — and so have the legal consequences.For more episodes like this one, follow Espionage free on Spotify.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">10ocps7BtFtQ3e95wrQ3v6</guid>
+      <pubDate>Sun, 02 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2289</itunes:duration>
+    </item>
+    <item>
+      <title>OKC Bombing Retrospective Pt. 4</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/11AEzVITgrQ5RJHGRVUaqR?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Investigating the blast and compiling evidence was a huge undertaking. And in the 25 years since the Oklahoma City bombing, McVeigh was turned into something of a folk hero, with his rhetoric inspiring copycats and seeping into mainstream politics.For more episodes like this one, follow Conspiracy Theories free on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">11AEzVITgrQ5RJHGRVUaqR</guid>
+      <pubDate>Tue, 27 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2429</itunes:duration>
+    </item>
+    <item>
+      <title>OKC Bombing Retrospective Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0OaWlQXcYj6rxKP6BTl4wK?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>On the morning of the attack, McVeigh parked a rental truck below the Murrah building’s daycare center. At 9am, he ignited the bomb’s two-minute fuse and fled. The explosion was catastrophic, and the day thereafter was filled with tragic deaths, miraculous survivals — and the hunt for the person at the center of it all.For more episodes like this one, follow Conspiracy Theories free on Spotify.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0OaWlQXcYj6rxKP6BTl4wK</guid>
+      <pubDate>Sun, 25 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2197</itunes:duration>
+    </item>
+    <item>
+      <title>OKC Bombing Retrospective Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/49Zgu65ncWYgrpS7uGEqyJ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>After coming of age in the early ‘90s, Timothy McVeigh became increasingly radicalized against the U.S. government. Witnessing tragic events at Ruby Ridge and Waco motivated him to plan and execute the most devastating incident of domestic terrorism in American history.For more episodes like this one, follow Conspiracy Theories free on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">49Zgu65ncWYgrpS7uGEqyJ</guid>
+      <pubDate>Tue, 20 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2477</itunes:duration>
+    </item>
+    <item>
+      <title>OKC Bombing Retrospective Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/76NVNqf56UAqfZw52024e8?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>On April 19, 1995, U.S. Army veteran Timothy McVeigh detonated a truck bomb outside the Alfred P. Murrah Federal Building in Oklahoma City, killing 168 people and injuring hundreds more.For more episodes like this one, follow Conspiracy Theories free on Spotify.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">76NVNqf56UAqfZw52024e8</guid>
+      <pubDate>Sun, 18 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2359</itunes:duration>
+    </item>
+    <item>
+      <title>Easter Special: Mysteries of the Vatican Pt. 4</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3MyWNqGknVrAkwOl291pvN?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The world looked on in shock when an assassin shot Pope John Paul II in May 1981. The official story was that a crazed lone gunman was to blame, but some theories suggest the attack may have been part of one of the biggest international coverups of all time… For more episodes like this one, follow Conspiracy Theories free on Spotify! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3MyWNqGknVrAkwOl291pvN</guid>
+      <pubDate>Tue, 13 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2388</itunes:duration>
+    </item>
+    <item>
+      <title>Easter Special: Mysteries of the Vatican Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0USsOo6WSCTSRIpDCXUWiB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In 1917, three children in Fatima, Portugal received a series of prophetic messages that were kept secret for decades — first at the behest of the heavenly message-giver, and then by the Vatican itself. When all three secrets were finally revealed, they made for an apocalyptic story of war, destruction… and redemption. For more episodes like this one, follow Conspiracy Theories free on Spotify!  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0USsOo6WSCTSRIpDCXUWiB</guid>
+      <pubDate>Sun, 11 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2466</itunes:duration>
+    </item>
+    <item>
+      <title>Easter Special: Mysteries of the Vatican Pt. 2 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4ZKGh1afkRtXIanA5VSpyE?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Over the centuries, the Vatican Secret Archive has ballooned to millions of documents contained in over 50 miles of shelves. It’s rumored to contain the world's largest collection of pornography, proof of Jesus Christ... even predictions of the end of the world.For more episodes like this one, follow Conspiracy Theories free on Spotify! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4ZKGh1afkRtXIanA5VSpyE</guid>
+      <pubDate>Tue, 06 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2397</itunes:duration>
+    </item>
+    <item>
+      <title>Easter Special: Mysteries of the Vatican Pt. 1 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5MUWYJKx7QF4VlJOCxsLdf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Today, Vatican City is known as an elegant seat of divine power and prestige. But the centuries-long history of the Vatican is marked by bloodshed, corruption — and more secrets than the Church would like to admit. For more episodes like this one, follow Conspiracy Theories free on Spotify! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5MUWYJKx7QF4VlJOCxsLdf</guid>
+      <pubDate>Sun, 04 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2571</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: George Trofimoff Pt. 2, Soviet Spy </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Z06kULSH60G0xmbQ9xMVS?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Espionage, a Parcast Original. For more episodes like this one, subscribe to Espionage on Spotify, or wherever you listen to podcasts.After moving to Florida in the 1990s, George Trofimoff thought he had left all traces of his espionage back in Europe. However, as the FBI got wind of what he had done, a team of determined agents were committed to make him pay for his treason. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1Z06kULSH60G0xmbQ9xMVS</guid>
+      <pubDate>Thu, 01 Aug 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2493</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: George Trofimoff Pt. 1, Soviet Spy </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4Pg8j5wLHkzPoSSh1B9xAT?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Espionage, a Parcast Original. For more episodes like this one, subscribe to Espionage on Spotify, or wherever you listen to podcasts.In 1969, American intelligence officer George Trofimoff agreed to provide copies of highly classified documents to the Soviet Union. Driven by a lust for wealth, he was willing to give up his adopted country's biggest secrets for the chance to live a life of luxury. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4Pg8j5wLHkzPoSSh1B9xAT</guid>
+      <pubDate>Thu, 01 Aug 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2806</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: The Chicago Eight Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0Z7bd4Cx45NcWdNtIggknP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Not Guilty, a Parcast Original. For more episodes like this one, subscribe to Not Guilty on Spotify, or wherever you listen to podcasts.After the protests at the 1968 Democratic National Convention devolved into riots, the country demanded answers. Who was responsible for the rampant violence in the streets? In the end, eight of the protest organizers stood trial, referred to as "The Chicago 8."  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0Z7bd4Cx45NcWdNtIggknP</guid>
+      <pubDate>Wed, 31 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2548</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: The Chicago Eight Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2Xc8wbXvrXhxVL1Szq51ST?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Not Guilty, a Parcast Original. For more episodes like this one, subscribe to Not Guilty on Spotify, or wherever you listen to podcasts.The Democratic National Convention was hotly contested in 1968 - the future of the Vietnam War and the fates hundreds of thousands of soldiers stationed overseas were tied to the presidential nominee selection. On the streets of Chicago, liberal protesters turned out in droves. Much to the dismay of Mayor Richard Daley, who enforced a hard line of law and order. When the two sides clashed, the whole world was watching.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2Xc8wbXvrXhxVL1Szq51ST</guid>
+      <pubDate>Wed, 31 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2498</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: The Apollo Missions Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7wpXTzZBAi7b2X04ztfRnr?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Extraterrestrial, a Parcast Original. For more episodes like this one, subscribe to Extraterrestrial on Spotify, or wherever you listen to podcasts.With the assassination of John F. Kennedy, a plan for a joint mission to the moon between the United States and Russia was cancelled before it begun. Decades later, as NASA's documents on the moon landing became declassified, some came to suspect that Kennedy's assassination occurred because he was preparing to reveal to the world the truth about UFOs.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7wpXTzZBAi7b2X04ztfRnr</guid>
+      <pubDate>Mon, 29 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2623</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: The Apollo Missions Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/66MxUR7DVzbJ4TY27aNoMg?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Extraterrestrial, a Parcast Original. For more episodes like this one, subscribe to Extraterrestrial on Spotify, or wherever you listen to podcasts.During the summer of 1969, the Apollo 10 lunar mission orbited the far side of the moon encountered unfamiliar signals coming from the moon's surface. After the famed Apollo 11 moon landing later that summer, word began to spread that the astronauts had encountered something alien. And thus, a decades-long conspiracy was born.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">66MxUR7DVzbJ4TY27aNoMg</guid>
+      <pubDate>Mon, 29 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2454</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: Hurricane Camille Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1ZHpPpSrCKURUKTZ0rqUne?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Survival, a Parcast Original. For more episodes like this one, subscribe to Survival on Spotify, or wherever you listen to podcasts.The terrible storm of August 18th, 1969 utterly devastated the Gulf Coast. However, a coordinated effort from the National Guard, the Seabees, truckers and the federal government returned the area to its former glory. But was the aid distributed fairly, or were marginalized groups ignored?  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1ZHpPpSrCKURUKTZ0rqUne</guid>
+      <pubDate>Sun, 28 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2756</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: Hurricane Camille Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3WLUlWG975ZuvHULVmVclc?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Survival, a Parcast Original. For more episodes like this one, subscribe to Survival on Spotify, or wherever you listen to podcasts.Riding a summer high, the citizens of the Mississippi Coast, also known as the “Riviera of the South,” never expected that on August 18th, 1969, their community would be destroyed by the most powerful storm ever to hit the United States up to that point.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3WLUlWG975ZuvHULVmVclc</guid>
+      <pubDate>Sun, 28 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2622</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: The Chelsea Hotel, Ghosts of the Counterculture</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7vOJTjWkSdEWllrkTvd0nD?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Haunted Places, a Parcast Original. For more episodes like this one, subscribe to Haunted Places on Spotify, or wherever you listen to podcasts.Built in 1884, the Chelsea Hotel has been a beacon of New York City counterculture for over a century. Its bohemian community has included Andy Warhol, Sid Vicious, and Stanley Kubrick. But where there is great creativity, there is often great tragedy. And some residents of this hotel simply refuse to leave. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7vOJTjWkSdEWllrkTvd0nD</guid>
+      <pubDate>Wed, 24 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>3209</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: The Passion Behind The Family Pt. 2 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7vTX0UELzQJngRj9gbdZGE?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Crimes of Passion, a Parcast Original. For more episodes like this one, subscribe to Crimes of Passion on Spotify, or wherever you listen to podcasts.In the early morning of August 9, 1969, Charles Manson’s followers stewed in the aftermath of their murderous actions. They had never done anything like that before, but their passion for Charlie made it feel right. Their gruesome crimes would shock the world and impact the psyche of America for decades to follow.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7vTX0UELzQJngRj9gbdZGE</guid>
+      <pubDate>Tue, 23 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>3179</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: The Passion Behind The Family Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/49d9CC37MTvMFBtooLSXlC?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Crimes of Passion, a Parcast Original. For more episodes like this one, subscribe to Crimes of Passion on Spotify, or wherever you listen to podcasts.When 32-year-old Charles Manson was released from prison in 1967, he made his way to the free-thinking streets of Haight-Ashbury. There, gurus, shamans, and yogis taught the young people who flocked to the city how to think in new ways and reshape their consciousness. Charles became another one of these teachers, mastering the arts of infatuation and manipulation. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">49d9CC37MTvMFBtooLSXlC</guid>
+      <pubDate>Tue, 23 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>3049</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: Chappaquiddick Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/73eOWhGMlVGays4mVHwPzP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Conspiracy Theories, a Parcast Original. For more episodes like this one, subscribe to Conspiracy Theories on Spotify, or wherever you listen to podcasts.In the summer of 1969, Senator and presidential hopeful Ted Kennedy became embroiled in a scandal surrounding the death of Mary Jo Kopechne. The fallout of the incident and Kennedy's suspicious actions would haunt his political ambitions for the rest of his career.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">73eOWhGMlVGays4mVHwPzP</guid>
+      <pubDate>Tue, 23 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2601</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: Chappaquiddick Pt. 1 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1MfS9YYKFHOcpr06EFXxjP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Conspiracy Theories, a Parcast Original. For more episodes like this one, subscribe to Conspiracy Theories on Spotify, or wherever you listen to podcasts.On July 18th, 1969, Ted Kennedy, the youngest son of Joseph Kennedy Sr., drove his car off of a single lane bridge into a pond, resulting in the death of his female passenger. He wouldn't report the accident for ten hours, and in doing so set the scene for an investigation that would lead to more questions than answers. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1MfS9YYKFHOcpr06EFXxjP</guid>
+      <pubDate>Tue, 23 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2604</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: Muhammad Ali, Athlete and Activist </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5fX7SsJfhuvTckN1FuKHMk?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Historical Figures, a Parcast Original. For more episodes like this one, subscribe to Historical Figures on Spotify, or wherever you listen to podcasts.Today, Muhammad Ali is one of the most celebrated athletes and activists in history, but he was not always so appreciated. In 1969, Ali was stripped of his fighting license and his title after being convicted of draft evasion. In 1970, he would return to the ring, and continue to speak truth to power. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5fX7SsJfhuvTckN1FuKHMk</guid>
+      <pubDate>Tue, 23 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>3224</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: “The Manson Girls” Pt. 2 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1A4vzvKPYpdreBgpErZFN0?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Female Criminals, a Parcast Original. For more episodes like this one, subscribe to Female Criminals on Spotify, or wherever you listen to podcasts.As the Manson Family turned onto Cielo Drive, time slowed to a crawl. On August 8, 1969, the most infamous cult slayings in American history would take place. The “Manson Girls” intended to start a riot that would burn Los Angeles to the ground. Instead, they destroyed the counterculture movement their generation had built. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1A4vzvKPYpdreBgpErZFN0</guid>
+      <pubDate>Tue, 23 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2564</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: “The Manson Girls” Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2rTdxGxeJOvNSc0fwJSMb9?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Female Criminals, a Parcast Original. For more episodes like this one, subscribe to Female Criminals on Spotify, or wherever you listen to podcasts.By July, 1969, the "Manson Girls” saw Charlie as more than a leader, he was the second coming of Christ. Manson’s cult gospel called them to prepare for a fast approaching race war called Helter Skelter that would burn Southern California to the ground. And if the war didn’t start on its own, they would light the fuse. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2rTdxGxeJOvNSc0fwJSMb9</guid>
+      <pubDate>Tue, 23 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2746</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: The Brotherhood of Eternal Love Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3OTfIGKl6EJBc7N0TE0ZCp?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Kingpins, a Parcast Original. For more episodes like this one, subscribe to Kingpins on Spotify, or wherever you listen to podcasts.The Brotherhood of Eternal Love reached new heights after the proliferation of their potent LSD tablet "Orange Sunshine." They spread their psychedelic gospel far and wide, even attracting infamous drug advocate Timothy Leary to their ranks. But all of their success would bring on unwanted attention from none other than the federal government. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3OTfIGKl6EJBc7N0TE0ZCp</guid>
+      <pubDate>Mon, 22 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2764</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: The Brotherhood of Eternal Love Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/67WfdwHskAdVTnInwUMKLK?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Kingpins, a Parcast Original. For more episodes like this one, subscribe to Kingpins on Spotify, or wherever you listen to podcasts.Just before the Summer of Love, 22-year-old John Griggs discovered LSD and had an epiphany – he would serve as the Hippie Messiah and guide the world to psychedelic revolution. John set out to the beaches of Southern California where he founded a psychedelic cult and international drug ring, while blazing the trail for the recreational use of psychedelics at the height of the hippie era. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">67WfdwHskAdVTnInwUMKLK</guid>
+      <pubDate>Mon, 22 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2967</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: Jane Doe #59, Unsolved Manson Family Murder?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0ixFmXbhwF8qNK9i4QLbQv?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Unsolved Murders, a Parcast Original. For more episodes like this one, subscribe to Unsolved Murders on Spotify, or wherever you listen to podcasts.In late 1969, the body of a girl who had been stabbed to death was found in a tree just off Mulholland Drive, in Los Angeles, California. The body was unidentifiable, and was thus dubbed "Jane Doe #59." The investigation had no leads to investigate until decades later, when a sheer coincidence would bring the infamous Manson Family into the fold. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0ixFmXbhwF8qNK9i4QLbQv</guid>
+      <pubDate>Mon, 22 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2500</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: James Earl Ray, MLK Assassin</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2Ra3Jp4yCLcwlxSeUiODRd?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Assassinations, a Parcast Original. For more episodes like this one, subscribe to Assassinations on Spotify, or wherever you listen to podcasts.In March 1969, James Earl Ray pled guilty to the murder of civil rights leader Martin Luther King Jr. at the Lorraine Motel. Three days later, he rescinded his confession and declared that he was a fall man for a larger conspiracy. His claims sparked dozens of conspiracy theories that persist to this day. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2Ra3Jp4yCLcwlxSeUiODRd</guid>
+      <pubDate>Sun, 21 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2940</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: Judy Garland, Death of a Starlet</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3OzvAHaJNKZY3Y4dvnO7zZ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by The Dark Side Of, a Parcast Original. For more episodes like this one, subscribe to The Dark Side Of on Spotify, or wherever you listen to podcasts.In 1939, 16-year-old Judy Garland began filming the Wizard of Oz. While the film would become a beloved classic, Judy would go on to struggle with eating disorders and drug addiction she developed on-set, before her afflictions would lead to her tragic demise. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3OzvAHaJNKZY3Y4dvnO7zZ</guid>
+      <pubDate>Sun, 21 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2610</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: The Zodiac Killer Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1WXRevcCi1xefPbpuYaqon?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Unexplained Mysteries, a Parcast Original. For more episodes like this one, subscribe to Unexplained Mysteries on Spotify, or wherever you listen to podcasts.Following the string of brutal murders throughout the 1960s, the masked man known as the Zodiac Killer continued to write letters to the press and police, while capturing the imaginations of terrified onlookers across the country. Fifty years later, there is still no confirmed suspect as to the identity of the murderer.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1WXRevcCi1xefPbpuYaqon</guid>
+      <pubDate>Sat, 20 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2331</itunes:duration>
+    </item>
+    <item>
+      <title>Summer of ‘69: The Zodiac Killer Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/74teZCPU6Isvy029N5JD7w?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is brought to you by Unexplained Mysteries, a Parcast Original. For more episodes like this one, subscribe to Unexplained Mysteries on Spotify, or wherever you listen to podcasts.In the summer of 1969, newspapers in Northern California began receiving coded letters from a person who would come to identify themselves as "The Zodiac." The author of the letters taunted the police by giving clues related to a series of unsolved murders, but did the cryptic messages truly come from the mind of the killer? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">74teZCPU6Isvy029N5JD7w</guid>
+      <pubDate>Sat, 20 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2314</itunes:duration>
+    </item>
+    <item>
+      <title>Parcast Presents: Trailer</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2uFuLygbhLTpnmqNakfyXM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Every week for 18 seasons, Parcast Presents featured thematic collections made up of the best episodes across Parcast Network. Now, this feed is your home for special miniseries and multipart deep-dives into historical, cultural, and storytelling events curated from over 40 Parcast podcasts. Catch up on the gripping specials you may have missed and discover new ones… Follow Parcast Presents and listen free!  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2uFuLygbhLTpnmqNakfyXM</guid>
+      <pubDate>Fri, 19 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>38</itunes:duration>
+    </item>
+  </channel>
+</rss>
+

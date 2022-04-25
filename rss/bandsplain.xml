@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Bandsplain</title>
+    <link>https://api.spotify.com/v1/shows/3uKSgODaDrtWOulcJp57h7</link>
+    <description>Bandsplain is a show where host Yasi Salek invites experts to explain cult bands and iconic artists—and why people love them—using a curated playlist to help you understand the hype.   Bandsplain is a Music + Talk show, which allows you to combine music from Spotify with talk segments by you. Want to create your own? It's easy and free with Spotify's podcasting platform, Anchor. Get started: anch.co/musictalk</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://i.scdn.co/image/ab6765630000ba8a6ccc828ccccf953fe6ab9030</url>
+      <title>Bandsplain</title>
+      <link>https://api.spotify.com/v1/shows/3uKSgODaDrtWOulcJp57h7</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Apr 2022 07:51:11 +0000</lastBuildDate>
+    <item>
+      <title>Mailbag Part Deux</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4rRp9gWPRLJIK4720G0erc?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Once again, Yasi and Producer Dylan take a little breather from the 60 page Google Docs and 5 hour episodes to answer your burning questions, including: the making of Bandsplain, what bands we’re listening to now, and why we haven’t done Guided By Voices yet. Special shout out to our Gen Z listeners who called in, you are very cool. Check out the artists Yasi and Dylan recommended in this episode:   Turnstile  Enumclaw   Big Thief   Soccer Mommy   Snail Mail   SASAMI   Girlpool   Wednesday   OVLOV   Young Guv   Fucked Up   Niis </p> ]]></description>
+      <guid isPermaLink="false">4rRp9gWPRLJIK4720G0erc</guid>
+      <pubDate>Wed, 23 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>5136</itunes:duration>
+    </item>
+    <item>
+      <title>Listener Mailbag</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3w6R0FNLyNxV56ARpKq3AZ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Today, Yasi and Producer Dylan open up the listener mailbag to dish out flawless and meaningful life advice, as well as compelling answers to your burning questions. We do it for you, Reply Guy Army. We do it for you. We’re taking a week off and Bandsplain will be back on October 7th! In our break, check out our new show, The 33 ⅓ Podcast, hosted by Prince Paul. Each week we dive into one iconic album with a brilliant guest, using the source material of the 33 ⅓ book series.</p> ]]></description>
+      <guid isPermaLink="false">3w6R0FNLyNxV56ARpKq3AZ</guid>
+      <pubDate>Wed, 22 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2949</itunes:duration>
+    </item>
+    <item>
+      <title>Introducing Bandsplain</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3oybedeGwjgq5V0Vr9yrO3?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Bandsplain is a show where host Yasi Salek invites experts to explain cult bands and iconic artists - and why people love them - using a curated playlist to help you understand the hype. New episodes every Thursday, only on Spotify.</p> ]]></description>
+      <guid isPermaLink="false">3oybedeGwjgq5V0Vr9yrO3</guid>
+      <pubDate>Wed, 10 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>62</itunes:duration>
+    </item>
+  </channel>
+</rss>
+

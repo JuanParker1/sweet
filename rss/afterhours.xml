@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>After Hours with Alex Cooper</title>
+    <link>https://api.spotify.com/v1/shows/0YV6ooSZIMpycwzG1f8WIM</link>
+    <description>Father Cooper herself, hosts a live after-hour session to give behind-the-scenes tea from the latest episodes of Call Her Daddy and chats with you the listeners to answer your burning questions — LIVE.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://i.scdn.co/image/ab6765630000ba8a4cffaad3412f972d6632cfbb</url>
+      <title>After Hours with Alex Cooper</title>
+      <link>https://api.spotify.com/v1/shows/0YV6ooSZIMpycwzG1f8WIM</link>
+    </image>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 23 Apr 2022 07:16:34 +0000</lastBuildDate>
+    <item>
+      <title>Premiere Alert! Father Cooper Goes Live</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3FXmXBGCMGkJLnSQtc4Dv0?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Your founding father makes her live room debut! Alex kicks things off with hot topics and life updates, followed by juicy pop culture hot takes, including celebrity couples "Bennifer" and "Kravis." Later she answers questions from listeners in the chat and gives some essential relationship advice.</p> ]]></description>
+      <guid isPermaLink="false">3FXmXBGCMGkJLnSQtc4Dv0</guid>
+      <pubDate>Fri, 15 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>3745</itunes:duration>
+    </item>
+    <item>
+      <title>Welcome to After Hours with Alex Cooper</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5KnOlzCb9HFEXrG7n27Wxx?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Daddy Gang leader, Alex Cooper goes live to spill all the behind-the-scenes tea from her Call Her Daddy Podcast and answers listener's questions about life, love, and everything in between.</p> ]]></description>
+      <guid isPermaLink="false">5KnOlzCb9HFEXrG7n27Wxx</guid>
+      <pubDate>Mon, 11 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>93</itunes:duration>
+    </item>
+  </channel>
+</rss>
+

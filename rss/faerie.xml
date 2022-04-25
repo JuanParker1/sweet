@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Faerie</title>
+    <link>https://api.spotify.com/v1/shows/2luefy24L2m5FOxSZ4eiFi</link>
+    <description>Welcome to a world where fairy tales do exist, and “once upon a time” is closer, darker, and more dangerous than you imagined. Welcome to the immersive new Parcast original series, Faerie. Available exclusively on Spotify, Faerie follows the investigation of Ryan Bailey—a young woman, who by happenstance, saves a man’s life and is thrust into a secret world of mythological creatures called “faeries.” Join Ryan as she unearths more about their mysterious existence and the covert agency charged with protecting them. This 12-episode event is brought to you in partnership with Public Radio Alliance. Faerie is a Spotify Original from Parcast.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://i.scdn.co/image/ab6765630000ba8aed8b492bb1be9973268677eb</url>
+      <title>Faerie</title>
+      <link>https://api.spotify.com/v1/shows/2luefy24L2m5FOxSZ4eiFi</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Apr 2022 07:40:39 +0000</lastBuildDate>
+    <item>
+      <title>E11: How Some Children Play</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4yijo6CGYJhTUs6E8540IG?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ryan pushes Elliot for information about the Fey. Elliot decides they need to find something called “Proof of Portal,” a dangerous and potentially life-threatening way to prove the Fey are back. And another visit from Morrigan reveals that Elliot may have an ulterior motive for everything that’s been happening. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4yijo6CGYJhTUs6E8540IG</guid>
+      <pubDate>Sun, 19 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1544</itunes:duration>
+    </item>
+    <item>
+      <title>E12: The Nightsong</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6dzwns9e9LG1zDNZJVZb8s?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ryan decides to use everything at her disposal to track down Elliot and the missing girls. She’s eventually led to a mysterious guidebook known as The Malacetic Atlas that leads her to a forest in Idaho, and then to the Stone Post—the first marker on the mysterious Devil’s Highway.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6dzwns9e9LG1zDNZJVZb8s</guid>
+      <pubDate>Sun, 19 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1985</itunes:duration>
+    </item>
+    <item>
+      <title>E9: The Unseelie Court</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4UyAfAtDp5yVSOPFV1MkNg?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We learn what happened to Elliot Waters’ family, and he and Ryan take a trip to England to look into The Singing Stone and find the proof Elliot needs to convince his superiors to re-open The Department. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4UyAfAtDp5yVSOPFV1MkNg</guid>
+      <pubDate>Sun, 12 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1594</itunes:duration>
+    </item>
+    <item>
+      <title>E10: The Beast of Bath</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/24YCQmf2oqQ88HB5Ble0Ag?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ryan has a harrowing experience in the woods outside of Bath, The South Star goes missing, and Elliot Waters believes he’s finally found proof that will allow them to re-open The Department. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">24YCQmf2oqQ88HB5Ble0Ag</guid>
+      <pubDate>Sun, 12 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1929</itunes:duration>
+    </item>
+    <item>
+      <title>E7: A Spriggan</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0fYMc2UKNgUr3ytc5fWCz6?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We get a quick lesson on Spriggans, learn that The Department has a complicated and difficult past, and Ryan’s strange experience with the mysterious woman known as The South Star leaves her shaken.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0fYMc2UKNgUr3ytc5fWCz6</guid>
+      <pubDate>Sun, 05 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1708</itunes:duration>
+    </item>
+    <item>
+      <title>E8: The Small Ones</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2oO3FavwmdSOuoRLzNf1sr?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Waters introduces Ryan to a man we’re calling “Agent Cooke,” a former Department operative willing to do whatever it takes to help protect the Fey. When Cooke mentions taking a trip to England in order to find the proof they need, Waters refuses, shocked by what Agent Cooke is suggesting. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2oO3FavwmdSOuoRLzNf1sr</guid>
+      <pubDate>Sun, 05 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1618</itunes:duration>
+    </item>
+    <item>
+      <title>E5: The Family of Freedom</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/09UNvGzryWYNN62DvjRIfJ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We visit Kettle Falls to look further into Margot Kinghorn, the mysterious nursery rhyme called “The Earworm,” and a cult that might be connected to the disappearing children. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">09UNvGzryWYNN62DvjRIfJ</guid>
+      <pubDate>Sun, 28 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1488</itunes:duration>
+    </item>
+    <item>
+      <title>E6: The South Star</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/03rBARoEfTAz5eFEGisxF7?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>With a little help from The Demon, Ryan and Elliot track Margot Kinghorn to a warehouse in New Orleans where she appears to be willing to do whatever it takes, no matter how dangerous, to destroy The Earworm. And Ryan Bailey receives a mysterious visitor who warns her that Elliot Waters might not be quite what he seems. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">03rBARoEfTAz5eFEGisxF7</guid>
+      <pubDate>Sun, 28 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1945</itunes:duration>
+    </item>
+    <item>
+      <title>E3: The Ones Who Feed</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/65G8rViyViTIEMorKwszIq?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ryan confronts Elliot about his encounter with what he’s calling a “Changeling.” She discovers that the people who had disappeared in the woods had been going out there to read a sinister children’s lullaby known as “The Earworm.” Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">65G8rViyViTIEMorKwszIq</guid>
+      <pubDate>Sun, 21 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1649</itunes:duration>
+    </item>
+    <item>
+      <title>E4: The Earworm</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7I2xPfitKXw4HMUVTN2zBl?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ryan and Elliot consult an expert on the legendary Book of Taliesin, and Ryan discovers a surprising connection between a recent death and the Faerie podcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7I2xPfitKXw4HMUVTN2zBl</guid>
+      <pubDate>Sun, 21 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1597</itunes:duration>
+    </item>
+    <item>
+      <title>E1: The Department</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/31hWUQXdbZ4ln74BhymKUU?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the season premiere of Faerie, our narrator Ryan Bailey begins to uncover a conspiracy involving a secret arm of the Environmental Protection Agency known only as “The Department.” This ancient underground organization has been charged with the protection of a very special type of endangered species: Faeries. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">31hWUQXdbZ4ln74BhymKUU</guid>
+      <pubDate>Sun, 14 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1559</itunes:duration>
+    </item>
+    <item>
+      <title>E2: The Changeling</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/19fiXCKLe9SUe92HeJKlGW?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>As Ryan digs deeper into “The Department” and the existence of the “Fey,” she consults an expert who points her to a group of young people who had disappeared in the forest under strange circumstances. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">19fiXCKLe9SUe92HeJKlGW</guid>
+      <pubDate>Sun, 14 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1549</itunes:duration>
+    </item>
+    <item>
+      <title>Welcome to the World of Faerie!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6pfDlFQCe45vZmWo3i8ie7?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>What if a chance encounter changed what you believed to be true? A seemingly ordinary moment, opening your eyes to extraordinary secrets and other-worldly beings... Welcome to a world where fairy tales do exist, and “once upon a time” is closer, darker, and more dangerous than you imagined. Welcome to the immersive new Parcast original series, Faerie. Starting June 15th on Spotify, follow the investigation of Ryan Bailey—a young woman, who by happenstance, saves a man’s life and is thrust into a secret world of mythological creatures called “faeries.” Join Ryan as she unearths more about their mysterious existence and the covert agency charged with protecting them. This 12-episode event features two new episodes every Monday, free and exclusively on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6pfDlFQCe45vZmWo3i8ie7</guid>
+      <pubDate>Mon, 25 May 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>82</itunes:duration>
+    </item>
+  </channel>
+</rss>
+

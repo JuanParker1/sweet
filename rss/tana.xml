@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Tana's Toxic Tips</title>
+    <link>https://api.spotify.com/v1/shows/5qDTHQrF76zK2IOR9m1m84</link>
+    <description>Internet personality, Tana Mongeau, hosts a late-night room where she and her guests discuss the hot topics of the week, share secret stories, and ask for advice from their favorite creator. Tana’s Toxic Tips is where her famous “Storytime” series comes to life — LIVE every Wednesday at 9p ET/6p PT.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://i.scdn.co/image/ab6765630000ba8a735063b8cc09328f6a841c0c</url>
+      <title>Tana's Toxic Tips</title>
+      <link>https://api.spotify.com/v1/shows/5qDTHQrF76zK2IOR9m1m84</link>
+    </image>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 23 Apr 2022 07:22:52 +0000</lastBuildDate>
+    <item>
+      <title>PREMIERE! Welcome to Tana's Toxic Tips!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0px1vIjDScHzKt7cR4Ow8v?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Welcome to Tana's Toxic Tips: Tana is joined by her ex-boyfriend, Chris Miles, to help her answer toxic questions from listeners. This week's tips include maintaining long-distance relationships, what to do when your boyfriend doesn’t know how to cook, dating up or down on the attraction scale, plus many more! Tana's Toxic Tips is live every Wednesday at 9pm ET.</p> ]]></description>
+      <guid isPermaLink="false">0px1vIjDScHzKt7cR4Ow8v</guid>
+      <pubDate>Thu, 14 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>3464</itunes:duration>
+    </item>
+    <item>
+      <title>This is Tana's Toxic Tips</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0wE8xX99wqxODbfjWMo3qu?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Tana Mongeau going LIVE? There’s no telling what may happen or what stories will be told! Every Wednesday at 9p ET/6p PT, Tana is live to give you the latest in her life, and if you dare, share your own stories and get her advice.</p> ]]></description>
+      <guid isPermaLink="false">0wE8xX99wqxODbfjWMo3qu</guid>
+      <pubDate>Mon, 11 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>63</itunes:duration>
+    </item>
+  </channel>
+</rss>
+

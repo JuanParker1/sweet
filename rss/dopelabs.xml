@@ -1,0 +1,480 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Dope Labs</title>
+    <link>https://api.spotify.com/v1/shows/3pCF6hcNsAHKlKAillCOuZ</link>
+    <description>Dope Labs is a new podcast from Spotify Studios hosted by best friends (and two of the dopest scientists you will ever meet), Titi and Zakiya. In each episode, they serve up scientific principles with a healthy dose of tea. From cuffing season to Cardi B, they’ll take what’s trending and put it under the microscope with the help of some very smart (and cool) scientific friends. At Dope Labs, we believe “science is for errybody” and our mission is to bring out the inner scientist in YOU.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://i.scdn.co/image/ab6765630000ba8a70efc0246396cc37084b8a49</url>
+      <title>Dope Labs</title>
+      <link>https://api.spotify.com/v1/shows/3pCF6hcNsAHKlKAillCOuZ</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Apr 2022 07:52:09 +0000</lastBuildDate>
+    <item>
+      <title> Nuclear Energy: The Past, Present, and Future – Lab 060</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1KPFvo9uyx3D0GtYSBcSHM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Gas prices are up and this got us thinking about all the different energy sources we rely on. In this Lab, Titi and Zakiya dive into the science, the history, and the potential of nuclear energy. Guest: Dr. Mareena Robinson Snowden. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1KPFvo9uyx3D0GtYSBcSHM</guid>
+      <pubDate>Wed, 20 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2224</itunes:duration>
+    </item>
+    <item>
+      <title>Biodiversity and Conservation: The Circle of Life – Lab 059 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/71Fuy4GcvbnhMhnJVG2wLx?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Spring has sprung, and we’ve been spending more time outside appreciating nature. In this lab, Titi and Zakiya are exploring biodiversity, conservation, and what steps humans can take to better coexist with animals and other living things. Guest: Dr. Rae Wynn-Grant. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">71Fuy4GcvbnhMhnJVG2wLx</guid>
+      <pubDate>Wed, 13 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2198</itunes:duration>
+    </item>
+    <item>
+      <title>Hypochondria, Psychosomatic Disorder, and Placebo Effect: Mind Over Matter – Lab 058 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7yrb78fG6e0HtlxVdr68zL?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Things are not always as they seem, and our minds &amp; bodies are no exception. This week Titi and Zakiya examine the mind-body connection with Dr. Suzanne O’Sullivan, author of It’s All in Your Head: True Stories of Imaginary Illness. We’re talking all about psychosomatic disorders, hypochondria, and the path to diagnosis. Guest: Dr. Suzanne O’Sullivan. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7yrb78fG6e0HtlxVdr68zL</guid>
+      <pubDate>Wed, 06 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2172</itunes:duration>
+    </item>
+    <item>
+      <title>Volcanic Winters, Microplastics, and More: Live from the Great Northern – Lab 057</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3mvReQlqjU3jje7x1AB8fB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This lab was recorded as part of The Great Northern's 2022 festival in Minnesota, and Titi &amp; Zakiya are COLD. This drives them to talk about all things winter weather, touching on snowflakes, microplastics, and volcanic winters. They ask why winter is usually so challenging… and how the North is embracing and inspiring action around it with skating ponds, thermaculture, climate conversations, and more. You can find more from Dope Labs at DopeLabsPodcast.com and The Great Northern at TheGreatNorthernFestival.com  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3mvReQlqjU3jje7x1AB8fB</guid>
+      <pubDate>Wed, 30 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2471</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 056: The Right Match: Organ Transplants</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2nNnl2o7G3jl9Eknpxwyh2?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We’ve heard a lot of myths around organ donation and transplantation. Turns out it’s a lot more complicated than matching blood types. In this lab, Titi and Zakiya dig into the science behind organ transplantation, donor matching, and some of the recent research and advancements going on in this field. Guest: Dr. Dave Lowe. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2nNnl2o7G3jl9Eknpxwyh2</guid>
+      <pubDate>Wed, 23 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2219</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 055: Don't Get Hacked</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1jupPx6fkVIi9Hbszya1XC?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p> From Inventing Anna to the Tinder Swindler, cybersecurity has been front and center in our collective consciousness. But what exactly is cybersecurity? In this Lab, Titi and Zakiya break down everything from cookies, to global ransomware attacks, and what we can do as users to keep our information safe. Guest: Christina Morillo. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1jupPx6fkVIi9Hbszya1XC</guid>
+      <pubDate>Wed, 16 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2191</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 054: Say Ahhh</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1MoBShdeVLhqG30uSrny8w?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We’re seeing a lot of teeth on our timelines – from veneers to DIY braces, teeth are everywhere! This week we’re taking a closer look at some of the recent trends and advancements in modern dentistry and the connections between our oral health and our overall health. Guest: Dr. Marcus Johnson. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1MoBShdeVLhqG30uSrny8w</guid>
+      <pubDate>Wed, 09 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1917</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 053: Unsustainable</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0CeU9cqZ4X94UUVY1MjH5x?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This week we’re talking about sustainability in fashion. Last week (Lab 052) we talked about how much more we’re buying, but what happens to all that clothing when we’re done wearing it? What does it mean to be ethically sourced? Sustainable? Upcycled? Plus, the perils of greenwashing in clothing retail. Guest: Drew Heifetz. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0CeU9cqZ4X94UUVY1MjH5x</guid>
+      <pubDate>Wed, 02 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1951</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 052: Retail Apocalypse</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5X1IAhAgonsyJVLsdfRFRF?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Shopping is easier to do than ever these days. In Lab 039: Add to Cart, we talked about what happens after you buy something with one click. Today, we start our two-part fashion series by talking about what happens BEFORE you buy. So much has changed since going to the mall was a social activity in the 90s (remember the mall?!!). In this Lab, and right on the heels of all the major fashion weeks, Titi and Zakiya talk about how we make decisions about what we buy, how retail has changed, and the state of fashion today, including the idea of ‘affordable luxury.’ Guest: Dr. Barbara Kahn. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5X1IAhAgonsyJVLsdfRFRF</guid>
+      <pubDate>Wed, 23 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1973</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 051: BHM: HBCUs Edition</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7dRp6F50Hk1ac7WZaS8Sp2?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s Black History Month and we are celebrating by talking about Historically Black Colleges and Universities (HBCUs) with special guest Xavier Jernigan! In this episode, Titi and Zakiya talk with X about community, mentorship, Homecoming, and what makes the HBCU experience so special. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7dRp6F50Hk1ac7WZaS8Sp2</guid>
+      <pubDate>Wed, 16 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2958</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 050: Gold Medal Physics</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5SNqdFrsGWn0MX7WOwbRVM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The 2022 Winter Olympics are in full swing and we are glued to the TV (go Nathan Chen!). But it takes more than just discipline and guts to be an Olympic athlete - you’ve got to know your physics! In this episode, Titi and Zakiya talk to Dr. Sophia Nimphius about how athletes harness the power of physics to go for the gold in ski jumping, curling, luge, figure skating, and more. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5SNqdFrsGWn0MX7WOwbRVM</guid>
+      <pubDate>Wed, 09 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2452</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 049: The Habit Equation</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5t1WSTPtUSkG9xvhUoSGtT?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>For our final lab in the New Years series, Titi &amp; Zakiya want to learn all about the science behind habit formation. Dr. Wendy Wood, author of “Good Habits, Bad Habits,” tells us why bad habits are easier to make than good ones, and how to form new habits that stick. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5t1WSTPtUSkG9xvhUoSGtT</guid>
+      <pubDate>Wed, 02 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2281</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 048: Your Daily Dose</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4mUrvdchhNFxIX7EC0fCHE?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We have seen the custom supplement packs on IG and it looks like a lot of you are increasing your Vitamin C, but is that the BEST way to help our bodies? In the next installment of our New Year’s series, Titi and Zakiya talk to Dr. Alice Lichtenstein about vitamins, minerals, and supplements and how to make sure it all balances out! You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4mUrvdchhNFxIX7EC0fCHE</guid>
+      <pubDate>Wed, 26 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2174</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 047: All (Immune) Systems Go</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6oLtxJr6zBJ4iNx8mItDnk?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We are continuing our wellness series and the next topic is at the root of our overall wellness, our immune systems. So we are diving into to all of the complexities of our super-powered systems. Titi &amp; Zakiya talk with Dr. Payel Gupta about how the immune system works to keep us well. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6oLtxJr6zBJ4iNx8mItDnk</guid>
+      <pubDate>Wed, 19 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1906</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 046: Do Not Disturb Part II </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3BOqgWxCu5TYQxTP1IjmZz?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We continue our two-part episode on Sleep with Dr. Giardin Jean-Louis, focusing on the environmental factors associated with poor sleep, different sleep disorders, and treatments and tips for getting a better night's sleep. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3BOqgWxCu5TYQxTP1IjmZz</guid>
+      <pubDate>Wed, 12 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1912</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 045: Do Not Disturb Part I</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3pKRsQAQz02kNWbAxLHxg1?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We’re kicking off our New Years series with a two-part episode on sleep, featuring renowned sleep expert Dr. Giardin Jean-Louis. We all know sleep is important, but WHY? In Part I, we’re diving into the health benefits of sleep, what it means to get “quality” sleep, and why certain people, especially communities of color, aren’t getting enough of it. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3pKRsQAQz02kNWbAxLHxg1</guid>
+      <pubDate>Wed, 05 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1659</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 044: Our 2021 Mixtape</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1YBvDUCzN1DofLgcEU678Q?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>So much happened in 2021 that we didn’t get to talk about, so in this episode, Titi and Zakiya bring back a favorite tradition: the end of the year mixtape! From BBL’s to the metaverse, we’re breaking down all the science behind the year's biggest moments. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1YBvDUCzN1DofLgcEU678Q</guid>
+      <pubDate>Wed, 29 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2418</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 043: Understanding HIV Part II</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4IOLmNIfa8jUdjWRClsyyt?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We’re continuing our conversation on the HIV vaccine with Dr. Christine Daniels. There was just too much for one Lab! This week, we’re shifting the lens from the science to the people, and talking about HIV, and a potential vaccine, in a cultural and anthropological context… because science does not happen in a vacuum! You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4IOLmNIfa8jUdjWRClsyyt</guid>
+      <pubDate>Wed, 22 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2077</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 042: Understanding HIV Part I</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4r3BIyt6FtiMK1pTB2kVIt?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We’ve all been learning a LOT about vaccines this year, and it got us thinking, what about vaccine development for other viruses? Currently, almost 40 million people worldwide have HIV, and scientists have been working on a vaccine for four decades. In Part I of this two-part series, Titi and Zakiya talk to Dr. Christine Daniels, a cell biologist who works on developing novel vaccines for HIV, about the progress we’ve made so far, how the HIV virus is similar and different to SARS-CoV-2, and why designing an effective vaccine for HIV has proven so elusive. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4r3BIyt6FtiMK1pTB2kVIt</guid>
+      <pubDate>Wed, 15 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1486</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 041: Out of Control</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7alwmbLQtSVBgsQMlxZd95?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Reproductive health has been in the news a lot lately, most recently with the Supreme Court hearing Dobbs v Jackson Women’s Health Organization last week. So in this Lab, we talk to Dr. Elizabeth Ruzzo, the founder of Adyn, all about birth control. It’s proven very effective at preventing pregnancy, as well as treatment for symptoms of some reproductive health issues like uterine fibroids and PMDD, but can come with some pretty nasty side effects. Birth control has not changed much since the 60's so we're talking about how scientists are using endocrinology and genetics to make more personalized medicine for individuals. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7alwmbLQtSVBgsQMlxZd95</guid>
+      <pubDate>Wed, 08 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2307</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 040: Money Moves</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6IuKnqrJdr0TNYioBVBILr?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The holiday season is upon us and that means more online shopping but this doesn't mean that we have to put our accounts in the negative to get the things we need or the things we want. In this lab we talk to Natalia Brzezinski, head of strategy at Klarna, about how fintech can save our pockets. You can find more Dope Labs, show notes, and cheat sheets at dopelabspodcast.com Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6IuKnqrJdr0TNYioBVBILr</guid>
+      <pubDate>Wed, 01 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1752</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 039: Add to Cart</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3C93JQ2FMg7b1pTiT3zr2S?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>With Black Friday and Cyber Monday coming up, and the holiday shopping season right around the corner, there’s going to be a lot of people clicking “Add to Cart” over the next few weeks. This year has been full of headlines about labor shortages, trucker strikes, and stalled cargo ships. In this crazy economic climate, how are companies managing to source, ship, and deliver goods? We’re talking to Christopher Mims, author of “Arriving Today,” on the complex choreography of getting products from the factory to your doorstep. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3C93JQ2FMg7b1pTiT3zr2S</guid>
+      <pubDate>Wed, 24 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2117</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 038: So Anxious</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3MKbJ647jV3oBkgaDVu8CX?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The holiday season is here, and with that, comes a lot of anxiety. In her new book, “Good Anxiety: Harnessing the Power of the Most Misunderstood Emotion,” guest Dr. Wendy Suzuki traces the origins of anxiety, why it’s so prevalent today (spoiler alert: EVERYONE has it), and how to make it work for us.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3MKbJ647jV3oBkgaDVu8CX</guid>
+      <pubDate>Wed, 17 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2095</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 037: In Denial</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4Prg6bPLEiaRlnYZgE3yJ1?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Dope Labs is BACK and WEEKLY! And so much has happened since our last Lab, it’s hard to even know where to start. So we’re kicking off Semester 4 by talking about science denial with Dr. Gale Sinatra and Dr. Barbara Hofer. Their book, “Science Denial: Why it Happens and What to Do About It,” explores the psychological issues that keep folks from having a broad understanding of science. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4Prg6bPLEiaRlnYZgE3yJ1</guid>
+      <pubDate>Wed, 10 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2616</itunes:duration>
+    </item>
+    <item>
+      <title>Semester 4 Sneak Peek 👀</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5MreMFos0Vi9qH76WhgbW5?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Semester 4 kicks off brand new, weekly episodes on November 11th. But we couldn’t wait that long to show you what we’ve got cooking! Here’s a little sneak peek. Don’t forget to follow us on Spotify! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5MreMFos0Vi9qH76WhgbW5</guid>
+      <pubDate>Tue, 09 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>337</itunes:duration>
+    </item>
+    <item>
+      <title>Semester 4 is WEEKLY Starting November 11!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4ShTXKFMN8Rv0LdW3qwhaX?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Hello, friend. It’s been a minute. We’ve missed you. But we have some exciting news! Dope Labs is back November 11th, with new episodes every Thursday. Follow us on Spotify so you don’t miss a beat! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4ShTXKFMN8Rv0LdW3qwhaX</guid>
+      <pubDate>Sun, 24 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>182</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 036: Shoot Your Shot - A COVID Update</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6XGtyEDJuTh9qx8G2zaW2Y?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the final Lab of Semester 3, Titi and Zakiya give a highly requested coronavirus update. They’ll highlight the advances in science and the public health plans with guests Dr. Rupali Limaye and Molly Sauer from the Johns Hopkins Bloomberg School of Public Health. Read Titi and Zakiya’s editorial in Scientific American here: https://bit.ly/3mz060I Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6XGtyEDJuTh9qx8G2zaW2Y</guid>
+      <pubDate>Wed, 02 Dec 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2147</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 035: You Know the Vibes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1SzBQuSaGHmk3rxOhWNLK5?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>With 2020 coming to a close, there is a LOT to celebrate. In this Lab, Titi and Zakiya dissect the sociology of celebration, talking about why we celebrate, and how to celebrate this year even though we can’t be together. For more info visit dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1SzBQuSaGHmk3rxOhWNLK5</guid>
+      <pubDate>Wed, 11 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1710</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 034: Presently Futuristic</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2mamqrA2Jz8A4MVKQ6fiSp?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Like everyone else on the planet, Titi and Zakiya have been obsessing over Lovecraft Country. It’s the latest in what could be called a renaissance in Afrofuturism and Black horror, along with Watchmen, Get Out, and Black Panther. In Lab 034, they do a deep dive on all things Afrofuturism, and how to distinguish it from other popular genres like science fiction and horror with our guest Dr. Kinitra Brooks. Actor Levar Burton also drops in to give his perspective on the importance of developing diverse stories in media. For more info visit dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2mamqrA2Jz8A4MVKQ6fiSp</guid>
+      <pubDate>Wed, 28 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2156</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 033: Supermarket Sweep</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4jVp4I0kJdZmYygZyMFQ8x?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Remember in the beginning of the pandemic when grocery stores ran out of a lot of pantry staples? We also saw a lot of food waste during that time, for example, farmers dumping a lot of produce that had gone bad. In Lab 033, Titi and Zakiya explore the complexities and scale of the United States food system to understand how these things are all connected. Guest: Dr. Marie Spiker. For more info visit dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4jVp4I0kJdZmYygZyMFQ8x</guid>
+      <pubDate>Wed, 14 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2275</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 032: Life Avalanche</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6BpIrAVcGMYQJkjzJDlT2X?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>All the stress we are feeling in 2020 is leading to what feels like worldwide burnout. In Lab 032, Titi and Zakiya talk about what causes burnout, most common burnout behaviors, and how you can recognize burnout when it happens to you. Guest: Dr. Anne Helen Petersen. For more info and show notes, visit dopelabspodcast.com Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6BpIrAVcGMYQJkjzJDlT2X</guid>
+      <pubDate>Wed, 30 Sep 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1840</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 031: Persuadables</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4NPnqu74fc46Jxrct1zduQ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Are you seeing political ads everywhere? We are! This week we talk to guest experts Dr. Chryl Laird and Jenna Golden about the advertising machine behind the 2020 elections. Listen to learn about ad strategy, the resulting political behavior, and how social media is making you a prime target . Check out dopelabspodcast.com for more info. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4NPnqu74fc46Jxrct1zduQ</guid>
+      <pubDate>Wed, 16 Sep 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1934</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 030: Signed, Sealed, Delivered</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5UlGC29YNOZ9ybx4pCXpq5?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s time to support the USPS, whether it’s buying stamps, or writing more handwritten letters. In this Lab, Titi and Zakiya unpack the benefits of writing by hand, how reading handwriting is different than reading type, and what happens in the brain when you see and process letters. Guest: Dr. Robert Wiley. For more info and show notes visit dopelabspodcast.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5UlGC29YNOZ9ybx4pCXpq5</guid>
+      <pubDate>Wed, 02 Sep 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2196</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 029: The Roof is on Fire!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1OtfxtcId5o8YEkvwv2EZb?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In Lab 029, we’re talking about how COVID-19 has magnified the housing shortage into a housing crisis with our guest, Michael Neal from the Urban Institute. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1OtfxtcId5o8YEkvwv2EZb</guid>
+      <pubDate>Wed, 19 Aug 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1803</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 028: There’s Something in the Water</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/38qkovuIgNQHcLDwmn8L0e?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The ocean covers 70% of the earth's surface, but we know so little about it and how it affects our lives. In this Lab, Titi and Zakiya bring the ocean to your front door, exploring how the ocean is impacted by climate change and how it fights back. Guest: Dr. Ayana Elizabeth Johnson Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">38qkovuIgNQHcLDwmn8L0e</guid>
+      <pubDate>Wed, 05 Aug 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2276</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 027: Here Comes the Boom</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/01VaGpK1YNYr3NsaLF77k4?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>To add to the list of reasons why 2020 is trash: fireworks have been keeping us up all night. We may not be able to stop the fireworks from happening, but at least we can understand more about how they work. Guest: Fran Scott Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">01VaGpK1YNYr3NsaLF77k4</guid>
+      <pubDate>Wed, 22 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1484</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 026: What About Your Friends?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6wFHaxXHXrUxSL6EXKY9ZI?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Friendships are especially hard when we're all socially distanced. So join Zakiya and Titi as they explore the psychology behind being a good friend. This lab features a special appearance from the hosts of the podcast Call Your Girlfriend, Aminatou Sow and Ann Friedman, who talk about their new book, Big Friendship. Guest Expert: Dr. Marisa G. Franco.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6wFHaxXHXrUxSL6EXKY9ZI</guid>
+      <pubDate>Wed, 08 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2117</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 025: Skin Deep</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6TGNnrLqEagahku9cnMA89?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Titi and Zakiya kick off Semester 3 by holding up a mirror to the scientific community, unpacking the history of science and racism. Guest: Angela Saini Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6TGNnrLqEagahku9cnMA89</guid>
+      <pubDate>Wed, 24 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1835</itunes:duration>
+    </item>
+    <item>
+      <title>Semester 3 Starts June 25th!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/07pF4zLWPYnh0kMILeShek?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Who needs some good news? Dope Labs is coming back for Semester 3 on Thursday, June 25th! 2020 has been a YEAR and there is a lot to unpack. If you have an idea for an upcoming Lab, call us at 202-567-7028 and leave a message. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">07pF4zLWPYnh0kMILeShek</guid>
+      <pubDate>Thu, 18 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>30</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 024: BHM: STEM Edition</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0dNf6ifXNGCs3vSc1XcYN3?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It's the one year anniversary of Dope Labs AND it's Black History Month. To celebrate, Titi and Zakiya are turning the microphone on YOU, our amazing Dope Labs listeners, who are doing some incredible things in all areas of STEM: engineering, biology, management and more! Join us for our Semester 2 finale as we celebrate all things Black and STEM. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0dNf6ifXNGCs3vSc1XcYN3</guid>
+      <pubDate>Wed, 19 Feb 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1998</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 023: Don’t Pass the Corona</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6qbgrdPtRuEAvaOUfOdYMY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Coronavirus is in the front of everyone’s minds and misinformation is being spread faster than the virus itself! In this lab Titi and Zakiya breakdown what the coronavirus is, where it came from, and what we can all do to help prevent its spread. Guest: Dr. Kizzmekia Corbett. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6qbgrdPtRuEAvaOUfOdYMY</guid>
+      <pubDate>Wed, 05 Feb 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1689</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 022: This is NOT a Drill</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4Ij2J3V97JtwAD69odycLY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The fires in Australia are raging and a lot is being lost. In this lab, Titi and Zakiya discuss how the fires started, why they are different from ones in the past, and how climate change has played a role. Guest: Dr. Sarah Perkins-Kirkpatrick. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4Ij2J3V97JtwAD69odycLY</guid>
+      <pubDate>Wed, 22 Jan 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1299</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 021: New Bank Account, Who Dis?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1PFztPdTbDDTc06iRZVTSB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s a new year and there are plenty of broken resolutions to go around. One common resolution is getting your finances in order. In this lab, Titi and Zakiya discuss some of the latest “fintech” available to help you achieve your 2020 financial goals. Guest: Dr. Bill Maurer. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1PFztPdTbDDTc06iRZVTSB</guid>
+      <pubDate>Wed, 08 Jan 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1605</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 020: Our 2019 Mixtape</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2Icq5zXnL9ShlT8Zg4MzXc?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s the end of the year, so Dope Labs is giving you a special treat for Lab 020: a mixtape to celebrate all of Titi and Zakiya’s top pop culture moments of 2019! From Megan Thee Stallion’s knees to social media apps aging us 50 years, they are breaking down the science behind it all. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2Icq5zXnL9ShlT8Zg4MzXc</guid>
+      <pubDate>Wed, 18 Dec 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1618</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 019: What's Beef?</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5pX179RptY11BlgKmPad6q?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Plant-based meat substitutes have come a long way since frozen veggie patties with big chunks of carrots and sharpie grill marks. Now, companies like Impossible Foods are making plant-based burgers that look, smell, taste and bleed like real meat. In this Lab, Titi and Zakiya learn about what new ingredients are making these burgers more like real meat, and the scientific process of mass producing those ingredients using biology, genetics, and engineering. Guest: Dr. Christina Agapakis. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5pX179RptY11BlgKmPad6q</guid>
+      <pubDate>Wed, 04 Dec 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1525</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 018: Truth Pie</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Qwz0nN7dYiw7m35VGgCsj?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>With Thanksgiving right around the corner, Titi and Zakiya discuss the huge impact of European colonialism in North America, not only from the severe depopulation of Indigenous peoples, but also the relationships they cultivated with the plants, animals, and the environment around them. Guest: Dr. Nicholas Reo. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1Qwz0nN7dYiw7m35VGgCsj</guid>
+      <pubDate>Wed, 20 Nov 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1732</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 017: Fall Back</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0aco1NYR3wUfZfgMrsFb8F?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Daylight Saving time has just ended and we are NOT happy! In this lab Titi and Zakiya take a closer look at this yearly practice to find out whose bright idea this was, what time is, and if anything is REALLY saved with daylight saving. Guest: Dr. Laura Grant. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0aco1NYR3wUfZfgMrsFb8F</guid>
+      <pubDate>Wed, 06 Nov 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1895</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 016: Haunt Me</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2ESqWn1Osr95F2SFZwFWGv?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s officially Titi and Zakiya’s favorite time of year! SPOOKY SEASON! So they called on the hosts of the Travel Channel’s Ghost Brothers: Haunted Houseguests to walk them through the tech they use for hunting ghosts, and then break down the science of paranormal activity. Guests: Juwan Mass, Marcus Harvey, and Dalen Spratt. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2ESqWn1Osr95F2SFZwFWGv</guid>
+      <pubDate>Wed, 23 Oct 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1721</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 015: Big Poll Energy</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3mgUWNwbgBFrLDXpDLSdAG?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The primary election is in full swing, and our feeds are full of political polls that are surveying everything from who’s on top, to each candidates favorite comfort food. In this episode, Titi &amp; Zakiya dive into polling to understand survey methodology (how polls are designed) and how to make sense of the results. Guest: Dr. Rachel Bitecofer. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3mgUWNwbgBFrLDXpDLSdAG</guid>
+      <pubDate>Wed, 09 Oct 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1702</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 014: Art of Con</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/29lHvR65eaZAeuUx1i265o?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Whether it’s robocalls, catfishing, Tekashi 6ix9ine, or Aunt Becky - it seems like everyone is out here scamming!! But why do WE keep falling for them? We turned to Dr. Lasana Harris to help us understand human motivations and interpersonal behaviors making us susceptible to these schemes. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">29lHvR65eaZAeuUx1i265o</guid>
+      <pubDate>Wed, 25 Sep 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1721</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 013: Predator</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5icCfsIKdoB9gGjODNq7NN?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Our city boy/hot girl summers are coming to a close, and while we will miss summer, there’s one thing we won’t miss - mosquitoes. We all were bitten by mosquitoes…A LOT. But mosquitoes don’t just make us itchy - a recent New York Times article called them “the deadliest human predators on the planet.” In this episode, we put mosquitoes under the microscope - why do they need our blood in the first place, what kind of illnesses do they carry, and why do some people (Titi) get bitten more than others. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5icCfsIKdoB9gGjODNq7NN</guid>
+      <pubDate>Wed, 11 Sep 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1767</itunes:duration>
+    </item>
+    <item>
+      <title>We're Back!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/11jxv4t6OjXGGW40MiMGSS?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Dope Labs is back for Semester 2 on September 12, with a whole new batch of episodes dropping every other Thursday. And we want to hear from you! Call us at 202-567-7028 and tell us what you think we should dissect this semester.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">11jxv4t6OjXGGW40MiMGSS</guid>
+      <pubDate>Wed, 04 Sep 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>138</itunes:duration>
+    </item>
+    <item>
+      <title>BONUS: Semester One Bloopers!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6FTuR4Ez62WjD9KkqOMPRw?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From Wakanda to vaccines to Safaree’s hairline, there was a lot to talk about in Semester One… but there was also a lot of material that hit the cutting room floor. In this post-Semester special, T &amp; Z take you through their favorite bloopers and outtakes from Semester One. Don’t forget to tune in for Semester 2 on September 12th! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6FTuR4Ez62WjD9KkqOMPRw</guid>
+      <pubDate>Thu, 15 Aug 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1670</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 012: The Cookout</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4iFUOJCG6W4vPojCovlv1p?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s the Semester Finale! And Titi &amp; Zakiya would like to invite you to their virtual cookout. In this Lab, they dive into the science of taste, flavor, and neurogastronomy and serve it up right alongside the mac and cheese and potato salad (without raisins). Show Notes: https://www.dopelabspodcast.com/podcast-episodes/lab-012-the-cookout Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4iFUOJCG6W4vPojCovlv1p</guid>
+      <pubDate>Wed, 17 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2513</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 011: I Look Like Bae</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1r0pfJWldeF69zBWRRTIxB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From the BET awards to the NBA awards folks are coming out looking GOODT from head to toe! Getting dressed up is easy, but Titi and Zakiya want to know how everyone's faces look so flawless. So, in this episode they dive into the chemistry, material science and biology of looking like BAE. And for a little help, they enlist all-star beauty expert Joanna Simkin, whose clientele includes Issa Rae, Marsai Martin and Regina Hall.Show Notes: https://www.dopelabspodcast.com/podcast-episodes/2019/7/3/lab-011-i-look-like-bae Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1r0pfJWldeF69zBWRRTIxB</guid>
+      <pubDate>Wed, 03 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2275</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 010: It Was All a Dream</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3Id9Nel8guMKwWcj2pVdz3?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Titi and Zakiya take a trip down memory lane but... it seems like their recollections are VERY different! In this episode they dive into the psychology and sociology or memory and try to understand why their memories of the same thing are so different.Show Notes: https://www.dopelabspodcast.com/podcast-episodes/AllADream Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3Id9Nel8guMKwWcj2pVdz3</guid>
+      <pubDate>Wed, 19 Jun 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1871</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 009: How NOT to Get Away with Murder</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5CJaU2xKmTnCZGlrzq3955?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>If you are into true crime this lab is for you! For decades, the “Golden State Killer” case had zero leads. Then, in 2018, investigators found a suspect using an online genealogy database. In today’s Lab, Titi &amp; Zakiya dive into all things commercial genetic testing to find out how all of these at-home DNA kits are getting your 3rd cousins locked up! Guest: Erin Murphy, JDShow Notes: https://www.dopelabspodcast.com/podcast-episodes/2019/6/6/lab-009-how-not-to-get-away-with-murder Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5CJaU2xKmTnCZGlrzq3955</guid>
+      <pubDate>Wed, 05 Jun 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2319</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 008: Fair Play</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5Ew3Xa5JpA1oVla4Ih0HnE?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Caster Semenya lost her case against the International Association of Athletics Federation (IAAF). Titi &amp; Zakiya take a deep dive into the world of hormones, specifically testosterone. What makes it so special? How does it affect performance? How does the IAAF decide cutoff values? What in the policing women’s bodies hell is going on here?!? They have questions and want to see the IAAF's lab notebooks! Guest: Dr. Anthony HackneyShow Notes: https://www.dopelabspodcast.com/podcast-episodes/2019/5/23/lab-008-fair-play Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5Ew3Xa5JpA1oVla4Ih0HnE</guid>
+      <pubDate>Wed, 22 May 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1711</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 007: Show Me the Money</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/04gXOHGqwFMZjpSguJjU5p?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Prompted by Elizabeth Warren's bold proposal, the 3,582 Democratic Primary candidates are starting to get serious about addressing the student loan crisis. T &amp; Z use economics and policy (yes, it's science!) to better understand the root of the problem, and what we can do to fix it. Guest: Colleen CampbellShow Notes: https://www.dopelabspodcast.com/podcast-episodes/2019/5/9/lab-007-show-me-the-money Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">04gXOHGqwFMZjpSguJjU5p</guid>
+      <pubDate>Wed, 08 May 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1741</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 006: Starchella</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/49fQqhrIxoO5ymTaYrokEs?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Beyonce just dropped Homecoming, basically forcing us all to bow down to the EPITOME of a star. But Titi and Zakiya want to know, what do the stars in our galaxy have in common with the biggest star on Earth? Guest: Amy SteeleShow Notes: https://www.dopelabspodcast.com/podcast-episodes/starchella Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">49fQqhrIxoO5ymTaYrokEs</guid>
+      <pubDate>Wed, 24 Apr 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1688</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 005: Wakanda Forever</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3zwznl9V38pIZsCSSI3dXU?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We want vibranium and we want it now! Titi and Zakiya explore the depths of vibranium's capabilities and try to find things in the world that come close. Guest: Dr. James Kakalios. Show Notes: https://www.dopelabspodcast.com/podcast-episodes/wakanda Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3zwznl9V38pIZsCSSI3dXU</guid>
+      <pubDate>Wed, 10 Apr 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1861</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 004: Protect Ya Neck</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/39w38YV4NCZZab9iDOo6Xb?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>After being eradicated in the US in 2000, measles is back with a vengeance. There are already over 250 confirmed cases in 2019. What's next, the Black Plague is back?! In this week's lab, Titi and Zakiya apply the sciences of epidemiology, medicine, and communication to better understand all of the back and forth that's happening around viruses and vaccines, and how various influences, including celebrity (ahem, Jenny McCarthy) and social media can affect our health behavior. Guest: Dr. Rupali Limaye of Johns Hopkins University. Show Notes: https://www.dopelabspodcast.com/podcast-episodes/2019/3/29/sq9i2u5cg7owxvxvobfmten973s8cs Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">39w38YV4NCZZab9iDOo6Xb</guid>
+      <pubDate>Wed, 27 Mar 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1721</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 003: Lie to Me</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6aJonWNXVQtf07JqJBIa2O?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The internet has become a petri dish for lies and we are SHOOK. So we decided to unpack all kinds of scientific theories around why we lie, and what we can do to stop it. Guest: Iyamide House of Sabanoh Mental Health. To learn more, visit sabanoh.com.Show Notes: https://www.dopelabspodcast.com/podcast-episodes/2019/3/15/lab-003-lie-to-me Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6aJonWNXVQtf07JqJBIa2O</guid>
+      <pubDate>Wed, 13 Mar 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1501</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 002: Edges Snatched</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3b9gLmMhIsgSETWhbs4W2Z?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p> It’s not just women wearing weaves and wigs! Thanks to Safaree and Tyga, men are no longer keeping their hair restoration procedures a secret. Titi and Zakiya use psychology, biology and genetics to get to the root of what’s going on with our hair, or lack thereof. Guest: Dr. Monte Oyd Harris. To learn more about Dr. Harris, visit here . Show Notes: https://www.dopelabspodcast.com/podcast-episodes/2019/3/1/lab-002-edges-snatched  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3b9gLmMhIsgSETWhbs4W2Z</guid>
+      <pubDate>Wed, 27 Feb 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1759</itunes:duration>
+    </item>
+    <item>
+      <title>Lab 001: Cuffing Season</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3fidtl0GU0asA4b2e36UsH?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Valentine’s Day traditionally marks the end of Cuffing Season, which means that today, cuffers and cuffees everywhere are scrambling to figure out whether or not to seal the deal. In their very first lab, Titi and Zakiya dissect cuffing season using the sciences of biology ethology, and ecology. What is it? How did it start? And what can we do to strategize better the next time cuffing season rolls around? Guest: Dr. Paula Alejandra TrilloShow Notes: https://www.dopelabspodcast.com/podcast-episodes/2019/2/13/pilot-cuffing-season Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3fidtl0GU0asA4b2e36UsH</guid>
+      <pubDate>Wed, 13 Feb 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1828</itunes:duration>
+    </item>
+    <item>
+      <title>Welcome to the Lab!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/483kmNYKTCSgiIfWgZKqnO?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Dope Labs premieres on February 14th, with new episodes dropping every other Thursday. Follow us on Spotify, or wherever you get your podcast fix. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">483kmNYKTCSgiIfWgZKqnO</guid>
+      <pubDate>Tue, 12 Feb 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>169</itunes:duration>
+    </item>
+  </channel>
+</rss>
+

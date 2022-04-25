@@ -1,0 +1,872 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Gee Thanks</title>
+    <link>https://api.spotify.com/v1/shows/3MYTx5gBxo8r7cVMSv1hvn</link>
+    <description>Georgia and Lily are not your average sisters. Listen every Wednesday to hear all the reasons they have to say Gee Thanks, and don’t forget to have your Tea With G or get advice from your Big Little Sister on Sundays. DM us at geethanks@thisisamplify.com</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://i.scdn.co/image/ab6765630000ba8a4c72fbdc1ce76989731ef49d</url>
+      <title>Gee Thanks</title>
+      <link>https://api.spotify.com/v1/shows/3MYTx5gBxo8r7cVMSv1hvn</link>
+    </image>
+    <language>en-AU</language>
+    <lastBuildDate>Sat, 23 Apr 2022 07:49:39 +0000</lastBuildDate>
+    <item>
+      <title>Gee Thanks for Taking a Break</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4RQLaU4AaRYLo7uBe4EvVA?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>No you’re not going mad - there’s no new episode of Gee Thanks this week! The podcast is taking a lil break while we get ready for an exciting new season…let’s just say, we are mixing things up! Tap the bell so you don’t miss our comeback!</p> ]]></description>
+      <guid isPermaLink="false">4RQLaU4AaRYLo7uBe4EvVA</guid>
+      <pubDate>Tue, 12 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>25</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - Trying New Things</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7CSx1HveL4674QgefhBOtP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>For Lily, 2022 is all about trying new things. Listen in to learn how you can branch out too!</p> ]]></description>
+      <guid isPermaLink="false">7CSx1HveL4674QgefhBOtP</guid>
+      <pubDate>Sat, 09 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>247</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks For Growing Up With Me</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3BW4djmSo5O9hJJFpkKOuV?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia and Lily have grown up watching and idolising Youtubers, Disney stars and celebs. Now that Lily and Georgia are all grown up, it’s time to check in.</p> ]]></description>
+      <guid isPermaLink="false">3BW4djmSo5O9hJJFpkKOuV</guid>
+      <pubDate>Tue, 05 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2771</itunes:duration>
+    </item>
+    <item>
+      <title>Tea With G - Knowing When To Break Up </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5pxBeRZoFGXXqzhhe37il4?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Breakups are never easy. Georgia is sharing her advice on making those hard decisions.</p> ]]></description>
+      <guid isPermaLink="false">5pxBeRZoFGXXqzhhe37il4</guid>
+      <pubDate>Sat, 02 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>272</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks For the Invite</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4h8yqAxlBnhqzSuyP98wbB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>With the world finally open again, Georgia and Lily are giving an update on their social lives; the good, the bad and the awkward.</p> ]]></description>
+      <guid isPermaLink="false">4h8yqAxlBnhqzSuyP98wbB</guid>
+      <pubDate>Tue, 29 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2518</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - To Defer Or Not To Defer</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5q7pa0bG6p8xGrVFibJbvN?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Studying at Uni and being a full time content creator can get a little complicated sometimes… Listen in as Lily makes a tough decision.</p> ]]></description>
+      <guid isPermaLink="false">5q7pa0bG6p8xGrVFibJbvN</guid>
+      <pubDate>Sat, 26 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>285</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks For Core Memories</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7tKZBfuGMrfKFNawGXs8Kc?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From first paychecks to first loves, Georgia and Lily reminisce on all their core memories that made them who they are.</p> ]]></description>
+      <guid isPermaLink="false">7tKZBfuGMrfKFNawGXs8Kc</guid>
+      <pubDate>Tue, 22 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2988</itunes:duration>
+    </item>
+    <item>
+      <title>Tea With G - Childhood Wins</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6onlkNzbBeRz5gYyFGIGDX?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Sure, 1 million Youtube subscribers is cool, but wait till you hear about Georgia's biggest childhood victories.</p> ]]></description>
+      <guid isPermaLink="false">6onlkNzbBeRz5gYyFGIGDX</guid>
+      <pubDate>Sat, 19 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>343</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks For Not Comparing Us</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0RCNdc4W6XRqFsdjalmn0r?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>As sisters, and content creators, Lily and Georgia are no strangers to comparison. Listen in to hear all about how they deal with it.</p> ]]></description>
+      <guid isPermaLink="false">0RCNdc4W6XRqFsdjalmn0r</guid>
+      <pubDate>Tue, 15 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2508</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - Working While Wonderlust </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4doG2M1RO1kUSJ500X1esY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Whoever said that work and play don’t mix?  Lily is breaking down her top tips for mastering her work life balance.</p> ]]></description>
+      <guid isPermaLink="false">4doG2M1RO1kUSJ500X1esY</guid>
+      <pubDate>Sat, 12 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>377</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks For The Girls, with the Mescia Twins</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3EMNszjaioyaDyXnmdHORc?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It's been over a year since the Mescia Twins have been on the pod and a lot has changed. The girls talk all things career, self love and friendships.</p> ]]></description>
+      <guid isPermaLink="false">3EMNszjaioyaDyXnmdHORc</guid>
+      <pubDate>Tue, 08 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2692</itunes:duration>
+    </item>
+    <item>
+      <title>Tea With G - The Things We Do For Kids</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4Dg8fhuSwY8JcATXqTsBoF?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>What ever happened to the woolies mud cake and the trusty party hat? Kids parties have gotten out of control these days and Georgia has something to say about it.</p> ]]></description>
+      <guid isPermaLink="false">4Dg8fhuSwY8JcATXqTsBoF</guid>
+      <pubDate>Sat, 05 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>280</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks For The Travel Bug</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/63z851sg3JEWyKVVlHECxI?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Lily and Georgia have just returned from a very eventful family holiday. From feeding dolphins to eating raw meat, there's a lot to unpack.</p> ]]></description>
+      <guid isPermaLink="false">63z851sg3JEWyKVVlHECxI</guid>
+      <pubDate>Tue, 01 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2705</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - Cutting Off Toxic People</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2H7KNRTIUI2uoPZqM8OKlY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Everyones had at least one toxic person come into their life… Lily is breaking down all her tips on how you can cut ties.</p> ]]></description>
+      <guid isPermaLink="false">2H7KNRTIUI2uoPZqM8OKlY</guid>
+      <pubDate>Sat, 26 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>339</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks - AMA Edition! </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2S4sBO8GLF40BasqaOhleT?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia and Lily are spilling their guts and answering all your burning questions, from pet peeves to breakup advice. If you’ve ever sent in a question, you don’t want to miss this episode!</p> ]]></description>
+      <guid isPermaLink="false">2S4sBO8GLF40BasqaOhleT</guid>
+      <pubDate>Tue, 22 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2650</itunes:duration>
+    </item>
+    <item>
+      <title>Tea With G - Finding Your Style </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7rzavIPHZp13Mk4FmXBAia?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia’s style may look effortless, but she’s had her fair share of fashion fails to get to where she is today. Listen in for all the tea on finding your personal style.</p> ]]></description>
+      <guid isPermaLink="false">7rzavIPHZp13Mk4FmXBAia</guid>
+      <pubDate>Sat, 19 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>389</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks I’m So Tough</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/45zFWNGrTZZSKcnYUXOZc3?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>With Lily officially sans tonsils, we’re reminiscing on all the times we’ve had to be tough. From breakups, to car breakdowns, Georgia and Lily are tough as nails. Play along with Georgia and Lily: https://brainfall.com/quizzes/how-tough-are-you/</p> ]]></description>
+      <guid isPermaLink="false">45zFWNGrTZZSKcnYUXOZc3</guid>
+      <pubDate>Tue, 15 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2834</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - Lily’s Van Life! </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0HCFi2Ajmq0DsFnDcylXrj?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Lily is making major moves, literally. Listen in for the inside scoop into Lily’s van life.</p> ]]></description>
+      <guid isPermaLink="false">0HCFi2Ajmq0DsFnDcylXrj</guid>
+      <pubDate>Sat, 12 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>342</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks For Soulmates</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3kJtmiOjYfFQRp4guyDRfY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>With Valentine's Day just around the corner, why not soak up the love a little? Whether you’re single or taken; Lily and Georgia are spreading the love all around. Play along with Georgia and Lily: https://www.5lovelanguages.com/quizzes/love-language</p> ]]></description>
+      <guid isPermaLink="false">3kJtmiOjYfFQRp4guyDRfY</guid>
+      <pubDate>Tue, 08 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2609</itunes:duration>
+    </item>
+    <item>
+      <title>Tea With G - Living With Georgia Productions </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5mu0gY1Nabh4SxzwesAyuM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ever wondered what it’s like to live with Georgia? What about living with your best friends? Georgia is spilling all the tea on what it’s really like sharing a house with your friends.</p> ]]></description>
+      <guid isPermaLink="false">5mu0gY1Nabh4SxzwesAyuM</guid>
+      <pubDate>Sat, 05 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>381</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Predicting the Future</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6QVsAG48Yu7gpglgO0Kitt?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Crystal’s are making big waves on the internet, but what’s all the fuss about? This episode Georgia and Lily are deep diving into all things crystals, psychics and spirituality. Play along with Georgia and Lily: https://www.buzzfeed.com/leiaorganaismywife/who-were-you-in-your-past-life-7jxtnmu50r</p> ]]></description>
+      <guid isPermaLink="false">6QVsAG48Yu7gpglgO0Kitt</guid>
+      <pubDate>Tue, 01 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2564</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - How To Make 2022 Your Year</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5H21K1hGmbOEVzFblvrpqT?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Lily’s got a feeling that 2022 is going to be her year. Listen in to find out how she’s making it happen.</p> ]]></description>
+      <guid isPermaLink="false">5H21K1hGmbOEVzFblvrpqT</guid>
+      <pubDate>Sat, 29 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>232</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks For Going Back To School </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6NWIY1TMDQEl0st5sweFPu?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>With Summer Holidays coming to an end, Georgia and Lily are talking all things ‘Back to School’. From scented stationary, dealing with friendship fights and crushes.  Play along with Georgia and Lily: https://www.buzzfeed.com/whitneyjefferson/are-you-smarter-than-a-fifth-grader-prove-it</p> ]]></description>
+      <guid isPermaLink="false">6NWIY1TMDQEl0st5sweFPu</guid>
+      <pubDate>Tue, 25 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2771</itunes:duration>
+    </item>
+    <item>
+      <title>Tea With G - Dear Future Georgia </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1kgTFz88NAVrf1zuAf1GZl?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia has a lot of goals for 2022. From self love to letting go, this year is all about growth.</p> ]]></description>
+      <guid isPermaLink="false">1kgTFz88NAVrf1zuAf1GZl</guid>
+      <pubDate>Sat, 22 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>252</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks For Making Me Feel Better </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7DGhXeVDIzj20AZ8PPaPv7?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From crushes to sibling fights, Lily and Georgia have been through a lot, but how do they deal with it? This episode the girls are making personalised care packages for all those tricky situations.</p> ]]></description>
+      <guid isPermaLink="false">7DGhXeVDIzj20AZ8PPaPv7</guid>
+      <pubDate>Tue, 18 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2398</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - Dear Future Lily</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4gTOtUscxKTXLLDmjG3iM5?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ever wonder what future Lily is up to? In this episode, Lily writes a letter to herself with what she hopes 2022 has in store…</p> ]]></description>
+      <guid isPermaLink="false">4gTOtUscxKTXLLDmjG3iM5</guid>
+      <pubDate>Sat, 15 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>286</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks For The New Year, New Me</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6rxbBYAVKNNOuYmi0i1eNT?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Wanna make 2022 your year? From manifesting, setting the ‘vibe’ and making goals, 2022 is already looking good.</p> ]]></description>
+      <guid isPermaLink="false">6rxbBYAVKNNOuYmi0i1eNT</guid>
+      <pubDate>Tue, 11 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2780</itunes:duration>
+    </item>
+    <item>
+      <title>Tea With G - Georgia’s Best 2021 Moment</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/27JDAISlWWMj7hTHDCODvn?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>With 2021 finally wrapping up, Georgia is reflecting on her favourite moment of the year.</p> ]]></description>
+      <guid isPermaLink="false">27JDAISlWWMj7hTHDCODvn</guid>
+      <pubDate>Sat, 25 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>262</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks For Our Christmas Special</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/73jhYd8NENJzuAx5sAfUky?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Christmas has come early and Lily and Georgia are here for it! From childhood memories to Christmas crafts, this vodcast is sure to get you in the festive mood.</p> ]]></description>
+      <guid isPermaLink="false">73jhYd8NENJzuAx5sAfUky</guid>
+      <pubDate>Tue, 21 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2689</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - Makeup 101</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6wJLUx859ojGbeCvsCIlPB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Not sure where to start when it comes to makeup? Lily gives her best tips for getting started and having fun with it!</p> ]]></description>
+      <guid isPermaLink="false">6wJLUx859ojGbeCvsCIlPB</guid>
+      <pubDate>Sat, 18 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>321</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Main Character Energy</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2ZqJ4FChCUNxQ9sd92Tli8?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia and Lily take personality tests and see if the results line up with their expectations… Do the personality quiz and let us know your results in the Q and A section! https://www.16personalities.com/</p> ]]></description>
+      <guid isPermaLink="false">2ZqJ4FChCUNxQ9sd92Tli8</guid>
+      <pubDate>Tue, 14 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2346</itunes:duration>
+    </item>
+    <item>
+      <title>Tea With G - Lockdown Romance</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/72EPzG5PIARnLY9dTHletI?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>What does it look like when you starting dating someone in the middle of a lockdown?! Lots of beach walks, apparently. Georgia gets into how she met her new boyfriend in the middle of a lockdown.</p> ]]></description>
+      <guid isPermaLink="false">72EPzG5PIARnLY9dTHletI</guid>
+      <pubDate>Sat, 11 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>380</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Hot Girl Summer</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5IMciHFetiT8jnnIOvLUAE?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>La Nina? Haven’t heard of her. Georgia and Lily are here to usher in Hot Girl Summer and look back on some of their fav summer memories!</p> ]]></description>
+      <guid isPermaLink="false">5IMciHFetiT8jnnIOvLUAE</guid>
+      <pubDate>Tue, 07 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2637</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - How to Feel Your Best This Summer</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/05pZDnbJc9n6JejZNSQR1k?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>With winter well and truly over Lily is bringing all her tips and tricks on how you can feel your very best all summer long.</p> ]]></description>
+      <guid isPermaLink="false">05pZDnbJc9n6JejZNSQR1k</guid>
+      <pubDate>Sat, 04 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>272</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for our Record Breaking Vodcast</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7IzVC7ZtXfRvGYfraauhED?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Lily and Georgia are back for another Vodcast and are taking on some of the world’s weirdest records. From stacking M&amp;M’s to a jelly eating race - things get messy.</p> ]]></description>
+      <guid isPermaLink="false">7IzVC7ZtXfRvGYfraauhED</guid>
+      <pubDate>Tue, 30 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2177</itunes:duration>
+    </item>
+    <item>
+      <title>Tea with G - What’s on Georgia's Travel Bucket List? </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1veonG8cuZDhYwPJAktRcG?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Now that travel is back on the table we’re feeling ready to dive in. From Iceland to Uluru here’s what's on Georgia’s bucket list.</p> ]]></description>
+      <guid isPermaLink="false">1veonG8cuZDhYwPJAktRcG</guid>
+      <pubDate>Sat, 27 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>321</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Weird Dreams Part 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/15gWW5CjxtkEDxSPpcgvv6?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Back by popular demand the girls are deep diving into their weirdest dreams as well as analysing some of yours.</p> ]]></description>
+      <guid isPermaLink="false">15gWW5CjxtkEDxSPpcgvv6</guid>
+      <pubDate>Tue, 23 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2387</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - Transitioning from Highschool to Uni</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3PiwPwFXfPQMBNMrHuhZjl?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Going from Highschool to University is a big change. Lily’s got you covered with some tips to help make it go as smooth as possible.</p> ]]></description>
+      <guid isPermaLink="false">3PiwPwFXfPQMBNMrHuhZjl</guid>
+      <pubDate>Sat, 20 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>339</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Theme Parks</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1083GssVsICWjubOxkPrf6?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Welcome to the Gee Thanks Theme Park! Georgia and Lily are giving the grand tour, with all things Harry Styles, laminated frogs and penguin slushies.</p> ]]></description>
+      <guid isPermaLink="false">1083GssVsICWjubOxkPrf6</guid>
+      <pubDate>Tue, 16 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2144</itunes:duration>
+    </item>
+    <item>
+      <title>Tea With G - Total Fitspo</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7HBEmgeZWfhL5AIPBhH3hV?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia takes a jog down memory lane and reminisces on all her sporting memories, the good and the bad.</p> ]]></description>
+      <guid isPermaLink="false">7HBEmgeZWfhL5AIPBhH3hV</guid>
+      <pubDate>Sat, 13 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>274</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Mercury in Retrograde </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1U5wQi7yDUj4iVrOT8xWRl?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>When it comes to horoscopes Georgia and Lily are on the sceptical side, but can they be convinced? This episode the girls find out who they're most compatible with, how their signs interact together and will be reading listener horoscopes.</p> ]]></description>
+      <guid isPermaLink="false">1U5wQi7yDUj4iVrOT8xWRl</guid>
+      <pubDate>Tue, 09 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2260</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - How To Get Your Social Groove Back </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4tlHHNyR0b1w3vChQajUBI?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Australia is coming out of lockdown step by step, and you’re not alone if the adjustment is freaking you out! Lily is here to talk through ways to softly reenter society.</p> ]]></description>
+      <guid isPermaLink="false">4tlHHNyR0b1w3vChQajUBI</guid>
+      <pubDate>Sat, 06 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>287</itunes:duration>
+    </item>
+    <item>
+      <title>Gee thanks for Our First Vodcast!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6EFa9wTVNN1LwHpJpsqfiK?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Open your eyes, people! Gee Thanks is here bigger and better than ever, with our very first, Halloween themed podcast! Make up on pumpkins, UK candy taste test, and a truth test that will push the girls to their limit...this is an unmissable episode of Gee Thanks!</p> ]]></description>
+      <guid isPermaLink="false">6EFa9wTVNN1LwHpJpsqfiK</guid>
+      <pubDate>Tue, 02 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2670</itunes:duration>
+    </item>
+    <item>
+      <title>Tea With G - Foodie Trends!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5AFxLy926RYzbPipMpFqQ8?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia is ready to try out the latest viral food hacks - from the TikTok pasta to the salmon rice bowl, this is the tastiest episode of Tea With G yet.</p> ]]></description>
+      <guid isPermaLink="false">5AFxLy926RYzbPipMpFqQ8</guid>
+      <pubDate>Sat, 30 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>265</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Celeb Crushes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6uAy9MlWACPfVBUoIGD0GG?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Who doesn’t remember their first celeb crush? This episode Georgia and Lily swoon over Sharkboy and talk about their own experiences with fans!</p> ]]></description>
+      <guid isPermaLink="false">6uAy9MlWACPfVBUoIGD0GG</guid>
+      <pubDate>Tue, 26 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2474</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - Learning to Focus</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7cAJuzCJMXjxk6JcRq24Lg?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It can be really hard to focus while you’re studying, even if you really want to be working hard! This episode Lily explores ways of staying focused during exam time.</p> ]]></description>
+      <guid isPermaLink="false">7cAJuzCJMXjxk6JcRq24Lg</guid>
+      <pubDate>Sat, 23 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>248</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Hobbies </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6dqirC001MMyfe7aeHkfLp?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia and Lily talk about their favourite hobbies - making scoobies, being plant mums, baking cakes - if you’re bored and looking for a new hobby to pick up, this is the episode for you.</p> ]]></description>
+      <guid isPermaLink="false">6dqirC001MMyfe7aeHkfLp</guid>
+      <pubDate>Tue, 19 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2746</itunes:duration>
+    </item>
+    <item>
+      <title>Tea With G - Celebrity Overload </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3yTg0N8MSaYItxxJJk3u7Y?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia tells the whirlwind story of when she was swept overseas to meet some of the biggest celebs in the world!</p> ]]></description>
+      <guid isPermaLink="false">3yTg0N8MSaYItxxJJk3u7Y</guid>
+      <pubDate>Sat, 16 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>412</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Exam Prep!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6gbt97Iz7GkR6QKJGfxxhz?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s creeping up on exam time, and whether you’re taking year 12 exams or your first year 10 exam, Georgia and Lily are here with their tips and tricks for getting prepared. Lily also gets into the details of her TAFE course which helped get her into her university of choice!</p> ]]></description>
+      <guid isPermaLink="false">6gbt97Iz7GkR6QKJGfxxhz</guid>
+      <pubDate>Tue, 12 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2688</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - Social Media Addiction!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4GERJ37fnI74LTtlfZzCRG?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It goes without saying we all love a doom scroll on the socials, but you need to know when to say enough is enough! Lily gives her best tips for stopping your social media addiction.</p> ]]></description>
+      <guid isPermaLink="false">4GERJ37fnI74LTtlfZzCRG</guid>
+      <pubDate>Sat, 09 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>327</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks We’re Not Competitive...</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2si9Fyj2AfkBklHgoJ2DL1?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia and Lily are known for being a little...competitive. So it probably wasn’t the best idea to put them head to head in a series of crazy Buzzfeed quizzes. But that’s what we did. Play along with the girls at home! https://www.buzzfeed.com/jemimaskelley/australia-big-things-quiz https://www.buzzfeed.com/greatlinthecait/okay-only-die-hard-harry-potter-fans-can-ace-this-1eo5p8ahon https://www.buzzfeed.com/danskib/european-trivia-quiz-cg6in6nvxc https://www.buzzfeed.com/cmc33/are-you-able-to-figure-out-the-nickelodeon-show-ju-dv4g4uoer</p> ]]></description>
+      <guid isPermaLink="false">2si9Fyj2AfkBklHgoJ2DL1</guid>
+      <pubDate>Tue, 05 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2604</itunes:duration>
+    </item>
+    <item>
+      <title>Tea with G - Single? Sweet</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0HfaJJb58xC14HQVsOADpv?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia gets real on this episode and shares how she turned being sad and single to being fun and fabulous!</p> ]]></description>
+      <guid isPermaLink="false">0HfaJJb58xC14HQVsOADpv</guid>
+      <pubDate>Sat, 02 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>318</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks It Ain’t the 90’s with Mama Vicki </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Iodvhly8A9EgC68zZy41E?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>What do Arnold Schwarzenegger, Olivia Rodrigo and Princess Diana have in common? You’ll have to listen to this special episode of Gee Thanks to find out! The girls sit down with their mum to talk about the difference between the 90s and now!</p> ]]></description>
+      <guid isPermaLink="false">1Iodvhly8A9EgC68zZy41E</guid>
+      <pubDate>Tue, 28 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2986</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - Get That Confidence, Girl!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7FOAQ2QfqDuOpQA1MZQpTV?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Feeling a bit ‘bleh’? Want to shed your shy girl attitude and get your confidence back? Lily is here to help with this pep talk episode of Big Little Sister.</p> ]]></description>
+      <guid isPermaLink="false">7FOAQ2QfqDuOpQA1MZQpTV</guid>
+      <pubDate>Sat, 25 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>375</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Gee Thanks!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2NJU2zH2O5AiFeCU8xAf2J?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Happy birthday to us! It is officially Gee Thanks’ first birthday. This episode is all about celebrating our fav podcast moments. Poddy producer Michelle jumps on to quiz Georgia and Lily on how well the know their own show...</p> ]]></description>
+      <guid isPermaLink="false">2NJU2zH2O5AiFeCU8xAf2J</guid>
+      <pubDate>Tue, 21 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2587</itunes:duration>
+    </item>
+    <item>
+      <title>Tea With G - Bizarre Fears</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3QxZBtW1DScxpywGRLhpSd?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia dives into the depths of her mind to explore her strangest and most irrational fears in this episode of Tea With G.</p> ]]></description>
+      <guid isPermaLink="false">3QxZBtW1DScxpywGRLhpSd</guid>
+      <pubDate>Sat, 18 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>430</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Creepy Crawlies</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0b9LPqWEES9tgCzNbCqTDv?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>You guys have been asking for an episode on Aussie animals, and boy have we delivered. Listen now to hear about the funnel web spider in Georgia and Lily’s pool and the one time Georgia almost drank a cup of ants...</p> ]]></description>
+      <guid isPermaLink="false">0b9LPqWEES9tgCzNbCqTDv</guid>
+      <pubDate>Tue, 14 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2723</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - Surviving Lockdown</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3UHygGBdmhynvPPAinzHu9?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s undeniably tough for everyone in lockdown at the moment. Are you tired of just going for walks around the block? Lily has some fun ideas of how you can pass the time in this episode of Big Little Sister.</p> ]]></description>
+      <guid isPermaLink="false">3UHygGBdmhynvPPAinzHu9</guid>
+      <pubDate>Sat, 11 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>290</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Weird Dreams</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3rw4Q8OSsZ2npMGHAM252I?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>What do the Norris Nuts, a fish and a boy named Gideon have in common? You’ll just have to listen to find out. Georgia and Lily analyse their weirdest dreams - and yours too.</p> ]]></description>
+      <guid isPermaLink="false">3rw4Q8OSsZ2npMGHAM252I</guid>
+      <pubDate>Tue, 07 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2948</itunes:duration>
+    </item>
+    <item>
+      <title>Tea With G - How to Start Your YouTube Channel</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6Q1Y9ilY3Itf9zll7CWK4C?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s the question Georgia gets asked the most often - how do I start a YouTube channel?! Georgia gives her best tips and tricks to fast-track your channel to YouTube fame!</p> ]]></description>
+      <guid isPermaLink="false">6Q1Y9ilY3Itf9zll7CWK4C</guid>
+      <pubDate>Sat, 04 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>431</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Swim Carnival Costumes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3QCggn9E5k52gaDZeMenSj?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is packed full of Georgia and Lily’s must have and must avoid fashion trends! Wearing your school uniform on the weekends, cute outfits for swimming carnivals, maternity clothes - this episode is for the fashion lovers.</p> ]]></description>
+      <guid isPermaLink="false">3QCggn9E5k52gaDZeMenSj</guid>
+      <pubDate>Tue, 31 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2334</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - Your First Job!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0XAgWIFAHdRQWsG79KQqjc?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Your first job can be kinda scary, so in this episode of Big Little Sister Lily is going to break it down for you! Resumes, rules and taxes oh my!</p> ]]></description>
+      <guid isPermaLink="false">0XAgWIFAHdRQWsG79KQqjc</guid>
+      <pubDate>Sat, 28 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>302</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks I Don’t Get Cramps</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/65x2rgLdfVuJ1R7jDesYK8?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Sometimes it’s tough being a girl. This one is for the ladies - Georgia shares her most embarrassing period stories, Lily’s strange skin care routine, and the story of one very unfortunate Caramello Koala...</p> ]]></description>
+      <guid isPermaLink="false">65x2rgLdfVuJ1R7jDesYK8</guid>
+      <pubDate>Tue, 24 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2411</itunes:duration>
+    </item>
+    <item>
+      <title>Tea With G - Moving Out of Home</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2PTQXB9PqdsqRggEy5SzIk?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Every kid can’t wait to flee the nest, but what is it really like out there once you leave home? Georgia goes through the 5 Phases of Moving Out!</p> ]]></description>
+      <guid isPermaLink="false">2PTQXB9PqdsqRggEy5SzIk</guid>
+      <pubDate>Sat, 21 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>385</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Pixie Hollow </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4DCQKxEOMsgK9jVl42SCSr?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Failing at Wii Sports, flipping pizzas in Club Penguin and sending whispers in Pixie Hollow - who doesn’t love a video game?! Georgia wistfully remembers her days as a fairy, and Lily belts out her SingStar favourites.</p> ]]></description>
+      <guid isPermaLink="false">4DCQKxEOMsgK9jVl42SCSr</guid>
+      <pubDate>Tue, 17 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2643</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - Sibling Relationships</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5ihYouyj9onwqJVd94HyI2?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Having a brother or sister is easy, right? Not all the time. Lily gives her top tips for how to keep your sibling relationships happy and healthy.</p> ]]></description>
+      <guid isPermaLink="false">5ihYouyj9onwqJVd94HyI2</guid>
+      <pubDate>Sat, 14 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>376</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for the Olympics</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0dUfA6WbjN706bgL6PCGYP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Another Olympics has come and gone, and Georgia and Lily loved watching! This episode they look back at some iconic moments of Tokyo 2020, and laugh at their own not-so-successful attempts at being an athlete.</p> ]]></description>
+      <guid isPermaLink="false">0dUfA6WbjN706bgL6PCGYP</guid>
+      <pubDate>Tue, 10 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2569</itunes:duration>
+    </item>
+    <item>
+      <title>Tea With G - School Dances</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3JIbCIZADvubHZVK5MwP0k?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Who doesn’t love a school dance? Georgia looks back on her primary school dances and ponders what it means to grow up.</p> ]]></description>
+      <guid isPermaLink="false">3JIbCIZADvubHZVK5MwP0k</guid>
+      <pubDate>Sat, 07 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>277</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for a Good Read</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4HvXAe41erKgfI9JAm5n5f?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From Possum Magic to Harry Potter, this episode of Gee Thanks is a journey through Georgia and Lily’s favourite books.</p> ]]></description>
+      <guid isPermaLink="false">4HvXAe41erKgfI9JAm5n5f</guid>
+      <pubDate>Tue, 03 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2528</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - Managing Mental Health</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0bWMBNHM5holFz96IsJJ5L?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>With so many people across the country back in lockdown, Lily thought she’d share some tips on maintaining good mental health. Resources  Beyond Blue: https://www.beyondblue.org.au/ Black Dog Institute: https://www.blackdoginstitute.org.au/</p> ]]></description>
+      <guid isPermaLink="false">0bWMBNHM5holFz96IsJJ5L</guid>
+      <pubDate>Sat, 31 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>458</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for My Family</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6JouSvYSHdkzgfrbumFoyz?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>There are many branches on the McCudden family tree. Listen in to hear about the time Lily made her little cousin cry on a ski slope, and Georgia’s favourite treat her Grandma makes. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6JouSvYSHdkzgfrbumFoyz</guid>
+      <pubDate>Tue, 27 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2549</itunes:duration>
+    </item>
+    <item>
+      <title>Tea With G - Learning Difficulties</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3qRZopkysxUehVXVHApMaF?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia has always been open about her experiences with ADHD and learning difficulties. In this episode of Tea With G, she’s here to tell you you’re not the only one, and there’s things you can do to help navigate these conditions. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3qRZopkysxUehVXVHApMaF</guid>
+      <pubDate>Sat, 24 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>611</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks I Never Peed My Pants</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2veW4PKfEl80engEieRwzZ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This hilarious episode is full of every single embarrassing thing that’s ever happened to these two sisters. From getting ‘the talk’ from mum and dad to one very unfortunate gymnastics indecent, Georgia and Lily do not hold back in this episode of Gee Thanks.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2veW4PKfEl80engEieRwzZ</guid>
+      <pubDate>Tue, 20 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2539</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - Having Healthy Friendships</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Bu33skv9EmLbOjmjHBz3V?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>You guys asked, and Lily has delivered! This episode is full of all of Lily’s life lessons on how to find and keep good friends, and what to do if a friendship goes bad. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1Bu33skv9EmLbOjmjHBz3V</guid>
+      <pubDate>Sat, 17 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>316</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Growing Up</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3GjIunD2ysBxOkgr7FjuQE?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>There’s no place like home! This episode is all about Newcastle. Listen in to hear Georgia and Lily’s experiences growing up, going on swimming excursions and sneaking off for late night skinny dipping!  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3GjIunD2ysBxOkgr7FjuQE</guid>
+      <pubDate>Tue, 13 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2814</itunes:duration>
+    </item>
+    <item>
+      <title>Tea with G - Dream Big</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2M4pDTZp8l0xWaPYQ7KQD0?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia explores her extremely vivid dreams and interprets what they mean to her in this episode of Tea with G!  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2M4pDTZp8l0xWaPYQ7KQD0</guid>
+      <pubDate>Sat, 10 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>345</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Teachers</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/79YTLZj6g0Bvdbugao0qH4?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>With school holidays back next week, Georgia and Lily decided to look back fondly (and sometimes not so fondly) on all of their teachers from high school.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">79YTLZj6g0Bvdbugao0qH4</guid>
+      <pubDate>Tue, 06 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2675</itunes:duration>
+    </item>
+    <item>
+      <title>Big Little Sister - Your First Period</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5apSn0hSKQKfkJvPfixsWu?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Move over G, it’s time for this little sister to take the stage. Every week, Lily is going to be your Big Little Sister, and what better place than to start with period advice? We’ve all been there girls! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5apSn0hSKQKfkJvPfixsWu</guid>
+      <pubDate>Sat, 03 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>517</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for My New Boyfriend</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/69tqbQvhLa5HVnnEQArN7m?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How the tables have turned. When they started Gee Thanks, Georgia had a boyfriend and Lily was single. Now, Lily has a boyfriend and Georgia is single. In this episode they swap stories and ask the question - will men ever learn? Spoiler - probably not. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">69tqbQvhLa5HVnnEQArN7m</guid>
+      <pubDate>Tue, 29 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2633</itunes:duration>
+    </item>
+    <item>
+      <title>Tea with G - To Shave or Not To Shave</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3NMeoxMdPDPbge8QNbiz1F?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Gee Thanks on a Sunday? Surprise! Pop the kettle on and enjoy Tea With G, where Georgia takes you through an embarrassing change room moment that changed her shaving routine forever... Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3NMeoxMdPDPbge8QNbiz1F</guid>
+      <pubDate>Sat, 26 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>377</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Movie Marathons</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3qIMJJu776k6esYBbphIx7?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>As the cold weather settles in, there’s no better time to boot up Netflix and binge watch the classics. Georgia and Lily talk about their favourite childhood films, director’s they’d love to work with and the ultimate girl’s night movie marathon watch list. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3qIMJJu776k6esYBbphIx7</guid>
+      <pubDate>Tue, 22 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2615</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Gen Z</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/22AHKSzlVxJsRKYUPmfD1Z?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Greta Thunberg, TikTok, crying to Driver’s License - just a few of the things that make Gen Z so special. This episode is all about celebrating what makes Generation Z different and frankly, iconic. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">22AHKSzlVxJsRKYUPmfD1Z</guid>
+      <pubDate>Tue, 15 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2694</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Bucket Lists</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4QtKpWLHXsPgGpFmwhCObG?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia and Lily count down their top 10 bucket list activities! Seeing the Northern Lights, destroying a chandelier, living in Europe...what is the number one thing they want to do before they kick the bucket? Listen to find out. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4QtKpWLHXsPgGpFmwhCObG</guid>
+      <pubDate>Tue, 08 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2645</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Winter School Uniforms</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4K7s3nGgSPL3V0Y21WNdFW?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Winter is here! Pop the kettle on, get into your woollen socks and grab a blanket - this episode is full of wintery goodness, including Lily and Georgia’s best winter fashion tips. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4K7s3nGgSPL3V0Y21WNdFW</guid>
+      <pubDate>Tue, 01 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2417</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Old School YouTubers</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7sgSmb7K8wpxbvY2k3MqGk?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Scandals? Drama? Messy apology videos? Just another day in the office of a YouTuber. This episode Georgia and Lily let loose on recent YouTube scandals and get wistful over the good old days of the platform.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7sgSmb7K8wpxbvY2k3MqGk</guid>
+      <pubDate>Tue, 25 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2520</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks I Have Good Taste</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3nxPG5s1kMZMBH7ToevWlH?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This week Georgia and Lily get into the nitty gritty on their favourite singers, the best concerts they’ve been to and debate whether or not TikTokers should be allowed to make music. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3nxPG5s1kMZMBH7ToevWlH</guid>
+      <pubDate>Tue, 18 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2671</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Mama Vicki</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0zb7nHgDfGI5KO8D0yc2NP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>You guys wanted Mama Vicki back on the podcast, so she’s back for this Mother’s Day special. Want to hear embarrassing stories of Georgia and Lily as babies? Want advice from a teacher on how to deal with bullying? This is your episode. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0zb7nHgDfGI5KO8D0yc2NP</guid>
+      <pubDate>Tue, 11 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2775</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for the Best Parties Ever</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7K5CdvBTU8yuf7Y6TnPwae?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s Lily’s 19th birthday! Lily and Georgia rank their favourite birthday parties growing up and plan Lily’s upcoming party - without giving away too many details that Mama Vicki might hear... Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7K5CdvBTU8yuf7Y6TnPwae</guid>
+      <pubDate>Tue, 04 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1928</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks Girls and Guys Can Be Friends</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7hEH0sV85boseZmeXNZAtA?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Is ghosting okay? Should guys play hard to get? When CAN you call someone your boyfriend? Get the boy’s point of view on this episode of Gee Thanks with Lily’s mates Josh and Julian. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7hEH0sV85boseZmeXNZAtA</guid>
+      <pubDate>Tue, 27 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2724</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks I Saved That Coin</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1OugwEtRkCaeeayOCYfv8p?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Have you ever seen a draw dedicated entirely to bras? This week Georgia and Lily share the silliest things they’ve spent money on, the sustainability of being a YouTuber and whether they’d eat a gold coated burger... Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1OugwEtRkCaeeayOCYfv8p</guid>
+      <pubDate>Tue, 20 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2472</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for the Hate Comments</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0W1a080KSANeov4kLvUJkY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>You can’t please everyone. This week Georgia and Lily come for their haters, yell about men sexualising women over literally anything, and debate whether James Charles should be cancelled once and for all. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0W1a080KSANeov4kLvUJkY</guid>
+      <pubDate>Tue, 13 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2078</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for My Obsessions</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2ylRR6cmT31KlrkyCUEH0o?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The rush of adrenaline, the screaming, the crying - all the FEELS - being a fangirl is the best thing ever. Georgia gets emotional remembering her favourite memory of meeting one of her fans, and Lily shares her ultimate girl crush. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2ylRR6cmT31KlrkyCUEH0o</guid>
+      <pubDate>Tue, 06 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2166</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for School Holidays</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1LfcW4pbRC8j9kHZDf1eNB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s time for those two precious weeks of freedom. Georgia and Lily share their favourite school holiday memories, one of which maybe, potentially, sorta ended with Georgia yelling at another student at the top of a mountain... Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1LfcW4pbRC8j9kHZDf1eNB</guid>
+      <pubDate>Tue, 30 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2739</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks I Asked For Help</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1l4xf0TXgYWihlMEn0plgV?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Last week’s episode was about all of Georgia and Lily’s worst experiences - this week they’re chilling right out and talking about how they keep calm and carry on.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1l4xf0TXgYWihlMEn0plgV</guid>
+      <pubDate>Tue, 23 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2449</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for the Sister Fights</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6rEPZcPn6NS555plcao9Ft?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>You want to know the worst fight Georgia and Lily have ever had? This is the episode for you. Listen in to hear about their worst fight, worst kiss and worst jobs.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6rEPZcPn6NS555plcao9Ft</guid>
+      <pubDate>Tue, 16 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2533</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Our Queer Friends</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7fugIxgBnPfYpPBbdriOnw?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Another year, another Mardi Gras passed. Georgia and Lily sat down with host of Spotify Original podcast Search Engine Sex, Rowdie Walden to reflect on queer history in Australia and spill the tea on their dating history.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7fugIxgBnPfYpPBbdriOnw</guid>
+      <pubDate>Tue, 09 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2465</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Holiday Adventures</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/72iBHgYxtuz7LryYD5YDDC?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia and Lily reminisce on their favourite travel stories. Georgia confesses to an embarrassing mid road trip mess, and Lily daydreams about life in the Netherlands.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">72iBHgYxtuz7LryYD5YDDC</guid>
+      <pubDate>Tue, 02 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2492</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks I Learned To Use a Camera</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6NCuH7X2vR8i9tAf22E2td?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>You asked for it, and here it is - Georgia and Lily’s comprehensive guide to starting a YouTube channel. What’s a key frame? How do you colour grade? Listen now to get their insider tips. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6NCuH7X2vR8i9tAf22E2td</guid>
+      <pubDate>Tue, 23 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2390</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Being In Love</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0IUQvH2RRd6bP78M33sBmg?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>He loves me, he loves me not...On this episode of Gee Thanks Georgia and Lily spill the tea on their dating lives, and give their best dating do’s and don’ts. Like maybe don’t lean in tongue first for a kiss. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0IUQvH2RRd6bP78M33sBmg</guid>
+      <pubDate>Tue, 16 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2247</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Conspiracy Theories</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0cIpFJYU9rqD7fcAIGbPiS?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Did you know the moon is actually made of Swiss cheese? This week on Gee Thanks, Georgia and Lily educate each other on the internet’s favourite conspiracy theories. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0cIpFJYU9rqD7fcAIGbPiS</guid>
+      <pubDate>Tue, 09 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2124</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Getting Back To Work</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2e4UyFeIpQZibBudmQryrr?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s that dreaded time of the year again - back to school. Whether you’re heading back to high school or starting fresh at uni, college or work, this episode of Gee Thanks will get your spirits up ahead of the new school year.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2e4UyFeIpQZibBudmQryrr</guid>
+      <pubDate>Tue, 02 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2361</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Good Advice</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3NDFSTY8XK1NfdfxGMdkh6?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This week Georgia and Lily sat down with Grace Koh to ask the hard hitting questions, like should we kiss the ground that Harry Styles walks on, and how do you ask for help when it all gets a bit too much? Listen in for all the hot tea.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3NDFSTY8XK1NfdfxGMdkh6</guid>
+      <pubDate>Tue, 26 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2739</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for My Fluffy Friends</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1USsmjyxerGB2msZ93o6C3?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>You think you’ve had a lot of pets? Georgia and Lily reminisce on the - no joke - 15 PETS they’ve had over the years. Find out how Georgia ended up with a turtle named Luna and reunite with Eloise Crystal Blue, the most extra fish in the world. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1USsmjyxerGB2msZ93o6C3</guid>
+      <pubDate>Tue, 19 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2343</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for That Hustle</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5LEN5TjHirTKKkwvXREkBv?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Doughnuts and brownies and tarts, oh my! Georgia and Lily get into the nitty gritty details with Morgan Hipworth on how to run your own business, that work life balance, and how to promote your stuff on social media. If you want to start a side hustle, this is the episode for you. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5LEN5TjHirTKKkwvXREkBv</guid>
+      <pubDate>Tue, 12 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2579</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Good Health with the Rybka Twins</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4365fKeaRAYSZFEu2kdGfh?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia and Lily are ready to get that new year fitspo underway, so who better to talk to than the Rybka Twins? The girls got the inside scoop on Australia’s Got Talent and how Sam and Teagan got their start on Youtube.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4365fKeaRAYSZFEu2kdGfh</guid>
+      <pubDate>Tue, 05 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2038</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for the New Beginnings</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/47UCYUUrX8TXA3B9u1XU7Y?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode, Georgia and Lily sit down with Georgia’s best friend Louise to talk about all their plans for 2021. Do those plans involve buying a cavoodle and sleeping through the NYE countdown? Listen and find out. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">47UCYUUrX8TXA3B9u1XU7Y</guid>
+      <pubDate>Tue, 29 Dec 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1894</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Christmas with our Mum!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4SgFH08Nw2lwYkPAEfn2Sf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Tis the season to let your mum grill you on your dating history and tell embarrassing childhood stories on your podcast. Well, at least that’s what goes down in this week’s episode of Gee Thanks! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4SgFH08Nw2lwYkPAEfn2Sf</guid>
+      <pubDate>Tue, 22 Dec 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2066</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Girl Power</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2MOAQQqPb9Y2n0KsBtEisn?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Nothing is off the table in this episode of Gee Thanks. Georgia and Lily talk about feminism, women’s rights to their own bodies and the everyday sexism that young women face in 2020.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2MOAQQqPb9Y2n0KsBtEisn</guid>
+      <pubDate>Tue, 15 Dec 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1970</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for All My Faves</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5k1LjP278wI3AFB8XOt0OK?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Who isn’t obsessed with their Wrapped every year?! Georgia and Lily try (and fail) to guess each other’s top artists, top podcasts and top memories of 2020 in this Wrapped-packed episode of Gee Thanks!  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5k1LjP278wI3AFB8XOt0OK</guid>
+      <pubDate>Tue, 08 Dec 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2052</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for My Friends</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2evZmJhqtxUr89RjZXZd1J?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Friendships are so important, which is why Georgia and Lily talked to Lily’s best friend Lucy this week on the podcast. Listen in to hear what they think makes a good friend, and what to do when things get tough.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2evZmJhqtxUr89RjZXZd1J</guid>
+      <pubDate>Tue, 01 Dec 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1830</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Good Tunes with BENEE</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4YE1EMTc38ndNvvVymDmP0?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia and Lily revisit some nostalgic musical moments before sitting down with the iconic BENEE, artist extraordinaire and singer of the huge hit 'Supalonely'. They get all the deets on her new album and what life has been like during the pandemic. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4YE1EMTc38ndNvvVymDmP0</guid>
+      <pubDate>Tue, 24 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1709</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Self Love</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6m4Y3pjXn0TNTVWYzOpAfj?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In this episode, Georgia and Lily get real with the things they love and don’t love about themselves. Get your chocolate, get your face mask, and settle in for some self care.   Monsters In The Mirror: No Literally, Monsters https://www.psychologytoday.com/au/blog/making-sense-chaos/201408/monsters-in-the-mirror-no-really-literal-monsters Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6m4Y3pjXn0TNTVWYzOpAfj</guid>
+      <pubDate>Tue, 17 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2153</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for the Notifications</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2KC4r9rqBXzNxii2XWojRn?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Snapchat, and TikTok and Facebook oh my! Georgia and Lily are part of the first generation to grow up online. Did that mess up their brains? Listen now to find out.  Best Friends Short Film https://www.youtube.com/watch?v=j01Hg4QJ6NE Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2KC4r9rqBXzNxii2XWojRn</guid>
+      <pubDate>Tue, 10 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1863</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Activists with Jean Hinchliffe</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5O23sRJwL0l3SgEdmxeew5?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>There’s only one Earth - and Jean Hinchliffe is here to save it! Tune in to this episode to hear Georgia and Lily talk all things sustainability, Gen Z activism and what you can do to make a change.   Jean Hinchliffe  Instagram - @jeanlola.h  Carbon Footprint Calculator  www.footprintcalculator.org Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5O23sRJwL0l3SgEdmxeew5</guid>
+      <pubDate>Tue, 03 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2363</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Spooky Season</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7aUa9GBmicwWKaUtjmlalY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s that time of the year - Spooky Season is in full swing in this episode of Gee Thanks. Georgia and Lily reminisce on Halloweens past and talk about their time in the United States. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7aUa9GBmicwWKaUtjmlalY</guid>
+      <pubDate>Tue, 27 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2111</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for High School</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4UkutOeK4Vq4eSGhKvHnLp?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Sometimes high school is awesome and sometimes it's...not so awesome. In this episode, Georgia and Lily spill the tea on all their favourite high school stories.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4UkutOeK4Vq4eSGhKvHnLp</guid>
+      <pubDate>Tue, 20 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2094</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Getting Active with Olympian Brittany O’Brien</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3xh34DHiZidij0uSWqfOF8?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia and Lily just casually talk to actual real-life Olympic diver Brittany O’Brien about her amazing career including a recent foray into becoming a jewelry designer and entrepreneur. Tune in to hear about her crazy brutal training routine, Georgia’s cheerleading days, and Lily’s time competing overseas! Brittany O’Brien - @brittanyobrienn Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3xh34DHiZidij0uSWqfOF8</guid>
+      <pubDate>Tue, 13 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1930</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Good Mental Health with Zachery Dereniowski</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5OhdTr7MRSffNMDBkmTZzt?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia and Lily have always been open about their mental health struggles. In this episode, they get more personal than ever with special guest and medical student Zachery Dereniowski.   Zachery Dereniowski - @mdmotivator  References: 24/6: The Power of Unplugging One Day a Week by Tiffany Shlain Ted Talk: Jazz Thornton - From Suicidal to Hopeful, How I Learnt to Fight  Beyond Blue 24/7 Hotline: 1300 22 4646 Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5OhdTr7MRSffNMDBkmTZzt</guid>
+      <pubDate>Tue, 06 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2580</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for My Job!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3yFRtX2MVy8hc7AffXOKOW?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>What does a YouTuber even do, you ask? Georgia and Lily get into the nitty gritty of their work life, and ponder what they might be doing years from now.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3yFRtX2MVy8hc7AffXOKOW</guid>
+      <pubDate>Tue, 29 Sep 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1744</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for My Sister, with the Mescia Twins</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3jzqQf6BnyCO392wMixQki?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This episode is stuffed with sister love, as Georgia and Lily are joined by Ashley and Olivia Mescia aka The Mescia Twins aka two of their best friends! Hear what it’s really like working with your sis and the crazy story of one pretty revealing road trip.  The Mescia Twins YouTube: MesciaTwins Instagram: @mesciatwinsofficial Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3jzqQf6BnyCO392wMixQki</guid>
+      <pubDate>Tue, 22 Sep 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2138</itunes:duration>
+    </item>
+    <item>
+      <title>Gee Thanks for Tuning In!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/76LtKflC41TzWYDSnmIWQf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Georgia and Lily Grace are YouTubers, sisters and now...podcasters! Get to know the girls in their first episode of Gee Thanks as they talk isolation activities and childhood pets, including one very unfortunate frog. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">76LtKflC41TzWYDSnmIWQf</guid>
+      <pubDate>Tue, 22 Sep 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1888</itunes:duration>
+    </item>
+    <item>
+      <title>Trailer</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1OtaByZOARxThpKXAIKpvI?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Sisters Georgia Productions and Lily Grace talk about life, family, and say Gee Thanks for all the things they’re grateful for. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1OtaByZOARxThpKXAIKpvI</guid>
+      <pubDate>Mon, 21 Sep 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>78</itunes:duration>
+    </item>
+  </channel>
+</rss>
+

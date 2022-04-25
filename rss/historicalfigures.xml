@@ -1,0 +1,928 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Historical Figures</title>
+    <link>https://api.spotify.com/v1/shows/3iFwYwzabLKsSktBhUVCjn</link>
+    <description>Big Lives. Little-known Facts. Great, unknown stories hide inside history—every other Wednesday, we dig up what you don't know about the icons you do know. Hosts Carter and Vanessa bring history to life, telling unexpected anecdotes, describing the real personalities behind big names, and examining each individual’s lasting impact on the world. A reboot of Remarkable Lives. Tragic Deaths (iTunes “Best Debuts of 2016”). Historical Figures is a Spotify Original from Parcast.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://i.scdn.co/image/ab6765630000ba8ae97bf1037b6827e331349359</url>
+      <title>Historical Figures</title>
+      <link>https://api.spotify.com/v1/shows/3iFwYwzabLKsSktBhUVCjn</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Apr 2022 07:36:44 +0000</lastBuildDate>
+    <item>
+      <title>18 Texts from God </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0ODq2GpT4w7XobyeQBg28B?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This week we’re sharing an episode from Sinister Societies, where co-hosts Hannah and Suruthi share the story of Sweden’s Knutby Filadelfia. The small Pentecostal sect rocketed to cult infamy in the early 2000s after “texts from God” greased the wheels of a murder plot. Enjoy, and follow Sinister Societies for new episodes every Tuesday!  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0ODq2GpT4w7XobyeQBg28B</guid>
+      <pubDate>Sun, 03 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>730</itunes:duration>
+    </item>
+    <item>
+      <title>Robber Barons: Henry Ford</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Kb7AOriFxW9rOXDGjlYKs?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>As the Gilded Age comes to a close, Henry Ford emerges to revolutionize American manufacturing and ignite a new class of consumers. He works overtime to burnish his image as a populist hero — an image that’s complicated by his vivid contradictions and inflammatory controversies. From Dictators, a Spotify Original from Parcast. New episodes every Tuesday!  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1Kb7AOriFxW9rOXDGjlYKs</guid>
+      <pubDate>Mon, 14 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2809</itunes:duration>
+    </item>
+    <item>
+      <title>Robber Barons: J.P. Morgan</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6BLuKDOHThaqVxzvKYKwRr?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Born into a banking dynasty, John Pierpont Morgan became a Wall Street wunderkind in the 1860s. By his early 30s, he could afford an early retirement. But a life of leisure wasn’t in the cards for Morgan… This episode originally aired on Dictators, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6BLuKDOHThaqVxzvKYKwRr</guid>
+      <pubDate>Mon, 31 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2315</itunes:duration>
+    </item>
+    <item>
+      <title>Robber Barons: Cornelius Vanderbilt</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/08ypdec0UsvWQR0gIlD1Zq?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A Supreme Court decision in 1824 changed Cornelius Vanderbilt’s fate, opening the door for the enterprising steamboat captain to build a navigation empire — and from there, a railroad takeover. He outmaneuvered his rivals until he had the power to manipulate the entire U.S. economy. This episode originally aired on Dictators, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">08ypdec0UsvWQR0gIlD1Zq</guid>
+      <pubDate>Mon, 24 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2594</itunes:duration>
+    </item>
+    <item>
+      <title>Robber Barons: John D. Rockefeller</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1hxHlatDUcCJNKYX0GZXYu?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From humble beginnings to exorbitant wealth: John D. Rockefeller had a shrewd business mind and a zeal for refining oil that transformed his Standard Oil Company into a behemoth. This episode originally aired on Dictators, a Spotify Original from Parcast. Follow Dictators to learn more about the tycoons who wielded the power of tyrants during the Gilded Age.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1hxHlatDUcCJNKYX0GZXYu</guid>
+      <pubDate>Mon, 17 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2641</itunes:duration>
+    </item>
+    <item>
+      <title>Robber Barons: Andrew Carnegie</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/52p7zvPnu2Ao3lwGDFzekg?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>An immigrant from Scotland finds immense success in America after building a steel empire. But his business ties and practices lead to a reckoning that will haunt him for the rest of his life. This episode originally aired on Dictators, a Spotify Original from Parcast. Follow Dictators to learn more about the tycoons who wielded the power of tyrants during the Gilded Age. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">52p7zvPnu2Ao3lwGDFzekg</guid>
+      <pubDate>Mon, 10 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2628</itunes:duration>
+    </item>
+    <item>
+      <title>Robber Barons: The Gilded Age</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4R4waTclzPguEfXo4TElYP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Unimaginable wealth. Unchecked corruption. America is known for industrial tycoons hoarding control, manipulating the economy, and wielding more power than politicians. But this isn't new. It started in The Gilded Age. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4R4waTclzPguEfXo4TElYP</guid>
+      <pubDate>Mon, 03 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2245</itunes:duration>
+    </item>
+    <item>
+      <title>Best of 2021: John Wilkes Booth’s Deathbed Confession</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5X759ZywfMnI7U8flzMc8O?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>As we look ahead to the new year, we want to take one last chance to say thank you for the year that was — and present our "Best of 2021"! Please enjoy this episode from Deathbed Confessions, one of our favorite new shows of the year.Forty-two years after Lincoln’s assassin allegedly uttered his final words, a lawyer gives a detailed deathbed confession that — if true — will rewrite American history. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5X759ZywfMnI7U8flzMc8O</guid>
+      <pubDate>Mon, 27 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2608</itunes:duration>
+    </item>
+    <item>
+      <title>Real Pirates: Ho Ho Ho and a Bottle of Rum!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7iIvaboGR0hhssm0AfX5Wq?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It's a well-known fact that pirates like to party. It's all part of the job - commonly called the 'Merry Life.’ Rum, music and dancing were part of the allure of going 'upon the account' in the 18th century. But what did the Pirates of the Caribbean do at Christmas? There are mutinies, beach parties, and a big night out in the pirate port of Tortuga. Find out how pirates spend the festive season in this REAL PIRATES Holiday Special! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7iIvaboGR0hhssm0AfX5Wq</guid>
+      <pubDate>Mon, 20 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2259</itunes:duration>
+    </item>
+    <item>
+      <title>Superstitions: Wishbone</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Npgk2NxQr4XWWKPKX3Z52?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Everything can change in a snap. In this Thanksgiving special from Superstitions, a Spotify Original from Parcast, breaking the wishbone can change your luck and your life… in wonderful and terrible ways. Search and follow Superstitions for more episodes like this one, diving into eerie codes of conduct that can sway the fates. New episodes Wednesdays!  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1Npgk2NxQr4XWWKPKX3Z52</guid>
+      <pubDate>Mon, 22 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2518</itunes:duration>
+    </item>
+    <item>
+      <title>Blackbeard Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/64zlZrw2TTuHfb6AvXZXTw?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>After sending a message with the destruction of the Protestant Caesar, Blackbeard knew he needed to make a bigger name for himself. So, he decided to do the unthinkable: hold an entire city hostage. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">64zlZrw2TTuHfb6AvXZXTw</guid>
+      <pubDate>Sat, 25 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2008</itunes:duration>
+    </item>
+    <item>
+      <title>Blackbeard Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1wELA1dziH9ghrh6fjEAqD?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>No pirate captain has captured the imagination of the masses like the one known as Blackbeard. From obscure crew member to fearsome legend, his very name evokes an image of the devil incarnate…  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1wELA1dziH9ghrh6fjEAqD</guid>
+      <pubDate>Sat, 18 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1965</itunes:duration>
+    </item>
+    <item>
+      <title>Movers and Shakers: César Chávez</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1dZaaqWPfO5ltWsOUgdYHd?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In 1962, a farmworker named César Chávez proposed a bold new idea: California's agricultural laborers should organize into a union. But while he fought to improve work conditions for everyone, he faced discrimination and pushback at every turn. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1dZaaqWPfO5ltWsOUgdYHd</guid>
+      <pubDate>Sat, 11 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2291</itunes:duration>
+    </item>
+    <item>
+      <title>Movers and Shakers: Ruth Bader Ginsburg</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/73gmFIRMUkHTkL2DmxilR7?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A lifelong defender of women’s rights, RBG’s deftness in constitutional law earned her a place on the Supreme Court. But it was her fierce dissents speaking truth to power that made her an icon. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">73gmFIRMUkHTkL2DmxilR7</guid>
+      <pubDate>Sat, 11 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2280</itunes:duration>
+    </item>
+    <item>
+      <title>Movers and Shakers: Larry Kramer</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3MXPzGMLQlvWKlyFoLeBIO?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>He was an impassioned playwright and activist in the 1970s and ‘80s, whose accolades include everything from an Academy Award nomination to co-founding one of the world’s largest AIDS service organizations. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3MXPzGMLQlvWKlyFoLeBIO</guid>
+      <pubDate>Sat, 04 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2281</itunes:duration>
+    </item>
+    <item>
+      <title>Movers and Shakers: Audre Lorde</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1LzLvyybGspuX4MziMqgkN?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Throughout the 1960s, ‘70s, and ‘80s, poet, educator and activist Audre Lorde used her incredible talent to uplift various marginalized groups: women, Black people and members of the LGBTQ+ community. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1LzLvyybGspuX4MziMqgkN</guid>
+      <pubDate>Sat, 04 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2556</itunes:duration>
+    </item>
+    <item>
+      <title>Movers and Shakers: Bayard Rustin</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1TyrCmIzQv3iTzaagXvpRM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Throughout the 1940s, ‘50s and ‘60s, Bayard Rustin was an activist at the forefront of the movements for civil rights and gay rights. Despite the violence and discrimination he faced as an openly gay Black man, he persevered in his nonviolent organizing, even playing a pivotal role in the famous March on Washington in 1963. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1TyrCmIzQv3iTzaagXvpRM</guid>
+      <pubDate>Sat, 28 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2700</itunes:duration>
+    </item>
+    <item>
+      <title>Movers and Shakers: Marsha P. Johnson</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/701nf2cIKLJfzIUPdl7bTI?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Black transgender activist Marsha P. Johnson played a pivotal role in the Stonewall Riots of 1969, and continued to advocate for LGBTQ rights throughout the following decades. But during her life, she was haunted by her own struggles with homelessness and mental health. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">701nf2cIKLJfzIUPdl7bTI</guid>
+      <pubDate>Sat, 28 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2174</itunes:duration>
+    </item>
+    <item>
+      <title>Ivan the Terrible Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2LfaMcatsHBizRuu9NU4em?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>After the death of his beloved first wife, Tsar Ivan the Terrible descended into madness and paranoia. He turned his hatred and fear against his own people dragging the empire he had built with his own hands down into poverty and despair. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2LfaMcatsHBizRuu9NU4em</guid>
+      <pubDate>Sat, 21 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2586</itunes:duration>
+    </item>
+    <item>
+      <title>Solved Murders: Party Fouls, Part 1 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1s9TNKvsm8tWCb7lSKb3Hu?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In this four-part series from Solved Murders, we’re looking at when good times went bad — starting with an episode on New York City’s legendary partygoers, the Club Kids, and the grisly murder that rocked their community in the ‘90s. Listen to the full episode right here, then follow Solved Murders to kick back with the rest of the series. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1s9TNKvsm8tWCb7lSKb3Hu</guid>
+      <pubDate>Wed, 18 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2257</itunes:duration>
+    </item>
+    <item>
+      <title>Ivan the Terrible Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7bIYiVygy3ezrl1gfa5uoM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ivan Vasilyevich the Fourth was crowned Grand Prince of Muscovy at 3 years old after his father died. After a traumatic childhood of chaos and coups, Ivan would crown himself the first Tsar of Russia and go on to create the Russian Empire. The first half of his reign would have made him a legend... if the second half did not turn into a waking nightmare that would earn him the name "Ivan the Terrible." Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7bIYiVygy3ezrl1gfa5uoM</guid>
+      <pubDate>Sat, 14 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2489</itunes:duration>
+    </item>
+    <item>
+      <title>Nostradamus Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1cR7KRStISNPwaCGOSwAzV?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>How did the soothsayer arrive at such uncannily accurate prophecies? The answer lies in both how he divined our futures, and why.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1cR7KRStISNPwaCGOSwAzV</guid>
+      <pubDate>Sat, 07 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2491</itunes:duration>
+    </item>
+    <item>
+      <title>Nostradamus Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0XXSDMg3Cpx8rA7jCGzKDm?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>He was a 16th century doctor, apothecary, and seer whose prophecies, published in 1555, still hold resonance today. Did Nostradamus foresee Hitler's rise in Germany, the 9/11 terrorist attacks, and the COVID-19 pandemic?  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0XXSDMg3Cpx8rA7jCGzKDm</guid>
+      <pubDate>Sat, 31 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2489</itunes:duration>
+    </item>
+    <item>
+      <title>Photographer Eadweard Muybridge Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0JQfktHrjNL44a8Ra5H4Uq?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Please enjoy the second of our two Crimes of Passion episodes on famed photographer Eadweard Muybridge. When the truth of his wife’s affair and son’s parentage uncovered, Eadweard shot off to Calistoga, California with murderous intent.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0JQfktHrjNL44a8Ra5H4Uq</guid>
+      <pubDate>Wed, 28 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2427</itunes:duration>
+    </item>
+    <item>
+      <title>Photographer Eadweard Muybridge Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5iAB2xZHCA4hZlRj9jK1AE?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Eadweard Muybridge was a photography pioneer, responsible for the now famous collection images of a horse galloping. In this episode of Crimes of Passion, we take you back to the late 19th century, when a conman came between Muybridge and his young wife, Flora Downs.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5iAB2xZHCA4hZlRj9jK1AE</guid>
+      <pubDate>Sat, 24 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2555</itunes:duration>
+    </item>
+    <item>
+      <title>Obituaries: Maya Angelou x James Baldwin</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4DspTkpRsuhl48sF75Xgfw?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Vanessa and Carter are back with a brand new history series! Listen to more episodes by searching "Obituaries" on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4DspTkpRsuhl48sF75Xgfw</guid>
+      <pubDate>Wed, 21 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2129</itunes:duration>
+    </item>
+    <item>
+      <title>The Two Princes in the Tower Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3lB1W5stJqIwZjhwNL7dmB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Today we’re bringing you a special two-part episode from another Spotify Original from Parcast. If you enjoy it, check out Unsolved Murders on Spotify, or wherever you listen to podcasts! In 1483, two princes got caught in the center of a bloody war for the throne of England — and became one of the biggest murder mysteries in British history. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3lB1W5stJqIwZjhwNL7dmB</guid>
+      <pubDate>Sun, 22 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2316</itunes:duration>
+    </item>
+    <item>
+      <title>The Two Princes in the Tower Pt. 1</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0netVonX7girFkOTtPadMz?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Today we’re bringing you a special two-part episode from another Spotify Original from Parcast. If you enjoy it, check out Unsolved Murders on Spotify, or wherever you listen to podcasts! In 1483, two princes got caught in the center of a bloody war for the throne of England — and became one of the biggest murder mysteries in British history. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0netVonX7girFkOTtPadMz</guid>
+      <pubDate>Sun, 22 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2250</itunes:duration>
+    </item>
+    <item>
+      <title>Falls From Grace: Gloria Grahame</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2NMv0hQIws8a04t7v4Fcwf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the 1940s and ‘50s, Gloria Grahame was known for her sophisticated acting style and signature lipstick. But what really thrust her into the public eye was her tumultuous personal life. As events escalated at home, Gloria’s career backslid into oblivion.This episode is brought to you by Famous Fates: Falls From Grace, a Parcast Original. For more episodes like this one, subscribe to Famous Fates, free and only on Spotify! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2NMv0hQIws8a04t7v4Fcwf</guid>
+      <pubDate>Tue, 28 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2022</itunes:duration>
+    </item>
+    <item>
+      <title>Falls From Grace: Bobby Fischer</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6z2PAp9NTSvkOgNHZLbr4k?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Chess grandmaster Bobby Fischer etched his name into the history books with his World Championship win in 1972. But after his peak, he became a paranoid recluse, withdrawing from his friends, family and country further into his own deeply troubled mind.This episode is brought to you by Famous Fates: Falls From Grace, a Parcast Original. For more episodes like this one, subscribe to Famous Fates, free and only on Spotify! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6z2PAp9NTSvkOgNHZLbr4k</guid>
+      <pubDate>Tue, 21 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2502</itunes:duration>
+    </item>
+    <item>
+      <title>Falls From Grace: John DeLorean</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/61erqzyYGEtbnsJ5kmtyCz?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Auto engineer and inventor John DeLorean built an enormously successful career at GM in the ‘60s and ‘70s, creating the blueprint for the iconic American muscle car. But he’s mostly known for his eponymous car and motor company, which failed when he became entangled in a cocaine trafficking scheme.This episode is brought to you by Famous Fates: Falls From Grace, a Parcast Original. For more episodes like this one, subscribe to Famous Fates, free and only on Spotify! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">61erqzyYGEtbnsJ5kmtyCz</guid>
+      <pubDate>Tue, 14 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2106</itunes:duration>
+    </item>
+    <item>
+      <title>Falls From Grace: Jim Bakker</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2cnie0dc1rJM5nQQ6GJMly?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>He built a Christian theme park and launched a satellite into space so he could preach the word of God to everyone, everywhere, all the time. But when Bakker’s cooked books and sexual proclivities worked their way onto the television screens in 1987, not even his larger-than-life fame could save him from disgrace… This episode is brought to you by Famous Fates: Falls From Grace, a Parcast Original. For more episodes like this one, subscribe to Famous Fates, free and only on Spotify! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2cnie0dc1rJM5nQQ6GJMly</guid>
+      <pubDate>Tue, 07 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2653</itunes:duration>
+    </item>
+    <item>
+      <title>Falls From Grace: Marie Antoinette</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4kDyny9Oi7qvn2JLCYu6CM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In 1770, Marie Antoinette arrived in France from Austria and married the future King of France. Though, in Versailles, she enjoyed every possible luxury, in the streets of Paris, the people whispered increasingly vicious things about her which eventually led to her grim demise.This episode is brought to you by Famous Fates: Falls From Grace, a Parcast Original. For more episodes like this one, subscribe to Famous Fates, free and only on Spotify! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4kDyny9Oi7qvn2JLCYu6CM</guid>
+      <pubDate>Tue, 30 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2652</itunes:duration>
+    </item>
+    <item>
+      <title>Falls From Grace: Lance Armstrong</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6ujAmAxZ3tG94bk7GGxWkG?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>He famously won the Tour de France seven consecutive times from 1999 to 2005. During that period, Lance Armstrong was adamant that he never took performance-enhancing drugs. But in reality, the so-called "cleanest athlete in sports" was running the most sophisticated doping ring in history. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6ujAmAxZ3tG94bk7GGxWkG</guid>
+      <pubDate>Tue, 23 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2859</itunes:duration>
+    </item>
+    <item>
+      <title>Falls From Grace: Dalton Trumbo</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1826zHGqA2xPKCaX8MNKgY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the 1940s, screenwriter and author Dalton Trumbo was at the top of his game. Despite his talent and success, Trumbo's decision to join the Communist Party at the height of the "Red Scare" led to him being disgraced, blacklisted and jailed.This episode is brought to you by Famous Fates: Falls From Grace, a Parcast Original. For more episodes like this one, subscribe to Famous Fates free and only on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1826zHGqA2xPKCaX8MNKgY</guid>
+      <pubDate>Tue, 16 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2653</itunes:duration>
+    </item>
+    <item>
+      <title>Falls From Grace: Roscoe “Fatty” Arbuckle</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/12VW3TlxuUio7RhJKHlH2a?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It is often referred to as “Hollywood’s first scandal.” At the center of it: Roscoe “Fatty” Arbuckle, a world-famous star whose association with sexual assault and murder would send shockwaves through tinseltown in the 1920s.This episode is brought to you by Famous Fates: Falls From Grace, a Parcast Original. For more episodes like this one, subscribe to Famous Fates free and only on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">12VW3TlxuUio7RhJKHlH2a</guid>
+      <pubDate>Tue, 09 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2490</itunes:duration>
+    </item>
+    <item>
+      <title>Falls From Grace: Aaron Burr</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6Acph73sG0ujKAHJaTws1V?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ultimately becoming the third Vice President of the United States, Aaron Burr spent his life’s work clawing his way up through the world of Congressional politics in the late 1700s. This would culminate in a deadly duel with Alexander Hamilton that would leave Burr's reputation irreparably tarnished.This episode is brought to you by Famous Fates: Falls From Grace, a Parcast Original. For more episodes like this one, subscribe to Famous Fates free and only on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6Acph73sG0ujKAHJaTws1V</guid>
+      <pubDate>Tue, 02 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2271</itunes:duration>
+    </item>
+    <item>
+      <title>Falls From Grace: Jerry Lee Lewis</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0hGPRt9QNzICYiqWTg18DL?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Jerry Lee Lewis was a rock and roll superstar whose early 1950s fame rivaled Elvis's—until his scandalous marriage to a 13-year-old cousin derailed his career at the height of his popularity.This episode is brought to you by Famous Fates: Falls From Grace, a Parcast Original. For more episodes like this one, subscribe to Famous Fates free and only on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0hGPRt9QNzICYiqWTg18DL</guid>
+      <pubDate>Tue, 26 May 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2470</itunes:duration>
+    </item>
+    <item>
+      <title>Falls From Grace: Charles Ponzi</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1lBXrRaLcIq84bs3Olv8dD?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Nearly a century before Bernie Madoff stole billions, Charles Ponzi was the dapper Italian con artist who laid the foundations for his scam: the Ponzi scheme. By 1920, Ponzi’s fall would be painful. But it was a fitting end for a man who scratched and crawled his way to the top.This episode is brought to you by Famous Fates: Falls From Grace, a Parcast Original. For more episodes like this one, subscribe to Famous Fates free and only on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1lBXrRaLcIq84bs3Olv8dD</guid>
+      <pubDate>Tue, 19 May 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2713</itunes:duration>
+    </item>
+    <item>
+      <title>Falls From Grace: Howard Hughes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0EFtO4lTHnwH5vQye3WEdf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>He had it all—respect, wealth, beautiful Hollywood girlfriends. A golden finger that seemed to make everything he touched into a success. The same obsessive perfectionism that had pushed Howard Hughes to the top in the ‘20s and ‘30s would take over his life, and leave him a shell of the all-American golden boy he once was.This episode is brought to you by Famous Fates: Falls From Grace, a Parcast Original. For more episodes like this one, subscribe to Famous Fates free and only on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0EFtO4lTHnwH5vQye3WEdf</guid>
+      <pubDate>Tue, 12 May 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2828</itunes:duration>
+    </item>
+    <item>
+      <title>Theodosia Burr Alston</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1pncj3bS2X3GZHTsnEpXjf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>If you enjoy the true stories told in Historical Figures, check out this episode from our series Gone: In December of 1812, the daughter of disgraced former Vice President Aaron Burr, boarded a ship in South Carolina to travel north to see her father. Theodosia Burr Alston was never seen again. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1pncj3bS2X3GZHTsnEpXjf</guid>
+      <pubDate>Sun, 12 Apr 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>3021</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: Leon Trotsky</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0rkdQlhzPamZjv4WwKLlab?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the first half of the 20th-century, Leon Trotsky was a revolutionary writer, a communist leader, and a man assassinated on the orders of Joseph Stalin. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0rkdQlhzPamZjv4WwKLlab</guid>
+      <pubDate>Wed, 12 Feb 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>3018</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: Socrates</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1lMpk9vpkDIsGPdDINfvT5?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>He was a Greek philosopher who lived in the 400s, B.C.E. Socrates believed in provoking people into bettering themselves and society, but it was this very attitude that led to his execution. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1lMpk9vpkDIsGPdDINfvT5</guid>
+      <pubDate>Mon, 10 Feb 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2117</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: Andy Warhol</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4fHvoC3Z9iz3lVqRMcYOSP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>He inspired the phrase “15 minutes of fame,” and proved to the world that anything could be the subject of great art—anything at all. In his later years, Andy Warhol survived an assassination attempt, only to die due to medical negligence. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4fHvoC3Z9iz3lVqRMcYOSP</guid>
+      <pubDate>Wed, 05 Feb 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2316</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: Ernest Hemingway</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4zprcX6OUci8ExCHnBBywE?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>For his book, “The Old Man and the Sea,” Ernest Hemingway was awarded the 1954 Nobel Prize in Literature. But despite his success, he was haunted by a deep sadness—and no amount of travel, women, or alcohol could ever help him escape. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4zprcX6OUci8ExCHnBBywE</guid>
+      <pubDate>Mon, 03 Feb 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2295</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: Kurt Cobain</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5x3cqrvPMzpjKx0DvexADz?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>He was a leading figure in grunge music, and he can still be heard on the radio today. When he died at age 27, Cobain left the world brimming with questions… and conspiracy theories. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5x3cqrvPMzpjKx0DvexADz</guid>
+      <pubDate>Wed, 29 Jan 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2019</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: Jimi Hendrix</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3RVfQ2WDxVATwuzsdd1lgd?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>He redefined the way a guitar could sound, permanently changing the popular music soundscape. Jimi Hendrix was a singer, songwriter, innovator, rock god, and tragically, a member of the 27 Club. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3RVfQ2WDxVATwuzsdd1lgd</guid>
+      <pubDate>Mon, 27 Jan 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1634</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: Wild Bill Hickok</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/53B68KvIiAgR3pOGBIs1tz?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>He was a law enforcer, gambler, and performer. When you picture an Old West Cowboy, Wild Bill Hickok is likely what comes to mind. And true to that image, he died after being shot in a saloon in 1876. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">53B68KvIiAgR3pOGBIs1tz</guid>
+      <pubDate>Wed, 22 Jan 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2367</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: Al Capone</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5r7Ak0QDLdkioCyAQ8RHYQ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>He was America’s first-ever Public Enemy Number One, and the man behind the “Scarface.” Al Capone changed the face of crime in the 1920s before his ultimate arrest for tax evasion. And by the time Capone got out of prison, he had already entered his final years of decay. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5r7Ak0QDLdkioCyAQ8RHYQ</guid>
+      <pubDate>Mon, 20 Jan 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2108</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: Franz Ferdinand</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6lWJNICpW393lch4vV1ZNY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>His death was the spark that lit the wildfire of World War I. While Franz Ferdinand is most remembered for his final moments, he led a fascinating life of royal intrigue. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6lWJNICpW393lch4vV1ZNY</guid>
+      <pubDate>Wed, 15 Jan 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1715</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: Julius Caesar</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4QK3F5Jwv7PNdzuXU24RpN?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A military general, Julius Caesar rose to power as part of the Roman Triumvirate, but then took power as a dictator in the first century BC. But this great power led to his infamous death. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4QK3F5Jwv7PNdzuXU24RpN</guid>
+      <pubDate>Mon, 13 Jan 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2861</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: Abraham Lincoln</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5Qp783MrbD5YEvojrLZV5R?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>As the 16th President of the United States, he was revered for tirelessly leading the U.S. through the Civil War. Abraham Lincoln was also the first American President to be assassinated. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5Qp783MrbD5YEvojrLZV5R</guid>
+      <pubDate>Wed, 08 Jan 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2321</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: Robert F. Kennedy</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2Djj1ctkG5HFVNrLs0Hyf1?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Just like his older brother, John, Robert Kennedy’s promising political career was cut short by assassination. But in that brief time, he left an indelible mark on American politics. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2Djj1ctkG5HFVNrLs0Hyf1</guid>
+      <pubDate>Mon, 06 Jan 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2153</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: Princess Diana</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4eU9QcfbdwLcYmVSBNWggz?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Nicknamed “The People’s Princess,” Princess Diana used her public profile to serve charities and work as an activist through the 1990s. But her bitter divorce from Prince Charles led many to believe her death was no accident. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4eU9QcfbdwLcYmVSBNWggz</guid>
+      <pubDate>Wed, 01 Jan 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2117</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: Cleopatra</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7vCkhHZFlkKfaWDkQJylZu?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Her death is memorialized in Shakespeare’s Antony and Cleopatra, but the Empress of the Nile’s life held an equal caliber of drama. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7vCkhHZFlkKfaWDkQJylZu</guid>
+      <pubDate>Mon, 30 Dec 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2382</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: Billy the Kid</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0ltYuLYRBLEMlzhIEytRCW?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Records say he was shot to death at age 21. But legends say otherwise. Ride deeper into the tales—tall tales—and iconic fate of Henry McCarty, better known as “Billy the Kid.” Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0ltYuLYRBLEMlzhIEytRCW</guid>
+      <pubDate>Wed, 25 Dec 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1938</itunes:duration>
+    </item>
+    <item>
+      <title>Best of 2019: Nefertiti</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1wpKO0J0CwWOVg8feD0yR1?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Here’s one of our listeners’ most requested episodes of 2019: This famous Queen ruled Egypt during the mid-14th century, BC, over a period of immense religious upheaval. With her husband, she conspired to convert all of Egypt from the traditional polytheistic religion to the worship of a single God. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1wpKO0J0CwWOVg8feD0yR1</guid>
+      <pubDate>Tue, 24 Dec 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2283</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: Anastasia</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/44emEpdrrcDX0O1ppOEBZ0?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The circumstances of Anastasia Romanov’s death cemented her iconic status in pop culture. But in life, she was the playful youngest sister, a girl who never asked for her tragic destiny. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">44emEpdrrcDX0O1ppOEBZ0</guid>
+      <pubDate>Mon, 23 Dec 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1880</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: James Dean</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6VMQI9l8aCQ363wq0lPMUm?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the 1950s, James Dean starred in hits East of Eden, Giant, and Rebel Without a Cause. Surrounded by fast cars, cigarettes, and adoring girls, Dean became synonymous with teen rebellion. But did this devil-may-care image lead to his death at age 24, or was it just a tragic accident? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6VMQI9l8aCQ363wq0lPMUm</guid>
+      <pubDate>Wed, 18 Dec 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>1284</itunes:duration>
+    </item>
+    <item>
+      <title>Famous Fates: Marilyn Monroe</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7Dn4ut9qxxARndphLdj28A?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Today, she’s a pop culture icon. In her time, she was a star of the silver screen. But Marilyn Monroe’s pain behind the scenes led to one of history’s most controversial deaths. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7Dn4ut9qxxARndphLdj28A</guid>
+      <pubDate>Mon, 16 Dec 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2539</itunes:duration>
+    </item>
+    <item>
+      <title>Father Miguel Hidalgo</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4hTSBxFaPURUJFZeDttZnS?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>For centuries, Mexico lived under the rule of Spain. In that time, a discriminatory caste system was created to keep non-Europeans in their place. However, one priest, inspired by the thinkers of the Enlightenment, would cast the first stone and help bring about Mexico’s independence. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4hTSBxFaPURUJFZeDttZnS</guid>
+      <pubDate>Tue, 10 Dec 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2528</itunes:duration>
+    </item>
+    <item>
+      <title>Pope Gregory XIII</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4wixUlclDGgyYz3Hj0ovTk?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Best remembered for his invention of the calendar we still use today, Pope Gregory XIII became a voice for reform in the Catholic Church by pulling the Vatican out of the dark ages and into the modern era. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4wixUlclDGgyYz3Hj0ovTk</guid>
+      <pubDate>Tue, 26 Nov 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2625</itunes:duration>
+    </item>
+    <item>
+      <title>Mansa Musa</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1aRs3tWwR4hpnRyEDyUxFa?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This 14th Century sultan of Mali became renowned for being the richest man who ever lived. During his 25-year reign, he helped Mali become one of the wealthiest and largest nations in the world. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1aRs3tWwR4hpnRyEDyUxFa</guid>
+      <pubDate>Tue, 12 Nov 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2524</itunes:duration>
+    </item>
+    <item>
+      <title>Professor Margaret Murray</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0Wd0Z2gS3PGlcHEgkqzV30?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A first-wave feminist of the 1800s and 1900s, Professor Margaret Murray was known as both "The Old Woman of Egyptology" and "The Grandmother of Wicca." She was one of the first to take up the subject of the witch-cults of England. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0Wd0Z2gS3PGlcHEgkqzV30</guid>
+      <pubDate>Tue, 29 Oct 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2474</itunes:duration>
+    </item>
+    <item>
+      <title>Toussaint L'Ouverture</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3vRT2OI5PPXwRSh8EUJCQi?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the 1790s, Toussaint L’Ouverture emerges as a leading member of the most successful slave revolt in the Americas. This led to the formation of the country we know today as Haiti.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3vRT2OI5PPXwRSh8EUJCQi</guid>
+      <pubDate>Tue, 15 Oct 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>3107</itunes:duration>
+    </item>
+    <item>
+      <title>Ellen Johnson Sirleaf</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5PRZpSw3D0vR7mph57ZeJP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ellen Johnson Sirleaf married as a teenager and was a mother of four before she had a college degree. But her remarkable life was characterized by beating the odds. Despite an abusive husband, political persecution, and frequent fear for her life, she was elected President of Liberia in 2005 -- becoming the first democratically elected female head of state in all of Africa. Sponsors!Bombas - Save 20% on your first purchase when you shop at Bombas.com/HISTORICAL. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5PRZpSw3D0vR7mph57ZeJP</guid>
+      <pubDate>Tue, 01 Oct 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2794</itunes:duration>
+    </item>
+    <item>
+      <title>Rosa Parks</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5CrIIfo2WMB3NEepquNUMB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In December 1955, Rosa Parks made history by refusing to give up her seat to a white passenger. Her resolve In the face of unfair treatment based on the color of her skin stands as a key point of the Civil Rights Movement. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5CrIIfo2WMB3NEepquNUMB</guid>
+      <pubDate>Tue, 17 Sep 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2153</itunes:duration>
+    </item>
+    <item>
+      <title>Louis Pasteur</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7isEbtQ1vr3VRsc1hsRI5q?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Anyone who has ever enjoyed a wine and cheese night owes their good time to Louis Pasteur. This 19th century microbiologist and chemist developed the process now called pasteurization, as well as the first vaccine for rabies. Not only was Pasteur the father of germ theory, he was also a master of disguise, often using deception to outsmart his rivals and come out on top. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7isEbtQ1vr3VRsc1hsRI5q</guid>
+      <pubDate>Tue, 03 Sep 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2397</itunes:duration>
+    </item>
+    <item>
+      <title>Margaret Thatcher</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6gb0SI8XsnB1jJvmzfjhzt?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Margaret Thatcher was Britain's first woman Prime Minister. For more than a decade, she spearheaded conservative politics from a seat of power in the British Parliament. To some she was a hero, and to others, she was a monster. Parcasters - This week on Crimes of Passion we take on the infamous case of Lorena and John Bobbitt! You won’t want to miss this one! Listen today on Spotify or wherever you get your podcasts. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6gb0SI8XsnB1jJvmzfjhzt</guid>
+      <pubDate>Tue, 20 Aug 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2834</itunes:duration>
+    </item>
+    <item>
+      <title>Diana, Princess of Wales</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0YknDqz0Lrh2vCwTiWoW1p?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In July 1981, Princess Diana became the first non-royal to marry into the British Royal family in centuries. As the Princess of Wales, she became a style icon and a humanitarian force, all while contending with the very public infidelity of her husband, Charles, heir apparent to the British Throne.Parcasters - Is there any truth behind the rumored society that protects the secrets of the Holy Grail? Learn more about the Priory of Sion on this week’s episode of Conspiracy Theories! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0YknDqz0Lrh2vCwTiWoW1p</guid>
+      <pubDate>Tue, 06 Aug 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2548</itunes:duration>
+    </item>
+    <item>
+      <title>Muhammad Ali</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/02F8lsGUH6LoFxC48azr2B?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Today, Muhammad Ali is one of the most celebrated athletes and activists in history, but he was not always so appreciated. In 1969, Ali was stripped of his fighting license and his title after being convicted of draft evasion. A year later, he would return to the ring, and continue to speak truth to power.Parcasters - Don’t miss all of our special Summer of ‘69 episodes by subscribing to Parcast Presents: Summer of ‘69, on Spotify, or anywhere you listen to podcasts!Sponsors!Gabi - Take two minutes and go to Gabi.com/HISTORICAL to see if you can save up to $865 a year on car insurance! Grove Collaborative - Go to Grove.co/HISTORICAL and get a FREE 5-piece Spring Cleaning Set from Mrs. Meyer’s and Grove— a $30 value! Simon &amp; Schuster - One Giant Leap is full of surprises as it chronicles mankind’s greatest achievement and its enduring legacy. Available wherever books are sold. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">02F8lsGUH6LoFxC48azr2B</guid>
+      <pubDate>Tue, 23 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>3224</itunes:duration>
+    </item>
+    <item>
+      <title>James "Jesse" Owens</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0t6zRS0P7kVd35lPgt8Iq5?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Jesse Owens broke four world records in a single day. Even after facing down the bigotry of Hitler's Germany in the 1936 Olympics, he returned to an America that was not willing to accept him. Sponsors!Simon &amp; Schuster - The Vagabonds is available now wherever books are sold. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0t6zRS0P7kVd35lPgt8Iq5</guid>
+      <pubDate>Tue, 09 Jul 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2737</itunes:duration>
+    </item>
+    <item>
+      <title>Johann Sebastian Bach</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1FBBTq7kc8eTJyk4c4bFi7?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Johann Bach never knew it during his lifetime, but he revolutionized classical music. Centuries after his death in 1750, Bach is known as one of the main fathers of classical composition.Sponsors!Gabi - Take TWO MINUTES and Go to Gabi.com/HISTORICAL to see if you can save up to $865 a year on car insurance today!Grove Collaborative - Go to Grove.co/HISTORICAL to get a FREE FIVE-PIECE Spring Cleaning Set from Mrs. Meyer’s and Grove. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1FBBTq7kc8eTJyk4c4bFi7</guid>
+      <pubDate>Tue, 25 Jun 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2366</itunes:duration>
+    </item>
+    <item>
+      <title>Wangarĩ Muta Maathai </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1BjNxTRy6BH4EkaxsqSL2m?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Born in 1940 in British-occupied Kenya, Wangarĩ Muta Maathai learned at a young age how the environment and poverty were inextricably linked. As one of Africa's first women to obtain a PhD, she dedicated over forty years of her adult life fighting to teach the people of Kenya about sustainable farming and standing up against the corrupt institutions of her home country's governmentSponsors!The Farmer’s Dog  -  Get 50% off your two week trial of fresh, healthy food at The Farmers Dog dot com slash HISTORICAL. Plus, you get FREE shipping!  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1BjNxTRy6BH4EkaxsqSL2m</guid>
+      <pubDate>Tue, 11 Jun 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2575</itunes:duration>
+    </item>
+    <item>
+      <title>Max Planck</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/76tFFBgFlUajXbJe3Bp5Z2?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>As one of the earliest pioneers in the field of quantum physics in the late 19th century, Max Planck would work with his protege, Albert Einstein, to redefine an entire field of science... just as Germany was falling under the iron fist of the Nazi Regime. Sponsors!The Farmer’s Dog - Get 50% off your two week trial of fresh, healthy food at The Farmers Dog.com/HISTORICAL. Plus, you get FREE shipping!Grove Collaborative - Go to Grove.co/HISTORICAL you will get a FREE FIVE PIECE Spring Cleaning Set from Mrs. Meyer’s and Grove - a THIRTY DOLLAR value! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">76tFFBgFlUajXbJe3Bp5Z2</guid>
+      <pubDate>Tue, 28 May 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2976</itunes:duration>
+    </item>
+    <item>
+      <title>Alfred Bernhard Nobel </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6F1jhiZW35FVHX3bz9oSDx?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The prize most coveted by the best and brightest minds in society owes its name to one man: Alfred Nobel. This Swedish inventor born in 1833, has a complicated history after battling through childhood poverty in which only three of his seven siblings reached adulthood. Parcasters - We're tackling one of the most famous couples in history this week on Crimes of Passion? Can you guess who made up this outlaw pairing? Find out now at parcast.com/passion Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6F1jhiZW35FVHX3bz9oSDx</guid>
+      <pubDate>Tue, 14 May 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2328</itunes:duration>
+    </item>
+    <item>
+      <title>Walter Elias Disney</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0VGBE0T4VZB2KlkFTG6CQ8?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>He’s a studio. He’s a theme park. He’s a Man. Born in Chicago in 1901, Walter Elias Disney would become one of the defining figures of entertainment. But the flesh-and-blood man was far from perfect, and his life was defined by an insatiable desire to push the boundaries of what was possible.Parcasters - Don't miss the exciting conclusion to our exploration of the Robert Blake murder trial, coming up tomorrow on Not Guilty! Catch up on the first episode now at parcast.com/notguilty Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0VGBE0T4VZB2KlkFTG6CQ8</guid>
+      <pubDate>Tue, 30 Apr 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2310</itunes:duration>
+    </item>
+    <item>
+      <title>Ludwig van Beethoven</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4vO4PWX9GJ5SrifkqKFAJ9?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Famously temperamental, this musical genius is celebrated today as one of the most influential cultural figures in history. His story has stood the test of time; a difficult childhood, marked by an abusive, alcoholic father, would serve as his inspiration to seek a better life.Sponsors!Simon &amp; Schuster - “Ten Caesars: Roman Emperors from Augustus to Constantine” by classicist and historian Barry Strauss is available now wherever books are sold or visit BarryStrauss.com.Robinhood - Robinhood is giving listeners of Historical Figures a FREE stock like Apple, Ford, or Sprint to help you build your portfolio. Sign up at Historical.Robinhood.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4vO4PWX9GJ5SrifkqKFAJ9</guid>
+      <pubDate>Tue, 16 Apr 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2702</itunes:duration>
+    </item>
+    <item>
+      <title>Isaac Newton</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/04dYjOJ5C1iw1POxVUe3qS?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>London. The 17th century. Against a backdrop of raging fires and devastating plagues, one man came to prominence as the premiere scientific mind of the age. Soft spoken, brilliant, troubled, prone to fits of rage and nervous breakdowns: This was Isaac Newton. SPONSORS!Simon &amp; Schuster - “Ten Caesars: Roman Emperors from Augustus to Constantine” by classicist and historian Barry Strauss is available now wherever books are sold or visit BarryStrauss.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">04dYjOJ5C1iw1POxVUe3qS</guid>
+      <pubDate>Tue, 02 Apr 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2275</itunes:duration>
+    </item>
+    <item>
+      <title>Harriet Tubman</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4cIC73sPXnC15CHRnwAMsN?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Born into slavery during the early 1800s in Maryland, she survived a tragic, violent childhood before ultimately escaping and gaining her own freedom. Unsatisfied, Harriet Tubman embarked on a mission of liberation, freeing slaves and shepherding them to the North via the Underground Railroad. Sponsors!Robinhood - Robinhood is giving listeners of Historical Figures a FREE stock like Apple, Ford, or Sprint to help you build your portfolio. Sign up at Historical.Robinhood.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4cIC73sPXnC15CHRnwAMsN</guid>
+      <pubDate>Tue, 19 Mar 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2547</itunes:duration>
+    </item>
+    <item>
+      <title>Christopher Columbus</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3a8vNLI2DicweXDMZ3vQPi?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the late 15th Century, explorer Christopher set out with on a mission that had never been attempted before: cross the Atlantic Ocean and find an alternate route to Asia. Instead, he landed in the Caribbean, and set himself up to be credited as the "man who discovered America". In reality, Columbus was a zealot and an egomaniac who oversaw the death and enslavement of thousands of native Americans. Parcasters - You won’t want to miss this special episode on American icon John McCain on HOSTAGE, wherever you get your shows. Listen now at parcast.com/hostage Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3a8vNLI2DicweXDMZ3vQPi</guid>
+      <pubDate>Tue, 05 Mar 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2331</itunes:duration>
+    </item>
+    <item>
+      <title>Nefertiti</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5WIEKdBtAEEuYewPiUS5ZH?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This famous Queen ruled Egypt during the mid 14th century, BC, over a period of immense religious upheaval. With her husband, she conspired to convert all of Egypt from the traditional polytheistic religion to the worship of a single God. In the end, that devotion would cost Nefertiti her legacy, her life, and her tomb.Parcasters - Learn about more powerful couples by listening to our new podcast CRIMES OF PASSION today! Check it out at parcast.com/passion Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5WIEKdBtAEEuYewPiUS5ZH</guid>
+      <pubDate>Tue, 19 Feb 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2283</itunes:duration>
+    </item>
+    <item>
+      <title>Johannes Kepler</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3frNOzkZpmhUEem8Ph1pOe?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>There was a time when science and religion worked in harmony, as two parts of a celestial design. Astrologer and philosopher Johannes Kepler oversaw this marriage of theory and belief when he proposed the revolutionary laws of planetary motion in the early 17th century. Amidst personal loss and the chaos of post-schism Europe, Kepler held true to his personal mission to find God among the stars.Parcasters - When you’re done listening Johannes Kepler’s rules of planetary motion, find out what else is out there in the universe. Check out Parcast’s newest podcast Extraterrestrial at parcast.com/extraterrestrial. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3frNOzkZpmhUEem8Ph1pOe</guid>
+      <pubDate>Tue, 05 Feb 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2214</itunes:duration>
+    </item>
+    <item>
+      <title>Simón Bolívar</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/56kIG8rRkGgeor75l9Nl6c?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>As the world changed in the early 19th century, one man saw a future for a free Latin America. His name was Simón Bolívar, and he would lead a number of successful fights for independence against Spain. Though he was eventually given the name, El Liberador, he also came to known as a dictator in his own right.Sponsors!Zola - To start your free wedding website and also get $50 off your registry on Zola, go to Zola.com/HISTORICAL. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">56kIG8rRkGgeor75l9Nl6c</guid>
+      <pubDate>Tue, 22 Jan 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2297</itunes:duration>
+    </item>
+    <item>
+      <title>Oskar Schindler</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1RG9dCLLVElp87s0N3lKNc?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>As World War 2 raged on, Europe was rocked by the horrors of the holocaust, failed businessman turned Nazi spy, Oskar Schindler embarked on a personal mission to save the suffering Jewish prisoners of Poland's Płaszów Concentration Camp.Parcast News - Be sure to check out Parcast’s first fictional crime show MIND’S EYE at Parcast.com/MindsEye! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1RG9dCLLVElp87s0N3lKNc</guid>
+      <pubDate>Tue, 08 Jan 2019 16:00:00 +0000</pubDate>
+      <itunes:duration>2352</itunes:duration>
+    </item>
+    <item>
+      <title>Robin Williams</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7kwphNnVVZ6THb7guv0Eaf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Since he was a child, it was apparent that Robin had a special ability to make others laugh. He often described his home life in Chicago as lonely, and used his sense of humor to garner attention from his parents. But deep down Robin battled a darkness that would never go away.Sponsors!Audible - For a limited time, you can get 3 months of Audible for just $6.95 a month when you go to Audible.com/HISTORICAL or text HISTORICAL to 500 500.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7kwphNnVVZ6THb7guv0Eaf</guid>
+      <pubDate>Tue, 11 Dec 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2404</itunes:duration>
+    </item>
+    <item>
+      <title>King Arthur</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7L0KUy9ZC1LiU1jGkB2C5q?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Around 6th-century AD, legendary tales began circling of a great warrior king that defended Britain against invaders. The man in question? King Arthur. The stories don’t stop there. A thousand years later, King Arthur’s conquests involving the Holy Grail, Excalibur, and the Knights of the Round Table are still shining him in a heroic light. New Shows!Parcast Network - Don’t forget to rate, review, and subscribe to our new podcast Assassinations! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7L0KUy9ZC1LiU1jGkB2C5q</guid>
+      <pubDate>Tue, 27 Nov 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2372</itunes:duration>
+    </item>
+    <item>
+      <title>Sacagawea</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4aV74jeWucBhbM0As0MF66?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Responsible for leading the first expedition across North America in 1804, Sacagawea was only 17 when she made the trek, while pregnant, across the continent. The daughter of a Native American chief, Sacagawea was captured and enslaved by an opposing tribe and then sold as a bride to a canadian fur trapper.Sponsors!Parcast - Rate, review, and subscribe to our new podcast Kingpins! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4aV74jeWucBhbM0As0MF66</guid>
+      <pubDate>Tue, 13 Nov 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2348</itunes:duration>
+    </item>
+    <item>
+      <title>Frederick Douglass</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1uiA4Q8eL29meLS6KL4YYd?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A pioneer in the abolition movement and women's suffrage, Frederick Douglass escaped slavery and championed a movement through his speeches and writings during the Civil War.Sponsors!Parcast - Be sure to rate, review, and subscribe to our new podcast Kingpins! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1uiA4Q8eL29meLS6KL4YYd</guid>
+      <pubDate>Tue, 30 Oct 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2539</itunes:duration>
+    </item>
+    <item>
+      <title>Joseph Stalin</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5svI5jPKqK9VVeJvNDnptq?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This poor young revolutionary would one day sit aside Winston Churchill and Franklin D. Roosevelt in the aftermath of the greatest conflict in human history. What can we learn from Stalin's improbable rise to power?Subscribe to our new show - Hostage - today!Sponsors!Parcast - Sign up for the Parcast Monthly Newsletter at Parcast.com! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5svI5jPKqK9VVeJvNDnptq</guid>
+      <pubDate>Tue, 16 Oct 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2586</itunes:duration>
+    </item>
+    <item>
+      <title>Gregor Mendel</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4nCZWLx55fCAG7Ultm9DIQ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Known as the Father of Genetics for his groundbreaking work on pea plants and subsequent discovery of the fundamental laws of inheritance, Mendel also struggled with mental health issues such as severe depression and anxiety.  Sponsors!Harper Collins Children's Books - “The Gentleman’s Guide to Vice and Virtue” and “The Lady’s Guide to Petticoats and Piracy” are available wherever books or audiobooks are sold. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4nCZWLx55fCAG7Ultm9DIQ</guid>
+      <pubDate>Tue, 02 Oct 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>1979</itunes:duration>
+    </item>
+    <item>
+      <title>Yangdi</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/34K67Opgq4WT4h0NeMMX49?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Yangdi was the last emperor of the short-lived Sui dynasty. He was responsible for many great things like strengthening the northern border by rebuilding the Great Wall and building the Grand Canal. But he also had a violent streak which he used to seize power by killing both his older brother and his father. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">34K67Opgq4WT4h0NeMMX49</guid>
+      <pubDate>Tue, 18 Sep 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2932</itunes:duration>
+    </item>
+    <item>
+      <title>Andrew Carnegie</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6kk4MdxcBE9GN5p861wq07?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Andrew Carnegie, a Scottish American industrialist, who helped build the American steel industry. He became one of the richest men in the world, and also one of its leading philanthropists. But his very first job was as a “bobbin boy” in a cotton factory where he was responsible for bringing bobbins to loom weavers. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6kk4MdxcBE9GN5p861wq07</guid>
+      <pubDate>Tue, 04 Sep 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2653</itunes:duration>
+    </item>
+    <item>
+      <title>Lydia Pinkham</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7zml7PPElESSPn46I3xWkJ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Thanks so much for listening to Historical Figures. Parcast has another podcast called Great Women of Business where we profile amazing female business leaders. This episode is on Lydia Pinkham, an historic figure in her own right! We hope you enjoy this episode as much as we do!In a time when women were desperate for safe and effective treatments for women’s health issues, Lydia Pinkham’s Vegetable Compounds became one of the best-known medicines of the 19th century. She began by giving away the compound for free to create a strong referral network, which fueled the rapid growth of her business. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7zml7PPElESSPn46I3xWkJ</guid>
+      <pubDate>Tue, 28 Aug 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>3815</itunes:duration>
+    </item>
+    <item>
+      <title>Galileo</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4XNhuvVsbRfqdEJk64F8Yo?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Galileo Galilei is known as the father of modern science and the man whose work proved that the Earth orbits the sun. His scientific discoveries were in opposition of what the Catholic Church taught. But did you know that while he was a math professor at the University of Pisa, Galileo was fined because he refused to obey the school’s dress code and wear a toga? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4XNhuvVsbRfqdEJk64F8Yo</guid>
+      <pubDate>Tue, 21 Aug 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2846</itunes:duration>
+    </item>
+    <item>
+      <title>John Locke</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7k7uyErSqoEjtV6T1hVIPP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Having stated that marriage and death “are nearly the same thing,” John Locke instead dedicated his life to knowledge, thought, and peace in one of England’s most turbulent times. From humble beginnings to the halls of power, John Locke’s philosophical ideas constructed the modern definition of the self. His political ideas surrounding the separation of church and state laid the foundation for democracy, and are also credited with starting the Age of Revolutions in the 18th century. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7k7uyErSqoEjtV6T1hVIPP</guid>
+      <pubDate>Tue, 07 Aug 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>3189</itunes:duration>
+    </item>
+    <item>
+      <title>Genghis Khan</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2vLjOMZJHuV7BJ4zwj6TZP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Genghis Khan is known as one of the most vicious rulers in history, but did you know that he created one of the first international courier systems called The Yam? It was a set of well-spaced outposts across his empire. Goods and information could be transported faster by replacing tired horses with fresh horses and it also allowed him to keep a closer eye on his network of military spies and scouts.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2vLjOMZJHuV7BJ4zwj6TZP</guid>
+      <pubDate>Tue, 24 Jul 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2475</itunes:duration>
+    </item>
+    <item>
+      <title>Sir Francis Bacon</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/48Pvv44YScT1rfIhWbRQxQ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Sir Francis Bacon was many things. A philosopher. A lawyer. A scientist that is sometimes credited with formalizing the Scientific Method, a process that includes making a hypothesis, testing and retesting it until the results are found. But was he also...William Shakespeare?  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">48Pvv44YScT1rfIhWbRQxQ</guid>
+      <pubDate>Tue, 10 Jul 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>3037</itunes:duration>
+    </item>
+    <item>
+      <title>Anwar El-Sadat</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1FZ3N186Hjmts0nq1DzXNA?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Anwar El-Sadat was an Egyptian president who is credited with bringing peace between Egypt and Israel in the late 1970s. But, as a young soldier, he formed a group called The Free Officers, a revolutionary movement that would eventually overthrow King Farouk and liberate the Egyptian people from British rule.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1FZ3N186Hjmts0nq1DzXNA</guid>
+      <pubDate>Tue, 26 Jun 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>3834</itunes:duration>
+    </item>
+    <item>
+      <title>Mark Twain</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4sjcvaXtt1StTUpjeVutES?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Most people know Mark Twain as one of America’s most popular writers and humorists. Some even know that as a young man, he was a Riverboat pilot. But did you know that during the Civil War, he volunteered for the war effort to fight for the South?  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4sjcvaXtt1StTUpjeVutES</guid>
+      <pubDate>Tue, 12 Jun 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>3543</itunes:duration>
+    </item>
+    <item>
+      <title>Jackie Robinson</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2EXBMPC7khoxs58fRlnB7U?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Jackie Robinson was the first black man in America  to cross “the color line” and play baseball in the major leagues. But when he was in his early teens, Jackie joined a street gang and had numerous run-ins with the law.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2EXBMPC7khoxs58fRlnB7U</guid>
+      <pubDate>Tue, 29 May 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>3618</itunes:duration>
+    </item>
+    <item>
+      <title>Jesse James</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5bhMLQHHNkM9PExoc8GgLn?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Jesse James was one of the most iconic American outlaws of all time. He made a name for himself robbing trains, banks, and stealing horses. Is it possible that his abandonment by male role models during childhood gave rise to Jesse James's extreme bad boy persona?  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5bhMLQHHNkM9PExoc8GgLn</guid>
+      <pubDate>Tue, 15 May 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>3496</itunes:duration>
+    </item>
+    <item>
+      <title>Thomas Edison</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/03TBtm7FwxOVjUadC9PYSY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We all know Thomas Edison for his inventions of the phonograph, the motion picture camera, and the incandescent light bulb. But did you know that when he was a teenager, he published his own newspaper from a train baggage car?  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">03TBtm7FwxOVjUadC9PYSY</guid>
+      <pubDate>Tue, 01 May 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>3112</itunes:duration>
+    </item>
+    <item>
+      <title>Frida Kahlo</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1cmwYaQVRpl2Mw7Tw7Yns8?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Her self-portraits are well known: thick eyebrows, a striking stare, and a mysterious smile. But Frida Kahlo’s paintings weren’t just works of art; they portrayed life’s emotions and her own revolutionary ideals. The spirit of revolution defined her art, her life, and her ever-present legacy. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1cmwYaQVRpl2Mw7Tw7Yns8</guid>
+      <pubDate>Tue, 17 Apr 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2942</itunes:duration>
+    </item>
+    <item>
+      <title>Nelson Mandela</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3APS1hWMcIx6j69HutLlib?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Born on July 18, 1918 in Mvezo, South Africa, Nelson Mandela grew up to be an influential activist and political leader. Despite being jailed for decades because he joined the fight against apartheid, Mandela became the first black president of South Africa and one of the most celebrated political leaders of all time.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3APS1hWMcIx6j69HutLlib</guid>
+      <pubDate>Tue, 03 Apr 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2933</itunes:duration>
+    </item>
+    <item>
+      <title>Oscar Wilde</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/02HdgC2E86KqPoxYJ9G822?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Even as a child, Oscar Wilde dreamed of becoming famous. We dive deep into the life of the now notorious playwright, artist, and celebrated author. He is celebrated for his passionate writing, sharp wit, and taste for art.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">02HdgC2E86KqPoxYJ9G822</guid>
+      <pubDate>Tue, 27 Mar 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>3043</itunes:duration>
+    </item>
+    <item>
+      <title>Hernan Cortes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6p5E9enEP9O1Mg4BdjqOKM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Hernan Cortes was born in 1485 in Medellin, Spain. From an early age, he sought adventure and romance, which led him to trouble throughout his life. He grew to be one of the first Spanish conquistadors who brought European culture to the Americas. His legacy lives on as both a hero of the Spanish Empire... and as a violent conqueror who slaughtered thousands of indigenous peoples in his quest for money and power. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6p5E9enEP9O1Mg4BdjqOKM</guid>
+      <pubDate>Tue, 20 Mar 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2853</itunes:duration>
+    </item>
+    <item>
+      <title>Helen Keller</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4L1xJZ9tpIGu6jPzgUWTcu?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>She was a student, an author, an activist. She met thirteen presidents, and won the Presidential Medal of Freedom. But Helen Keller was much more than just a symbol for people who are deaf or blind. Her life was filled with both triumphs and tragedies, and with the aid of her mentor, Annie Sullivan, Helen Keller became a legacy that still serves as an inspiration to all.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4L1xJZ9tpIGu6jPzgUWTcu</guid>
+      <pubDate>Tue, 13 Mar 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2502</itunes:duration>
+    </item>
+    <item>
+      <title>John D. Rockefeller</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3j6tX8lXwVCBncEwbxQ3pe?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>John D. Rockefeller came from humble beginnings in Ohio. He had dreams to achieve the impossible: become the wealthiest man in the world. John accomplished this goal, but used controversial methods to do so. Was he a genius? Or was he a tyrant?  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3j6tX8lXwVCBncEwbxQ3pe</guid>
+      <pubDate>Tue, 06 Mar 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2922</itunes:duration>
+    </item>
+    <item>
+      <title>Elizabeth Cady Stanton</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2HmmcGpjcI7d87NFpnL7FL?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Elizabeth Cady Stanton was a women’s rights activist well known for her work in the women’s movement. But Elizabeth lived a complicated life, and left a controversial legacy.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2HmmcGpjcI7d87NFpnL7FL</guid>
+      <pubDate>Tue, 27 Feb 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>3483</itunes:duration>
+    </item>
+    <item>
+      <title>Adam Smith</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0yIA3Bg6irFPNx1CDmBEKc?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Father of free market economics, Adam Smith was one of many great philosophers of the 18th century Enlightenment period. His philosophies helped change the economy, putting an end to the long-standing feudal system. But outside of his well-known works, such as The Wealth of Nations, Smith remained private, even burning the paper trail of his life before he died.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0yIA3Bg6irFPNx1CDmBEKc</guid>
+      <pubDate>Tue, 20 Feb 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>3566</itunes:duration>
+    </item>
+    <item>
+      <title>Michelangelo</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5pa7oC7zW3IB1zcBjrEVPr?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Born in Italy on March 6, 1475, Michelangelo was destined to create outstanding and genius works of art. Although his family was of a lower class and discouraged him from pursuing a more noble career in the arts, Michelangelo followed his passion for art even as a young boy. And despite being well known for his paintings in the Sistine Chapel and his architecture, Michelangelo considered himself a sculptor above all else.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5pa7oC7zW3IB1zcBjrEVPr</guid>
+      <pubDate>Tue, 06 Feb 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2507</itunes:duration>
+    </item>
+    <item>
+      <title>Nicolaus Copernicus</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1vLUk8WEP7b4hUDpg9Ipza?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>When Nicolaus Copernicus was born in 1473, scholars believed that the earth stood still, and the sun circled around it. Copernicus devoted his life to understanding the structure of our solar system, and found mathematical proof that the earth, in fact, orbits around the sun. Although he didn’t live to see his influence on astronomy, his findings opened the door to space travel, the discovery of other planets and galaxies...and even the chance of finding life outside of earth.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1vLUk8WEP7b4hUDpg9Ipza</guid>
+      <pubDate>Tue, 30 Jan 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2592</itunes:duration>
+    </item>
+    <item>
+      <title>Jimmy Hoffa</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/36uCpQNkqgu2Y3PNqW9nGj?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Jimmy Hoffa, born in Indiana in 1913, helped create the International Brotherhood of Teamsters and aimed to pave the way to the American Dream for laborers. But he also led a mysterious life, mingling with mobs and making enemies with dangerous men. This risky networking may have led to Hoffa’s disappearance. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">36uCpQNkqgu2Y3PNqW9nGj</guid>
+      <pubDate>Tue, 23 Jan 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2240</itunes:duration>
+    </item>
+    <item>
+      <title>George Gallup</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/612SM6peFgF13bevq3x1DI?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>George Gallup is responsible for polling as we know it today. He was a pioneer of survey sampling and inventor of the Gallup poll. But since he was young, he was an entrepreneur. We look deeper into his passions for journalism and psychology, and how Gallup’s polling impacted—and continues to impact—society today.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">612SM6peFgF13bevq3x1DI</guid>
+      <pubDate>Tue, 16 Jan 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2190</itunes:duration>
+    </item>
+    <item>
+      <title>The Wright Brothers</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/07JHDAYZZ1SU0HGfUyVfyK?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Orville and Wilbur Wright are famous for their developments in aeronautics. What began in Dayton, Ohio as entertainment later became a scientific passion for the brothers. The Wright Brothers risked their lives, again and again, to make their dream of human flight a reality. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">07JHDAYZZ1SU0HGfUyVfyK</guid>
+      <pubDate>Tue, 09 Jan 2018 16:00:00 +0000</pubDate>
+      <itunes:duration>2269</itunes:duration>
+    </item>
+    <item>
+      <title>Sigmund Freud</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6pkoTYZXLuwupur4AZt6HU?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The critically acclaimed psychologist Sigmund Freud spent years publishing famous papers, stirring up controversy in his field of study, and creating the ideas of psychoanalysis and the infamous Oedipus Complex. Vanessa and Carter explore Freud’s colorful life, his finding of an international psychology movement, and his near persecution during the Holocaust.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6pkoTYZXLuwupur4AZt6HU</guid>
+      <pubDate>Tue, 19 Dec 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>3002</itunes:duration>
+    </item>
+    <item>
+      <title>Pancho Villa</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1PByPFVBlWjXHivk9ETgFs?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A man of contradictions, Pancho Villa was a prominent military leader in the Mexican Revolution who lived his life as a criminal, a hero...and a Hollywood star. Join Carter and Vanessa as they explore the successes and failures that defined Villa’s life and legacy, which is still prominent today. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1PByPFVBlWjXHivk9ETgFs</guid>
+      <pubDate>Tue, 12 Dec 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>2322</itunes:duration>
+    </item>
+    <item>
+      <title>Confucius</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1W09XAwKUNpgaBHN92nnjk?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Confucius was an ancient Chinese philosopher, teacher and politician whose wisdom and teachings are still followed to this day. Despite chaos and war during his life more than 2500 years ago, Confucius promoted harmonious ideals that resonated with people for centuries to come. China’s leaders did not always welcome his teachings, but today, he is often regarded as a hero.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1W09XAwKUNpgaBHN92nnjk</guid>
+      <pubDate>Tue, 05 Dec 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>2587</itunes:duration>
+    </item>
+    <item>
+      <title>Marie Curie</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5e11USFqL5qbGCZj4YDjoi?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Marie Curie was the first woman to win a Nobel Prize--and she didn’t only win one, she won two. Carter and Vanessa discuss Marie’s inspirations in naming the elements she discovered: polonium and radium, and how she fought sexism throughout her life, paving the way for women in science today. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5e11USFqL5qbGCZj4YDjoi</guid>
+      <pubDate>Tue, 28 Nov 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>2988</itunes:duration>
+    </item>
+    <item>
+      <title>John Adams</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0bdDgo3O1DBvAZ4r2hgr2Z?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The first Vice-President of the United States and second President, John Adams struggled to measure up to the mythic George Washington. Not that he wasn’t qualified- as a successful lawyer who helped pen the Declaration of Independence and served as an early ambassador for the fledgling nation, John Adams was instrumental to the birth of America. Carter and Vanessa explore Adams’ presidency, love affair with his wife Abigail, and his “frenemy” relationship with fellow founding father and presidential successor, Thomas Jefferson.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0bdDgo3O1DBvAZ4r2hgr2Z</guid>
+      <pubDate>Tue, 21 Nov 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>3166</itunes:duration>
+    </item>
+    <item>
+      <title>Nikola Tesla</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6FGlJD1gmOXdrdhGUkecv2?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Nikola Tesla was a power-player in the current war, where General Electric and Westinghouse fought over how America would get electricity.  Tesla contributed to the development of the alternating-current electrical system that’s widely used today and discovered the rotating magnetic field. Carter and Vanessa talk about Tesla’s mysterious visions of inventions, the strange illness he suffered, and how the kind soul gave up millions of dollars and died penniless.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6FGlJD1gmOXdrdhGUkecv2</guid>
+      <pubDate>Tue, 14 Nov 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>2512</itunes:duration>
+    </item>
+    <item>
+      <title>Queen Victoria</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Hv2s6AswVoErsuBnQbpKq?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>She was crowned at only eighteen years old, but Queen Victoria made a name for herself as one of Great Britain’s most remembered monarchs, redefining the British crown for modern times. She reigned over her global empire for over 60 years. Carter and Vanessa explore Victoria’s isolated childhood, her great love affair, and the personality of the woman who defined an era. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1Hv2s6AswVoErsuBnQbpKq</guid>
+      <pubDate>Tue, 07 Nov 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>3576</itunes:duration>
+    </item>
+    <item>
+      <title>Charlemagne</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4rl2xWtes3YivZNrnOjpfK?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The “Father of Europe”, Charlemagne’s rule as King of the Franks changed the face of Europe, unifying regions that had been at war and spreading Christianity across the continent. As Holy Roman Emperor, crowned by the Pope himself, he founded the Carolingian dynasty. His reign sparked an intellectual and cultural revival, the effects of which are still evident across Europe today. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4rl2xWtes3YivZNrnOjpfK</guid>
+      <pubDate>Tue, 31 Oct 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>2071</itunes:duration>
+    </item>
+    <item>
+      <title>Karl Marx</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2DxnBw9tNvx95bCBsRYltg?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A radical writer and philosopher, Karl Marx found himself exiled from multiple countries thanks to his communist writings in the 1800s. However, in the following century, this same writing stirred revolution across the world, as communist governments rose to power. What influenced the famous father of communism, and why did he believe it was the best system? Carter and Vanessa explore the life of the author of The Communist Manifesto and Das Capital, and how his revolutionary ideas resonated worldwide. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2DxnBw9tNvx95bCBsRYltg</guid>
+      <pubDate>Tue, 24 Oct 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>2748</itunes:duration>
+    </item>
+    <item>
+      <title>Leonardo Da Vinci</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/41UdLF1sMvTJkEEtiZw3Uh?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>“The Mona Lisa”. “The Last Supper”. “The Vitruvian Man”. Leonardo Da Vinci’s work still inspires over five hundred years later. But what about the man behind the paintings? He was an illegitimate child, a graverobber, and briefly lived at the Vatican. Carter and Vanessa explore the complex life of the true renaissance man.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">41UdLF1sMvTJkEEtiZw3Uh</guid>
+      <pubDate>Tue, 17 Oct 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>2310</itunes:duration>
+    </item>
+    <item>
+      <title>Marco Polo</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6btVZCWLu4RazLxC14AuNJ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Much more than just a pool game, this Venetian merchant traveler adventured through China and the Mongolian Empire. Though his memoirs may have been heavily embellished, the book gave those who came after Marco Polo a broad picture of 13th century culture, led to advances in cartography and inspired explorers throughout history. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6btVZCWLu4RazLxC14AuNJ</guid>
+      <pubDate>Tue, 10 Oct 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>1991</itunes:duration>
+    </item>
+    <item>
+      <title>Meriwether Lewis &amp; William Clark</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1nee9zDO2IYT7GtsJRGyms?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Lewis and Clark--two names that are always heard in tandem. But who were these two young men before they became an inseparable duo? Lewis and Clark’s unique talents and interests made for a perfect partnership, and together they overcame myriad challenges, including hostile tribes, charging bears, poisonous snakes, and endless hoards of mosquitos until they achieved their hard-won goal of reaching the Pacific Ocean.     Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1nee9zDO2IYT7GtsJRGyms</guid>
+      <pubDate>Fri, 06 Oct 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>2191</itunes:duration>
+    </item>
+    <item>
+      <title>Albert Einstein</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5ohgwWuibtvBxCBHtQGWK8?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It wasn’t always obvious that Albert Einstein was destined for greatness. Long before he won the Nobel Prize, he was a rebellious, lovesick young man and a music lover who infuriated his professors and struggled to find a job. It would take years of struggle, but eventually Einstein’s writings would revolutionize theoretical physics and usher in the atomic age.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5ohgwWuibtvBxCBHtQGWK8</guid>
+      <pubDate>Thu, 05 Oct 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>3028</itunes:duration>
+    </item>
+    <item>
+      <title>Welcome to Historical Figures!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6L0sFSSWJjWSi2QsCFqtH4?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>With a new look, a new name, and an entertaining take on history, we are now called Historical Figures - formerly known as Remarkable Lives. Tragic Deaths (iTunes’ Best Debuts of 2016)- brings people who shaped history to life! New episodes will drop every other Wednesday, so don’t forget to subscribe! Listen to this trailer to learn more! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6L0sFSSWJjWSi2QsCFqtH4</guid>
+      <pubDate>Tue, 12 Sep 2017 16:00:00 +0000</pubDate>
+      <itunes:duration>118</itunes:duration>
+    </item>
+  </channel>
+</rss>
+

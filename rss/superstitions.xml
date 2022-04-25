@@ -1,0 +1,606 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Superstitions</title>
+    <link>https://api.spotify.com/v1/shows/1cXaUIVaBQGDEyaQpLUafB</link>
+    <description>Every Wednesday, meet us at the intersection of chaos and fate. We’ll briefly explore the origins of some of history’s most well-known superstitions. Then, we’ll dive into a fictional story that illustrates what might happen if you fail to adhere to these strange beliefs. Can we truly sway supernatural forces to work in our favor? Or are these eerie codes of conduct simply about exerting control in an unpredictable world? Superstitions is a Spotify Original from Parcast.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://i.scdn.co/image/ab6765630000ba8aebc313ca8f1a2ca1d66977b3</url>
+      <title>Superstitions</title>
+      <link>https://api.spotify.com/v1/shows/1cXaUIVaBQGDEyaQpLUafB</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Apr 2022 07:42:03 +0000</lastBuildDate>
+    <item>
+      <title>The Queen’s Superstitions</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3oyetkUObjB13Zna1HNlXb?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the British monarchy, some superstitions still reign supreme… With her coronation day ahead of her, and a royal wedding soon after, Alix can’t help but feel the weight of ancient omens even as she tries to modernize the monarchy. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3oyetkUObjB13Zna1HNlXb</guid>
+      <pubDate>Tue, 19 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2126</itunes:duration>
+    </item>
+    <item>
+      <title>Christening Ships</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5YeRkKsE6vmcdBoseCyG04?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Weigh anchor and pop the bubbly! Today’s superstition is a nautical drinking tradition: Toasting a ship’s maiden voyage with champagne can appease fickle sea gods, and ensure safe passage. But bad luck awaits if you scoff at tradition…  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5YeRkKsE6vmcdBoseCyG04</guid>
+      <pubDate>Tue, 12 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2207</itunes:duration>
+    </item>
+    <item>
+      <title>The Curse of the San Francisco Giants</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/47cKfCvYjD4U7tzL42niLB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>After the Giants moved from New York to San Francisco, they suffered a losing streak that lasted over half a century. Some fans believe a curse was to blame, and that an old plaque once lost to time was at the center of it…  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">47cKfCvYjD4U7tzL42niLB</guid>
+      <pubDate>Tue, 05 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1788</itunes:duration>
+    </item>
+    <item>
+      <title>Mirror in the Bedroom</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1PlFu0MarWpOAwg02V2LFH?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In feng shui, a bedroom mirror doesn’t simply reflect its surroundings. It responds to the energy you put into it. And in today’s story, an influencer’s boyfriend discovers what can happen when you play with ancient magic. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1PlFu0MarWpOAwg02V2LFH</guid>
+      <pubDate>Tue, 29 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2121</itunes:duration>
+    </item>
+    <item>
+      <title>The Cheese of the Dead</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6Z78xH9WmmW2pTzatZt8oD?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>If you’re a fan of cheese, you might say “cheese is life.” But one Swiss tradition takes it a step further… “Le fromage des morts” is meant to be a legacy of sorts. It’s a wedding gift meant to last a lifetime. But in today’s story, an ambitious banker bucks tradition… with rotten consequences. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6Z78xH9WmmW2pTzatZt8oD</guid>
+      <pubDate>Tue, 22 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2233</itunes:duration>
+    </item>
+    <item>
+      <title>The Ides of March</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0LEtYR8AEQtVJDWqYKdQbo?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ever since Julius Caesar allegedly ignored warnings about the 15th of March, that date has been doomed. In today’s story, a vogue ballroom competition — not the Roman Senate — sets the scene for a legendary showdown.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0LEtYR8AEQtVJDWqYKdQbo</guid>
+      <pubDate>Tue, 15 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2161</itunes:duration>
+    </item>
+    <item>
+      <title>The Murray State Shoe Tree</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/63O3kvPlWz64bN1Tc98iGi?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Students at this Kentucky university partake in a tradition meant to bring good luck. But in today’s story, one impassioned professor doesn’t quite get it — and undoes the work of generations. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">63O3kvPlWz64bN1Tc98iGi</guid>
+      <pubDate>Tue, 08 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2003</itunes:duration>
+    </item>
+    <item>
+      <title>The Royal Touch</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/207LJK9AaPGfsOjLurjy92?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>They say that French royals had a special gift bestowed by the divine. Anointed with holy oil, they could change a person’s life with just one touch. But as Remy is about to find out, with a royal touch… comes royal responsibility. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">207LJK9AaPGfsOjLurjy92</guid>
+      <pubDate>Tue, 01 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2171</itunes:duration>
+    </item>
+    <item>
+      <title>Astrology of Love: Karmic Nodes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2ibnlUHn3lTex0XuDfSDjP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In our final look at star-crossed lovers, Daisy is a gardener who likes following rules. She can read the soil just as well as she can interpret a star chart. But it turns out that even the most grounded among us can be swept off their feet, with a little help from intuition… Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2ibnlUHn3lTex0XuDfSDjP</guid>
+      <pubDate>Tue, 22 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2080</itunes:duration>
+    </item>
+    <item>
+      <title>Astrology of Love: Moon Signs</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/27Ov2zPdrqjeDhqHd5XO7Q?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Your moon sign reflects the deepest, most hidden part of yourself. Hidden even, sometimes, from your own understanding. Today’s couple seemed to be a perfect match. But only too late did they realize why they were doomed from the start. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">27Ov2zPdrqjeDhqHd5XO7Q</guid>
+      <pubDate>Tue, 15 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1701</itunes:duration>
+    </item>
+    <item>
+      <title>Astrology of Love: Rising Signs</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4iiXyesA9qzgThXwb3I1FA?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>There’s something a little mysterious about first impressions. Those indelible first seconds with a new acquaintance can be delicious… or disastrous. In today’s story, can two musicians with incredible chemistry keep the heat of their first spark? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4iiXyesA9qzgThXwb3I1FA</guid>
+      <pubDate>Tue, 08 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1835</itunes:duration>
+    </item>
+    <item>
+      <title>Astrology of Love: Sun Signs </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0uAKrLUDgyH1wZ56zvyjGj?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Is the fate of our love lives written in the stars? This month, we’re telling the stories of four astrologically interesting couples, exploring the best and worst matches in the Zodiac. Starting with 11-year-old August, a Pisces and hopeless romantic desperate to find love at summer camp. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0uAKrLUDgyH1wZ56zvyjGj</guid>
+      <pubDate>Tue, 01 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2419</itunes:duration>
+    </item>
+    <item>
+      <title> Ghost Stories: The Raven</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2FWss7aLA7RRzeBgSzrntW?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In our fourth and final adaptation of Edgar Allan Poe’s most macabre tales, a midnight visitor interrupts the silent, mournful reveries of a grieving widower. From Haunted Places: Ghost Stories, a Spotify Original from Parcast. New heart-racing stories every Thursday! Superstitions will be back next week with all new episodes. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2FWss7aLA7RRzeBgSzrntW</guid>
+      <pubDate>Wed, 26 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1763</itunes:duration>
+    </item>
+    <item>
+      <title>Ghost Stories: The Masque of the Red Death</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6GiRnF9kHsbLCb2G7Uxg5r?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Can you ever escape a plague? When a privileged soon-to-be doctor seeks shelter from a deadly disease, he learns no place is safe from the terror of death. From Haunted Places: Ghost Stories, a Spotify Original from Parcast.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6GiRnF9kHsbLCb2G7Uxg5r</guid>
+      <pubDate>Wed, 26 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1924</itunes:duration>
+    </item>
+    <item>
+      <title>Ghost Stories: The Tell-Tale Heart</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1TL4C1Edtzj6qYe2aEGfyo?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Caring for the ailing and eldery has taken its toll on Philip Langdon. He insists on his sanity, but proof of his deteriorating mental health lies pulsing beneath the surface. From Haunted Places: Ghost Stories, a Spotify Original from Parcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1TL4C1Edtzj6qYe2aEGfyo</guid>
+      <pubDate>Wed, 26 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1740</itunes:duration>
+    </item>
+    <item>
+      <title>Ghost Stories: The Fall of the House of Usher</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6uzciKawGpFsQ5jFOLuPCZ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Superstitions is off this week, but we have a special four-part crossover to share with you! From Haunted Places: Ghost Stories, this is the first of four chilling tales by Edgar Allan Poe — master of the macabre. Sickly and desperate, Roderick Usher calls upon a childhood friend to join him in his ancestral home. There, the weight of the Usher family’s wicked legacy threatens to overwhelm them both. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6uzciKawGpFsQ5jFOLuPCZ</guid>
+      <pubDate>Wed, 26 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2085</itunes:duration>
+    </item>
+    <item>
+      <title>Setting Keys on a Table</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0HRPkPDGUP5z1xq1K6iPJW?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>If you lose your keys, it might be chalked up to bad luck. But in Sweden, you can get worse luck if you set your keys on the table. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0HRPkPDGUP5z1xq1K6iPJW</guid>
+      <pubDate>Tue, 18 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>1791</itunes:duration>
+    </item>
+    <item>
+      <title>Rats Abandoning Ship</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/608HBQ9BmZ8TGn109U5a0A?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Some believe rats contain souls of the dead. Others believe that where there are rats, there is death. Either way, if you see these rodents abandoning a ship, you may want to consider joining them. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">608HBQ9BmZ8TGn109U5a0A</guid>
+      <pubDate>Tue, 11 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2095</itunes:duration>
+    </item>
+    <item>
+      <title>Breaking a Mirror</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4eGD67EUr7o3KTkPQKqw5d?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Mirrors are said to reflect not only your physical appearance, but your soul as well. In today’s episode, a physical trainer confronts himself in a special mirror… and changes his life for seven years.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4eGD67EUr7o3KTkPQKqw5d</guid>
+      <pubDate>Tue, 04 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2479</itunes:duration>
+    </item>
+    <item>
+      <title>Best of 2021: At the Seance</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4DBe8LiPEzxnfDeBUyWXRk?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>As we look ahead to the new year, we want to take one last chance to say thank you for the year that was — and present our "Best of 2021"! Please enjoy this episode from Mediums, one of our favorite new shows of this year, where we take you straight into the heart of a 19th-century seance.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4DBe8LiPEzxnfDeBUyWXRk</guid>
+      <pubDate>Mon, 27 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2282</itunes:duration>
+    </item>
+    <item>
+      <title>The Lost Nativity: An Apocryphal Christmas Tale</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4qi1X8HAIF7YtFsTHkRXK2?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Dark, sweeping, and brimming with cosmic significance — this is the nativity story as you’ve never heard it before. Join us for a pulse-pounding tale sourced from ancient texts and apocryphal gospels, featuring scenes that didn’t quite make it into the Bible. This is a storytelling special from Parcast Network, hosted by Vanessa Richardson and Alastair Murden. Coming up: A prophecy unfolds, and a child — unlike any other — is born…  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4qi1X8HAIF7YtFsTHkRXK2</guid>
+      <pubDate>Mon, 20 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>3842</itunes:duration>
+    </item>
+    <item>
+      <title>Charles Dickens' Superstitions</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3WZh0h57l6o8oqpsRyauOv?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>For our last episode of the year, we'll tell you a Christmas Story. One about a famous author who had a very *particular* set of superstitions. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3WZh0h57l6o8oqpsRyauOv</guid>
+      <pubDate>Tue, 14 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2569</itunes:duration>
+    </item>
+    <item>
+      <title>Exchanging Cursed Gifts</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0UvQKg7nkUll6FsQ5EQJpH?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Today, you’re invited to a very special gift exchange… where cursed presents throw a party into chaos. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0UvQKg7nkUll6FsQ5EQJpH</guid>
+      <pubDate>Tue, 07 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2328</itunes:duration>
+    </item>
+    <item>
+      <title>The Wizard of Oz Production Curse</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4Iz3oO3gGf2scUJEfHHezA?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From poisonous makeup to drug-addled stars, the set of the 1939 film "The Wizard of Oz" was rife with misfortune. Rumors said that a curse had settled over the production, which has affected every version of the Wizard of Oz made after it. In today's episode, an ambitious director pushes his students too far and discovers how real the curse can be. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4Iz3oO3gGf2scUJEfHHezA</guid>
+      <pubDate>Tue, 30 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2551</itunes:duration>
+    </item>
+    <item>
+      <title>Breaking the Wishbone</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3WMPcDLAOLT0oKWZ80kepi?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The wishbone break is a beloved Thanksgiving pastime, but it’s rooted in ancient magic. One snap can change your luck and your life... in wonderful and terrible ways. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3WMPcDLAOLT0oKWZ80kepi</guid>
+      <pubDate>Mon, 22 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2518</itunes:duration>
+    </item>
+    <item>
+      <title>Full Moons</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4yVmzGbVyEkJ8kJlP7N4Ea?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>For thousands of years, our ancestors have looked to the sky for answers about the world around us. So when people go mad, it may not be their fault. Just ask the full moon. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4yVmzGbVyEkJ8kJlP7N4Ea</guid>
+      <pubDate>Tue, 16 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2295</itunes:duration>
+    </item>
+    <item>
+      <title>Vampires</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3DKm2bClmsoHVporyFhgam?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Bloodsucking fiends appear in the folklore of every culture on the planet. But for some, they were more than just horror stories. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3DKm2bClmsoHVporyFhgam</guid>
+      <pubDate>Tue, 09 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2198</itunes:duration>
+    </item>
+    <item>
+      <title>Scottish Kale Divination</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7jRgI52osJFil3mq1eCMd9?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>What if you could learn everything you needed to know about your one true love just by uprooting a stalk of kale? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7jRgI52osJFil3mq1eCMd9</guid>
+      <pubDate>Tue, 02 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2386</itunes:duration>
+    </item>
+    <item>
+      <title>Season of the Witch: Witch's Sabbath </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4wAlxVRfZQGhvwSX1Eqaep?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The final episode in our four-part series on witches. Our three young witches enjoy a magical retreat, and discover they all share a diabolical connection. When an innocent is threatened, they must band together before "Hell on Earth" becomes a reality.Season of the Witch is a special storytelling series across Parcast Network. Follow Tales and Haunted Places to find more spooky stories and historical haunts! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4wAlxVRfZQGhvwSX1Eqaep</guid>
+      <pubDate>Tue, 26 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2960</itunes:duration>
+    </item>
+    <item>
+      <title>Season of the Witch: Broomsticks</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/33RdEMvjUKROB0PykL4TSs?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Where did the association between witches and broomsticks come from? An au pair named Jia is about to find out. Season of the Witch is a special storytelling series across Parcast Network. Follow Tales and Haunted Places to find more spooky stories and historical haunts! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">33RdEMvjUKROB0PykL4TSs</guid>
+      <pubDate>Tue, 19 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2466</itunes:duration>
+    </item>
+    <item>
+      <title>Season of the Witch: Familiars</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/77cWRSYgodIenrw6TczvQj?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>They might take the form of innocent pets like cats, dogs, or toads. But familiars are far more than cute little witches’ companions. They’re demons from Hell — and they’re here to wreak havoc.Season of the Witch is a special storytelling series across Parcast Network. Follow Tales and Haunted Places to find more spooky stories and historical haunts! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">77cWRSYgodIenrw6TczvQj</guid>
+      <pubDate>Tue, 12 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2291</itunes:duration>
+    </item>
+    <item>
+      <title>Season of the Witch: The Witch’s Mark</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2kRr0pOZPhW15QJbE3sh9U?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s a strange blemish that can take many forms, but always says the same thing: this woman has been touched by the Devil. When Sadie gets a mark of her own, she’s thrust into a world of witchcraft and power. Season of the Witch is a special storytelling series across Parcast Network. Follow Tales and Haunted Places to find more spooky stories and historical haunts! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2kRr0pOZPhW15QJbE3sh9U</guid>
+      <pubDate>Tue, 05 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2965</itunes:duration>
+    </item>
+    <item>
+      <title>Going Home After a Funeral</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2ntV8UjdQXsedeB6SpC851?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the Philippines, Pagpag means “to shake off dust or dirt.” The belief is that you should not go straight home after a funeral or a wake, lest an evil spirit attach themselves to you and follow you home. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2ntV8UjdQXsedeB6SpC851</guid>
+      <pubDate>Tue, 28 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2022</itunes:duration>
+    </item>
+    <item>
+      <title>NASA Superstitions</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2N9BJP6jfJpmGSk8KYfST0?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Just because you leave the planet doesn't mean you leave superstitions behind. Since the early days of space travel, NASA astronauts have been taught to observe specific rituals before going to space. Because if they don't, they may wind up lost in space… Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2N9BJP6jfJpmGSk8KYfST0</guid>
+      <pubDate>Tue, 21 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2106</itunes:duration>
+    </item>
+    <item>
+      <title>Birthday Superstitions</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5lt49wN8ZIYn98V0DkM38s?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From a certain point of view, birthday celebrations can be seen as a little... ritualistic. Candles, special songs, birthday cake... Where did all these practices come from? And what are they meant to protect us against? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5lt49wN8ZIYn98V0DkM38s</guid>
+      <pubDate>Tue, 14 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2335</itunes:duration>
+    </item>
+    <item>
+      <title>Cutting Your Nails</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3dusilENVMJOWojjN2mdri?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Your luck can change drastically depending on what day of the week you cut your nails. Fortunately, there’s a playful rhyme to help you remember. And if you forget? A broken nail will be the least of your worries… Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3dusilENVMJOWojjN2mdri</guid>
+      <pubDate>Tue, 07 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2254</itunes:duration>
+    </item>
+    <item>
+      <title>Rabbit, Rabbit, Rabbit</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6Pwwq6O8FjqRgW2BJnitNq?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In a ritual that can be found around the world, invoking the rabbit on the first day of a new month brings good luck. And in this story, a teenage witch is about to discover just how much fortune she can find…  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6Pwwq6O8FjqRgW2BJnitNq</guid>
+      <pubDate>Tue, 31 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2024</itunes:duration>
+    </item>
+    <item>
+      <title>The Evil Eye</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3MhMdPVyM8cQk9deSPKBMn?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>When you become successful, all eyes are on you. But there is one eye above all others that will always be watching, waiting to take away your success. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3MhMdPVyM8cQk9deSPKBMn</guid>
+      <pubDate>Tue, 24 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2063</itunes:duration>
+    </item>
+    <item>
+      <title>Clocks</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1KmRdmzswVhggrigw7PZmt?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Timekeeping devices have been around for millennia. But at what point did we stop seeing them as tools... and start seeing them as a reminder of our own mortality? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1KmRdmzswVhggrigw7PZmt</guid>
+      <pubDate>Tue, 17 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2246</itunes:duration>
+    </item>
+    <item>
+      <title>The Yo-yo Drought</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/04ozzzHOLJEukMMBRxCLzX?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Toys are supposed to be harmless and fun — their arrival signaling playtime, not disaster. But in 1930s Syria, one toy was thought to cause a devastation so severe, it was banned from the country. If yo-yos could control the weather… what else could they control? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">04ozzzHOLJEukMMBRxCLzX</guid>
+      <pubDate>Tue, 10 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2527</itunes:duration>
+    </item>
+    <item>
+      <title>Thunder and Lightning</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4O5RLirGLXLlSxUONUnTy8?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Meteorology is an advanced study, but not a precise one. So when the heavens themselves seem determined to destroy you, who wouldn't turn to some seemingly ridiculous rituals? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4O5RLirGLXLlSxUONUnTy8</guid>
+      <pubDate>Tue, 03 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1984</itunes:duration>
+    </item>
+    <item>
+      <title>Whistling on a Ship</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/73uSX3boN5IkvnVsInpRPa?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Sailors are a superstitious lot, and refraining from whistling might sound like a typical warning from an old salt. But if you're not careful, an errant whistle can blow up a storm. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">73uSX3boN5IkvnVsInpRPa</guid>
+      <pubDate>Tue, 27 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1751</itunes:duration>
+    </item>
+    <item>
+      <title>Confetti at Weddings</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5DAUZSlUeJbd4yi1JomYtR?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Why do we think weddings have to be commemorated with tiny flakes of paper? And what are the consequences for getting too wrapped up in the idea of "the perfect wedding"? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5DAUZSlUeJbd4yi1JomYtR</guid>
+      <pubDate>Tue, 20 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1764</itunes:duration>
+    </item>
+    <item>
+      <title>In the Mouth of the Wolf</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2S2tnXIJrBgwFQ8T074saH?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>To bestow good luck, an American might say “break a leg.” But in Italy, there’s a different phrase: “In bocca al bupo.” The problem is, if you say thanks in return, you might end up in the mouth of a wolf… Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2S2tnXIJrBgwFQ8T074saH</guid>
+      <pubDate>Tue, 13 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2052</itunes:duration>
+    </item>
+    <item>
+      <title>Lucky Number 7</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5FAvPIQXOvowdbS5Sb7n09?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>If you look for it, you can spot the number seven everywhere. But of all the numbers, why did we pick this one to be the lucky one? And what happens when you rely on it too much? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5FAvPIQXOvowdbS5Sb7n09</guid>
+      <pubDate>Tue, 06 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2025</itunes:duration>
+    </item>
+    <item>
+      <title>Sneezing</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/19di1iTMJ5Xn2avXEaSRrM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In many cultures, it's considered polite to bless someone after they sneeze. But this dates back to a much older belief, where if you sneeze without a blessing, your soul can fly right out of your body. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">19di1iTMJ5Xn2avXEaSRrM</guid>
+      <pubDate>Tue, 29 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2200</itunes:duration>
+    </item>
+    <item>
+      <title>Solstice Special: Twins</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Q7FWidSb2JHqlBL2A5PqG?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Gemini season is upon us, the season of twins. Which makes us ask: Are twins *really* telepathic? How do we explain the uncanny connection between the closest of siblings?For more celestial stories, keep listening across Parcast Network for episodes on the Zodiac signs, constellations and more! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1Q7FWidSb2JHqlBL2A5PqG</guid>
+      <pubDate>Tue, 22 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2428</itunes:duration>
+    </item>
+    <item>
+      <title>Solstice Special: The Great Conjunction</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0g8GaJKDEaqtJgrVZw3OjT?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>When planets align, chaos can follow. For thousands of years, the movements of those heavenly bodies have been used to understand — and even predict — earthly upheavals. History is dotted with uncanny examples. For more celestial stories, keep listening across Parcast Network for episodes on the Zodiac signs, constellations and more! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0g8GaJKDEaqtJgrVZw3OjT</guid>
+      <pubDate>Tue, 15 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2189</itunes:duration>
+    </item>
+    <item>
+      <title>Crossing Your Fingers</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2hP3552aHfwbbni0YcJYZa?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s so common that we hardly think of it as a superstition. Today, we use it to wish for luck and to excuse a broken promise or white lie. But throughout history, crossing your fingers has been used over and over to invoke the Divine. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2hP3552aHfwbbni0YcJYZa</guid>
+      <pubDate>Tue, 08 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1716</itunes:duration>
+    </item>
+    <item>
+      <title>Your Future Grave</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3L0A4XPsdIfJgQFeMmMdIh?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>If you feel an inexplicable chill, you may be coming down with a cold… or someone just walked over the patch of earth where you’re destined to be buried.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3L0A4XPsdIfJgQFeMmMdIh</guid>
+      <pubDate>Tue, 01 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1940</itunes:duration>
+    </item>
+    <item>
+      <title>Opening Umbrellas Indoors</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4B48nv4CIuVSiFWU3Pa62w?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s not just bad luck. It’s an affront to ancient gods. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4B48nv4CIuVSiFWU3Pa62w</guid>
+      <pubDate>Tue, 25 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2017</itunes:duration>
+    </item>
+    <item>
+      <title>Burying Bourbon</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6FWqsZVUcrHYTwSGsgewTA?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>If you want a bright and sunny Southern wedding, there’s only one thing to do: One month before the nuptials, bury a bottle of bourbon. But take care to dig it up on your wedding day. If you don’t, you might suffer a thunderstorm… or worse. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6FWqsZVUcrHYTwSGsgewTA</guid>
+      <pubDate>Tue, 18 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1820</itunes:duration>
+    </item>
+    <item>
+      <title>Owl Omens</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1OgdxcduLLhArW0ovK41Gl?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>When an owl speaks, death follows. But if they can bring doom, can they reverse it, too? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1OgdxcduLLhArW0ovK41Gl</guid>
+      <pubDate>Tue, 11 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1779</itunes:duration>
+    </item>
+    <item>
+      <title>Donate and Die</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1nrIhrkpeWqxDaWExdKxBD?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Giving away clothing is an act of charity, but if your old outfits end up in evil hands, they could be used to cast a spell of harm against you. They say clothes make the man… but they can unmake him, too. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1nrIhrkpeWqxDaWExdKxBD</guid>
+      <pubDate>Tue, 04 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2179</itunes:duration>
+    </item>
+    <item>
+      <title>Knocking on Wood</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1bOAAgL7kMvOHtkl0xawes?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Some use a table. Others, a doorframe. There are even those who jokingly use their head. Whatever wooden object is closest, you better knock on it for luck before you speak, or else you may just experience something bad… or jinx something good. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1bOAAgL7kMvOHtkl0xawes</guid>
+      <pubDate>Tue, 27 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2010</itunes:duration>
+    </item>
+    <item>
+      <title>Playoff Beards</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2ra0Ox2WIVg1ceX68xGp4i?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In 1980, the New York Islanders hockey team stopped shaving during the playoffs, and they won the Stanley Cup. That moment marked the birth of a new superstition: the playoff beard. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2ra0Ox2WIVg1ceX68xGp4i</guid>
+      <pubDate>Tue, 20 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1530</itunes:duration>
+    </item>
+    <item>
+      <title>Stepping on a Crack</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2xEtS0z2ZgoAtZuo7vE6zL?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>One wrong step can have consequences of seismic proportions... Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2xEtS0z2ZgoAtZuo7vE6zL</guid>
+      <pubDate>Tue, 13 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1861</itunes:duration>
+    </item>
+    <item>
+      <title>Burying Saint Joseph</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4avA7f0aR0qvTpYwpgnHHz?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The real estate industry may sound like the last place to find superstitious practices, but some agents have come to rely on a special talisman to sell homes: a small plastic statue of St. Joseph. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4avA7f0aR0qvTpYwpgnHHz</guid>
+      <pubDate>Tue, 06 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1788</itunes:duration>
+    </item>
+    <item>
+      <title>Wishing on a Shooting Star</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7iHgi5MO8d1WBKSuTv26JZ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>When the very sky above us lights up with a shooting star, it transports us to another world… a reality where anything is possible. And so, we make a wish. But usually, we don't think about the consequences of that wish coming true... Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7iHgi5MO8d1WBKSuTv26JZ</guid>
+      <pubDate>Tue, 30 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1898</itunes:duration>
+    </item>
+    <item>
+      <title>The Curse of the Billy Goat</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6UxIwNZiN0mFiuVzs0j3LM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Bad luck is everywhere in the world of sports. But perhaps a famous curse centers around the Chicago Cubs, who didn't win the World Series for 71 years... all because they insulted a goat. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6UxIwNZiN0mFiuVzs0j3LM</guid>
+      <pubDate>Tue, 23 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2158</itunes:duration>
+    </item>
+    <item>
+      <title>Toasting with Water</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5XIewgVNlXQcMJ7AbiHl5t?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Don’t toast with a glass of water, or you’ll wish bad luck upon the toast’s honoree and yourself. Though this European superstition sounds like an excuse to get drunk, it’s really an ancient tool to ward off disaster and death. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5XIewgVNlXQcMJ7AbiHl5t</guid>
+      <pubDate>Tue, 16 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2123</itunes:duration>
+    </item>
+    <item>
+      <title>Four Leaf Clovers</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1uHRm7UuUMucWgiX4fx0qW?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>For St. Patrick's Day, we're exploring the very symbol of good luck itself! Where in history does this Irish tradition come from, and what does its presence say about the land it originated from? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1uHRm7UuUMucWgiX4fx0qW</guid>
+      <pubDate>Tue, 09 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2217</itunes:duration>
+    </item>
+    <item>
+      <title>Number of Steps in a Home</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7j8f7gN4ZxcLiSUuX99lBr?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>You cannot avoid bad luck just by staying indoors. Especially if the number of steps in your home is a multiple of 3. In the Philippines, that is a very bad sign indeed… Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7j8f7gN4ZxcLiSUuX99lBr</guid>
+      <pubDate>Tue, 02 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2041</itunes:duration>
+    </item>
+    <item>
+      <title>The ‘Q’ Word</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1xXz7EWPCNhIQm1yTXYJxq?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>For a police officer on patrol, there's nothing better than an uneventful shift. But according to this superstition, if you ever say a specific phrase, your day is about to get a lot more... eventful. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1xXz7EWPCNhIQm1yTXYJxq</guid>
+      <pubDate>Tue, 23 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1781</itunes:duration>
+    </item>
+    <item>
+      <title>The First to Leave a Funeral</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4swNMQDQBBa72F6o75tOGf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Local to Iowa, this superstition adds an extra layer of tension to the loss of a loved one. Like a morbid version of tossing a bouquet at a wedding, the first person to leave a funeral... will be the first to die. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4swNMQDQBBa72F6o75tOGf</guid>
+      <pubDate>Tue, 16 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2244</itunes:duration>
+    </item>
+    <item>
+      <title>Pele’s Curse</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1TrwhPUmWSiZ0Gu4bS2NPv?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Taking stones from the Hawaiian islands may seem harmless, but you may want to think twice before pocketing a memento. Taking a rock from the slopes of Kilauea will earn you the ire of Pele, the volcano goddess herself, and a lifetime of bad luck.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1TrwhPUmWSiZ0Gu4bS2NPv</guid>
+      <pubDate>Tue, 09 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1753</itunes:duration>
+    </item>
+    <item>
+      <title>The Royal Family’s Ravens</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2ykerUkItgErTDEABdMRso?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Tower of London is purported to have six ravens. But these are more than just spooky pets... Rumor has it that if any of these ravens is taken from the Tower, there will be dire consequences for the British Empire. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2ykerUkItgErTDEABdMRso</guid>
+      <pubDate>Tue, 02 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2021</itunes:duration>
+    </item>
+    <item>
+      <title>Rubbing the Seatbelt Light</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/52lZJ6Ix8DlAF4nNVuo7in?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The airplane seatbelt “bing” is near-iconic. But few fliers are aware that pilots perform a secret ritual before pressing the seatbelt button — believing that if they forget, the plane will suffer mechanical problems… or maybe even a deadly catastrophe.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">52lZJ6Ix8DlAF4nNVuo7in</guid>
+      <pubDate>Tue, 26 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1939</itunes:duration>
+    </item>
+    <item>
+      <title>The 20-Year Presidential Curse</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2hyGQWgtA2rKljXSuMR0J0?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>If you look at U.S. Presidents who have died in office, a strange pattern emerges. Since 1840, those elected on twenty-year intervals meet untimely deaths, with few exceptions. Does a 19th-century death curse plague America’s highest office of political power? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2hyGQWgtA2rKljXSuMR0J0</guid>
+      <pubDate>Tue, 19 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1867</itunes:duration>
+    </item>
+    <item>
+      <title>Beginner’s Luck </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5c68AjIkyFNwPxUOyoIdQV?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s an advantage that newcomers and novices relish: try something new, and succeed like a natural. But what happens when beginner’s luck runs out?  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5c68AjIkyFNwPxUOyoIdQV</guid>
+      <pubDate>Tue, 12 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1548</itunes:duration>
+    </item>
+    <item>
+      <title>Horseshoe Over the Door</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2UYrVBbluHc7d1rbFSpwgd?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Unassuming wall decor, or powerful protection against evil? Horseshoes are said to offer luck and fortune to those who possess them — so long as you manage to hang them right…  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2UYrVBbluHc7d1rbFSpwgd</guid>
+      <pubDate>Tue, 05 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1665</itunes:duration>
+    </item>
+    <item>
+      <title>New Year’s Eve Festivities</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7xX04iizIcNKjHzEZXA6rg?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>10… 9… 8… As the clock winds down on the final moments of the year, people around the world employ charms and traditions to shore up good fortune for the future. But it’s not always our own luck that’s on the line…  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7xX04iizIcNKjHzEZXA6rg</guid>
+      <pubDate>Tue, 29 Dec 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2042</itunes:duration>
+    </item>
+    <item>
+      <title>Christmas Traditions</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2T1WzWnikxQI8AjgRm1Q8J?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The roots of this festive holiday reach way back through history, with links to Nordic myths and the Roman Saturnalia. For colonists in 17th century America, celebrating Christmas was controversial… and in this telling, a despairing Puritan preacher goes so far as to try and cancel it.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2T1WzWnikxQI8AjgRm1Q8J</guid>
+      <pubDate>Tue, 15 Dec 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1695</itunes:duration>
+    </item>
+    <item>
+      <title>Salt for Protection</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5ucmPrXmattbnFiFCflUPX?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s one ingredient that can cross the threshold of the mundane, offering supernatural protection against lingering spirits… And you can find it in any kitchen, every ocean, and even our bodies.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5ucmPrXmattbnFiFCflUPX</guid>
+      <pubDate>Tue, 08 Dec 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1968</itunes:duration>
+    </item>
+    <item>
+      <title>Walking Under a Ladder</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1siaHJbAqIIqLPStLbsFWr?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Steering clear of an open ladder is second nature for many people. But for those that dare test this superstition, beware: It might bring more than just bad luck.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1siaHJbAqIIqLPStLbsFWr</guid>
+      <pubDate>Tue, 01 Dec 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2005</itunes:duration>
+    </item>
+    <item>
+      <title>Saying “Macbeth” Inside a Theater</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/66ezWC9gZHLczW8MLKNTcp?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>According to theatre lore, this famous play by William Shakespeare has carried a witch's curse since it's earliest performances. If you say the name 'Macbeth' inside a theater when you're not performing the Scottish Play... blood will have blood, so they say. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">66ezWC9gZHLczW8MLKNTcp</guid>
+      <pubDate>Tue, 24 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1910</itunes:duration>
+    </item>
+    <item>
+      <title>Getting Pooped on by a Bird</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5f5LidvM0nvd8SC85ynTe5?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It might ruin your outfit — but far from ruining your day, getting pooped on by a bird is a gift from the sky. This lucky omen means things will start looking up (though you might still want to keep your head down).  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5f5LidvM0nvd8SC85ynTe5</guid>
+      <pubDate>Tue, 17 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1823</itunes:duration>
+    </item>
+    <item>
+      <title>Lighting Three Cigarettes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5c0qBoSbKmBR4MGmEFMFqR?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Whether it’s the risky “live fast, die young” appeal or the very real threat of lung cancer, cigarettes have always been considered dangerous. And lighting three from the same match might just set you on a quick path to misfortune — if not death.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5c0qBoSbKmBR4MGmEFMFqR</guid>
+      <pubDate>Tue, 10 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2121</itunes:duration>
+    </item>
+    <item>
+      <title>Luck of the Rabbit’s Foot</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/20ryOTWZUt5AMTnbG1IdZf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We could all use a little extra luck from time to time… And what better way to secure some than taking it from one of nature’s craftiest tricksters — a surprisingly subversive symbol of wits and survival: the rabbit. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">20ryOTWZUt5AMTnbG1IdZf</guid>
+      <pubDate>Tue, 03 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1802</itunes:duration>
+    </item>
+    <item>
+      <title>Passing a Cemetery</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/32MrrGGR5423yVAz5szOII?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It's a children's game with a deadly consequence: Hold your breath while driving past a cemetery’s graves... or breathe in a spirit by mistake. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">32MrrGGR5423yVAz5szOII</guid>
+      <pubDate>Tue, 27 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1978</itunes:duration>
+    </item>
+    <item>
+      <title>The Poltergeist Curse</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7a72xZ8qJ9Tpp8nrhCaclf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the 1980s, actors who had starred in the Poltergeist films started dying, leaving fans stunned. Was it just a coincidence? Or had the actors fallen victim to the very films that made them stars? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7a72xZ8qJ9Tpp8nrhCaclf</guid>
+      <pubDate>Tue, 20 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2150</itunes:duration>
+    </item>
+    <item>
+      <title>The Number 13</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2w1NUqZvhi12nOXriq3W7l?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s the world’s unluckiest integer, and it has even spawned its own phobia. Throughout folklore and mythology, wherever the number 13 occurs, disaster follows.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2w1NUqZvhi12nOXriq3W7l</guid>
+      <pubDate>Tue, 13 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1838</itunes:duration>
+    </item>
+    <item>
+      <title>Black Cats</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/58ZwwZa0N7Roimdv51kWhT?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Our first episode concerns one of the most iconic superstitions: black cats, and their relationship to bad luck. Why is it that, even to this day, we associate these innocent cats with demons, witchcraft, and doom? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">58ZwwZa0N7Roimdv51kWhT</guid>
+      <pubDate>Tue, 06 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1697</itunes:duration>
+    </item>
+    <item>
+      <title>This Is Superstitions</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/39ViyAefin1Yq3OMPnURxj?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>You’ve never opened an umbrella indoors, or walked underneath a ladder. And every Friday the 13th, you take extra care not to invite misfortune: no stepping on sidewalk cracks, no clumsiness with the salt shaker. Why take any chances? Every week on Superstitions, explore the backstories and hidden lessons inside bad omens, good luck charms, and old wives’ tales—and hear the stories of those who dare defy them. Superstitions is a Spotify Original from Parcast. New episodes air weekly, on Wednesdays. Listen free on Spotify, or wherever you get your podcasts.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">39ViyAefin1Yq3OMPnURxj</guid>
+      <pubDate>Thu, 17 Sep 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>60</itunes:duration>
+    </item>
+  </channel>
+</rss>
+

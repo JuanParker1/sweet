@@ -1,0 +1,697 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Crime Countdown</title>
+    <link>https://api.spotify.com/v1/shows/4NjFYpYMcdK9NRkvdp1uBy</link>
+    <description>Who’s the worst serial killer? Where’s the creepiest cult? What’s the coldest of all cold cases? If you’re a true crime fan, you’ve probably asked yourself some of these questions. Well, Parcast thinks you deserve answers… or at least some passionate opinions. And they’ve enlisted co-hosts Ash Kelley and Alaina Urquhart from the hit podcast Morbid to get to the bottom of things. Welcome to their Parcast original series, Crime Countdown. Every Monday, Ash and Alaina discuss ten unsettling true crime stories centered around a common theme. With the help of the Parcast research gods, they’ll try to shock, surprise, and one-up each other—debating each case and their rankings with a hint of humor to lighten the mood. These best friends may not be experts. And they may not always agree. But… they’re counting down anyway.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://i.scdn.co/image/ab6765630000ba8afb3acef15279c996a4147d67</url>
+      <title>Crime Countdown</title>
+      <link>https://api.spotify.com/v1/shows/4NjFYpYMcdK9NRkvdp1uBy</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Apr 2022 07:38:23 +0000</lastBuildDate>
+    <item>
+      <title>Introducing: Malicious Moms</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4dlIwG1Aw7VsvCpVXEZ1tm?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Hear an exclusive clip from the first episode of Parcast Network’s newest collection, just in time for Mother’s Day. Every Sunday, see how far some women went to help their kids… and how others used motherhood to get away with their misdeeds. From college admissions scandals to “self-defense” ax murders, motherhood’s no walk in the park — and in this series, it’s a minefield. Follow Malicious Moms and listen free, only on Spotify! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4dlIwG1Aw7VsvCpVXEZ1tm</guid>
+      <pubDate>Tue, 19 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>915</itunes:duration>
+    </item>
+    <item>
+      <title>Highway Killers</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1MHb05TXRCCgD1VRi4xAHI?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>At this point we’re all taught to be wary of hitchhikers and vigilant during rideshares. These stories are why. Ash and Alaina count down killers who murdered on the open road.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1MHb05TXRCCgD1VRi4xAHI</guid>
+      <pubDate>Sun, 17 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2373</itunes:duration>
+    </item>
+    <item>
+      <title>Crimes That Changed Laws</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3jnTkm46g8cjD41naYpuzv?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Sometimes a crime so ghastly occurs, it spotlights a glaring hole in our legal system. Ash and Alaina count down the cases that made way for change.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3jnTkm46g8cjD41naYpuzv</guid>
+      <pubDate>Sun, 10 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2228</itunes:duration>
+    </item>
+    <item>
+      <title>18 Texts from God </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5PiaWvFe9dvcpK2d5HHTPy?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This week we’re sharing an episode from Sinister Societies, where co-hosts Hannah and Suruthi share the story of Sweden’s Knutby Filadelfia. The small Pentecostal sect rocketed to cult infamy in the early 2000s after “texts from God” greased the wheels of a murder plot. Enjoy, and follow Sinister Societies for new episodes every Tuesday! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5PiaWvFe9dvcpK2d5HHTPy</guid>
+      <pubDate>Mon, 04 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>730</itunes:duration>
+    </item>
+    <item>
+      <title>Biggest Murder Investigation Blunders</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/58pH0KTHhfDNBlhNdNEMDL?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The crimes are violent. The media is on call. And the stakes are sky-high. So you’d think every murder investigation would be by the book… right? Ash and Alaina count down the biggest cover-ups, missteps, and mistakes in violent cases. And if you know your true crime history, you can probably already guess #1. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">58pH0KTHhfDNBlhNdNEMDL</guid>
+      <pubDate>Sun, 03 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2373</itunes:duration>
+    </item>
+    <item>
+      <title>Cruise Ship Horrors</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3qvHoHxMZx8pPxMKLnRwTG?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The worst thing most cruise-goers have to contend with is seasickness… but today, Ash and Alaina count down the tragically unfortunate times cruise ships became crime scenes.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3qvHoHxMZx8pPxMKLnRwTG</guid>
+      <pubDate>Sun, 27 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2251</itunes:duration>
+    </item>
+    <item>
+      <title>Disturbing Details of Heaven’s Gate</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2IJpKJK3ezSWIRcosppOh4?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>When you think of Heaven’s Gate, a few things might come to mind. Mass suicide. UFOs. The Next Level. What about the “Oklahoma” musical? Ash and Alaina count down the lesser-known details hidden within the rise and tragic fall of Heaven’s Gate.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2IJpKJK3ezSWIRcosppOh4</guid>
+      <pubDate>Sun, 20 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2336</itunes:duration>
+    </item>
+    <item>
+      <title>Unluckiest Irish Criminals</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2FUG2JKAGryIqA1fICYNAY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>With its sweeping grasslands and wealth of folklore, Ireland is one of the most charming destinations in the world. It’s also home to some of the most unlawfully unlucky people who ever lived. Ash and Alaina count down the ten felons who really could’ve used a four-leaf clover. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2FUG2JKAGryIqA1fICYNAY</guid>
+      <pubDate>Sun, 13 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2316</itunes:duration>
+    </item>
+    <item>
+      <title>College Sports Crimes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7aOPbwXSQxXbfYOdJ3TzeA?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>You don’t have to be a criminology major to know that some rivalries don’t stay on the court. And some scandals are too big for the locker room. Ash and Alaina tee up the crimes that shook the world of college athletics.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7aOPbwXSQxXbfYOdJ3TzeA</guid>
+      <pubDate>Sun, 06 Mar 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2693</itunes:duration>
+    </item>
+    <item>
+      <title>Haunted New Orleans</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6x7whEOMiRoRnU70SyJZYP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The city’s slogan is “let the good times roll” and apparently it holds true even after death. Ash and Alaina count down the top ten most haunted spots in New Orleans. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6x7whEOMiRoRnU70SyJZYP</guid>
+      <pubDate>Sun, 27 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2464</itunes:duration>
+    </item>
+    <item>
+      <title>Most Shocking U.S. Political Murders</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4ow0TDxOssUDx5mNeEChgu?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Voting against an opponent doesn’t always keep them out of power, and the people on this list chose violence to make themselves heard. Ash and Alaina count down the most shocking murders from the world of U.S. politics. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4ow0TDxOssUDx5mNeEChgu</guid>
+      <pubDate>Sun, 20 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2288</itunes:duration>
+    </item>
+    <item>
+      <title>Crimes for Love</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/67TSKDNi6mAWem03GAeXb9?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We all know love is supposed to be kind and patient. But the people on this list took love as a license to… murder. Ash and Alaina count down the worst crimes committed in the name of “love.”  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">67TSKDNi6mAWem03GAeXb9</guid>
+      <pubDate>Sun, 13 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2548</itunes:duration>
+    </item>
+    <item>
+      <title>Most Haunting Morbid Episodes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0Q1ZUTWPtV9P7MuzN9ifgh?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Since debuting their podcast Morbid nearly three years ago, Ash and Alaina have covered hundreds of true crime cases. But some are more memorable than others. Today they count down the most chilling crimes they’ve ever discussed.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0Q1ZUTWPtV9P7MuzN9ifgh</guid>
+      <pubDate>Sun, 06 Feb 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>3052</itunes:duration>
+    </item>
+    <item>
+      <title>Olympic Crimes and Scandals</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2bUHokH3XslVxdJP8hkDJU?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>To be an Olympic champion, you gotta be the best. To be number one on this show means you’re probably the worst. Ash and Alaina count down the crimes and scandals that rocked the world’s most prestigious sports event. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2bUHokH3XslVxdJP8hkDJU</guid>
+      <pubDate>Sun, 30 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2408</itunes:duration>
+    </item>
+    <item>
+      <title>Florida Man Crimes Pt. 3</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/37AKbhwfdDwi0f38PgVRx8?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Just when you thought Florida criminals couldn’t outdo themselves, we’re back for part three. Ash and Alaina countdown the most Florida of Florida Crimes to date — and they don't even involve murder. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">37AKbhwfdDwi0f38PgVRx8</guid>
+      <pubDate>Sun, 23 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2421</itunes:duration>
+    </item>
+    <item>
+      <title>International Manhunts</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/02t9vna5ZnpDcVUXrmwps1?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>What does it take to avoid prison as an international fugitive? Stolen passports, secret identities, even requests for asylum… Ash and Alaina name the top criminals who did what they needed to do to stay free. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">02t9vna5ZnpDcVUXrmwps1</guid>
+      <pubDate>Sun, 16 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2409</itunes:duration>
+    </item>
+    <item>
+      <title>Reality Star Crimes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1QANq5CFLMC2960sVI4txB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Reality stars are meant to keep our attention. But some of them get a little too reckless and grab the attention of… the police. Ash and Alaina list off the biggest reality show stars who have committed the darkest of crimes. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1QANq5CFLMC2960sVI4txB</guid>
+      <pubDate>Sun, 09 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2490</itunes:duration>
+    </item>
+    <item>
+      <title>Female Revenge Movies</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6imVK6adkx4BMb2csrn2Yd?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Revenge is often messy, mostly illegal, and likely counter-productive - both on screen and off. Ash and Alaina countdown the biggest female revenge movies where actual true crime cases parallel their plots. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6imVK6adkx4BMb2csrn2Yd</guid>
+      <pubDate>Sun, 02 Jan 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2590</itunes:duration>
+    </item>
+    <item>
+      <title>Outrageous New Year’s Crimes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/68e1fEOZfwUO83IjlzMYTj?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>New year, new prison uniform? Ash and Alaina count down outrageous New Year’s crimes, from the prankful to the downright horrific.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">68e1fEOZfwUO83IjlzMYTj</guid>
+      <pubDate>Sun, 26 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2587</itunes:duration>
+    </item>
+    <item>
+      <title>Famously Fatal Family Feuds</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5r5kqKedTQfRlyE3LVwEWc?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Texas shoot-outs, royal power grabs, and the real-life inspiration behind Game of Thrones’ “Red Wedding” — Ash and Alaina count down feuds that wrecked families and changed history.   Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5r5kqKedTQfRlyE3LVwEWc</guid>
+      <pubDate>Sun, 19 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2880</itunes:duration>
+    </item>
+    <item>
+      <title>Worst Criminal Excuses</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1TQ90MZBx12vlqelosx5T7?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ash and Alaina count down criminals whose knee-jerk reactions to getting caught were to lie… and lie big.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1TQ90MZBx12vlqelosx5T7</guid>
+      <pubDate>Sun, 12 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2737</itunes:duration>
+    </item>
+    <item>
+      <title>Wicked Washington Crimes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7JjViSqOICvmCq1mVSJ5nY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ash and Alaina head to the Pacific Northwest to count down the worst crimes that ever made the Evergreen State run red.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7JjViSqOICvmCq1mVSJ5nY</guid>
+      <pubDate>Sun, 05 Dec 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2384</itunes:duration>
+    </item>
+    <item>
+      <title>Golden State Killer: Disturbing Details</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0NWZCEa9SCEMp7ncqxzouM?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>His crimes were terrifying and his arrest was unlike anything before it. Ash and Alaina dig deep into the cases of the Golden State Killer to see how twisted he really was. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0NWZCEa9SCEMp7ncqxzouM</guid>
+      <pubDate>Sun, 28 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>3237</itunes:duration>
+    </item>
+    <item>
+      <title>D.B. Cooper Theories</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0ygWwYTrn0ERKPf1GzfZs6?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A man known as D.B. Cooper hijacked a plane in elaborate style, collected a ransom, and disappeared. Ash and Alaina count down the list of suspects, hoping to identify this legendary unknown criminal. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0ygWwYTrn0ERKPf1GzfZs6</guid>
+      <pubDate>Mon, 22 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>3229</itunes:duration>
+    </item>
+    <item>
+      <title>Dangerous Obsessions Pt. 2 </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3KtyxVkgDpT0DjgqrHkOkF?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ash and Alaina are back with another chilling round of celebrity stalkers and people whose obsessions turned criminal.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3KtyxVkgDpT0DjgqrHkOkF</guid>
+      <pubDate>Sun, 14 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2898</itunes:duration>
+    </item>
+    <item>
+      <title>Extraordinary Ways Killers Got Caught</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1y4JTa4vZ9mPIUPz5uQJHu?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>You might know their names, but do you know the wild details of their capture? Ash and Alaina count down the most extraordinary ways that notorious killers were finally caught.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1y4JTa4vZ9mPIUPz5uQJHu</guid>
+      <pubDate>Sun, 07 Nov 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2781</itunes:duration>
+    </item>
+    <item>
+      <title>Tabloid Celebrity Arrests</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3LMSryBVPucD6aj6KXFQNz?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Which celebrity crime was the most tabloid-ready of them all? Ash and Alaina count down headlines that kept us captivated by the rich and (in)famous.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3LMSryBVPucD6aj6KXFQNz</guid>
+      <pubDate>Sun, 31 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2732</itunes:duration>
+    </item>
+    <item>
+      <title>Suspicious Occult Crimes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1iitmBCVG87IY5NVCkm1VC?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The ‘80s and ‘90s saw a lot of murders blamed on “satanic rituals.” But were they? Inspired by the West Memphis Three case, Ash and Alaina count down crimes where blaming Satan may actually be a red herring. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1iitmBCVG87IY5NVCkm1VC</guid>
+      <pubDate>Sun, 24 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>3075</itunes:duration>
+    </item>
+    <item>
+      <title>Jack the Ripper Theories</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4knr7K1WfurDMnoQhtKNrR?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Five women were brutally murdered in the streets of London in 1888, and their killer was never found. The case is now a staple of true crime lore. Ash and Alaina rank the list of suspects most likely to be… Jack the Ripper. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4knr7K1WfurDMnoQhtKNrR</guid>
+      <pubDate>Sun, 17 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2575</itunes:duration>
+    </item>
+    <item>
+      <title>Most Macabre Murderabilia</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/12TXWZFNO90mj6oqibPE9J?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Imagine collecting real items once owned or created by serial killers. So-called “murderabilia.” Ash and Alaina count down the most morbid pieces that went to auction, into museums, or into private collections. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">12TXWZFNO90mj6oqibPE9J</guid>
+      <pubDate>Sun, 10 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2958</itunes:duration>
+    </item>
+    <item>
+      <title>Ghastly Ghostly Crimes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/68hS9sW5KG5ofLRvc3fQXJ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Put on your detective hat and grab a Ouija board, because the cases on this list are pointing fingers at the paranormal. Ash and Alaina conjure up crimes where the guilty party… are ghosts.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">68hS9sW5KG5ofLRvc3fQXJ</guid>
+      <pubDate>Sun, 03 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2948</itunes:duration>
+    </item>
+    <item>
+      <title>Cold-Blooded Californian Killers</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5ENmtvsqKld0hjpj3T6Gmy?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>California, here we come. Ash and Alaina count down the worst of the west — killers who made California both their home… and their hunting grounds.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5ENmtvsqKld0hjpj3T6Gmy</guid>
+      <pubDate>Sun, 26 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2715</itunes:duration>
+    </item>
+    <item>
+      <title>Mysterious Deaths of Literary Icons</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2CK29jZUyiSRx8SvEkxM16?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Their lives read like fiction — and their deaths are the ultimate cliffhangers. Ash and Alaina check into the library to find famed authors who “checked out” in the most mysterious of ways.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2CK29jZUyiSRx8SvEkxM16</guid>
+      <pubDate>Sun, 19 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2877</itunes:duration>
+    </item>
+    <item>
+      <title>Grandmas Gone Bad</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3fUaPsLhqLCJzec9n9WqE4?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Is there any better disguise than a sweet grandma? Ash and Alaina count down little old ladies who were caught in criminal acts, ending with the baddest granny of them all…  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3fUaPsLhqLCJzec9n9WqE4</guid>
+      <pubDate>Sun, 12 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2922</itunes:duration>
+    </item>
+    <item>
+      <title>Diabolical Doctors</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1H7dLKXHXGdyEDVN3OnTa5?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Going to the doctor can be nerve-racking enough. The doctors on this list made it downright deadly. Ash and Alaina check up on “healers” who ignored the most important oath of all: "First, do no harm." Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1H7dLKXHXGdyEDVN3OnTa5</guid>
+      <pubDate>Sun, 05 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>3022</itunes:duration>
+    </item>
+    <item>
+      <title>Fearsome Women Assassins</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/68O4SMRIRYQu8ErTXIFwK7?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>This is a herstory lesson like you’ve never heard. Ash and Alaina share the stories of fearsome women who completed deadly missions — whether for personal revenge, political gain, or to simply create chaos. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">68O4SMRIRYQu8ErTXIFwK7</guid>
+      <pubDate>Sun, 29 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>3081</itunes:duration>
+    </item>
+    <item>
+      <title>Florida Man Crimes, Pt. 2</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4dNb7pSRrnGJ8z6ESLCk2e?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We’re back with a follow-up to Florida Man Crimes! Because there’s a never-ending list of wild and wicked crimes to be found in the Sunshine State. Ash and Alaina call out even more of Florida’s wildest, heartless, most frustrating criminals.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4dNb7pSRrnGJ8z6ESLCk2e</guid>
+      <pubDate>Sun, 22 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>3297</itunes:duration>
+    </item>
+    <item>
+      <title>Shocking Celebrity Assassinations</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2JT4r8ekrgjXegUHUh3Nzq?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A celebrity dying unexpectedly can be emotional for many of their fans. Ash and Alaina bid farewell to those celebs whose deaths were even more devastating because they were ripped from us in horrific ways. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2JT4r8ekrgjXegUHUh3Nzq</guid>
+      <pubDate>Sun, 15 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>3469</itunes:duration>
+    </item>
+    <item>
+      <title>Busted by Social Media</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/26XeSwHBRLHqb0ySEUyQ4E?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>When it comes to social media, we may not like people who over share… but the police do. Ash and Alaina scroll through the accounts of criminals who loved the ‘likes’ so much, it got them busted. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">26XeSwHBRLHqb0ySEUyQ4E</guid>
+      <pubDate>Sun, 08 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2735</itunes:duration>
+    </item>
+    <item>
+      <title>Curious Clues of the Keddie Cabin Murders</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4ibsRx4YxV2COUtkk3W4iS?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Inside Cabin 28, three people were found brutally murdered, with a fourth body discovered miles away. But who killed the Sharp family? Ash and Alaina examine the most curious clues from the Keddie Cabin murders. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4ibsRx4YxV2COUtkk3W4iS</guid>
+      <pubDate>Sun, 01 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>3093</itunes:duration>
+    </item>
+    <item>
+      <title>Honeymoons Gone Wrong</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5BF5sxs4vX120Xp4zU0uox?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Honeymoons can go bad in a lot of ways. But some go criminally bad. Ash and Alaina count down the haunting memories of post-wedding trips that will have everyone asking — accident or murder? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5BF5sxs4vX120Xp4zU0uox</guid>
+      <pubDate>Sun, 25 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>3255</itunes:duration>
+    </item>
+    <item>
+      <title>Bad Neighbors</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5V0NfUIpVHrJq51fHdyZQt?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Neighbor disputes are usually over petty issues such as collapsed fences, barking dogs, or untrimmed trees. Ash and Alaina count down the neighbors who didn’t understand simple conflict resolution, and took their anger to deadly levels.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5V0NfUIpVHrJq51fHdyZQt</guid>
+      <pubDate>Sun, 18 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1959</itunes:duration>
+    </item>
+    <item>
+      <title>Faked Deaths and Double Lives</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0HmEQmK8AlEdv5G0Gm0XlA?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Faking your death is so extreme you must be running from something criminal to do it. Ash and Alaina call out the fakers who tried to escape liability, responsibility, and prison by “dying” or becoming someone else. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0HmEQmK8AlEdv5G0Gm0XlA</guid>
+      <pubDate>Sun, 11 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1966</itunes:duration>
+    </item>
+    <item>
+      <title>Influential Internet Sleuths</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1ihYQyUjBfRELKd60tNR4Y?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s one thing to enjoy true crime. But getting involved in real cases when you’re not a real detective is a complicated world. Ash and Alaina click through the internet sleuths who made the biggest impacts on real crimes. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1ihYQyUjBfRELKd60tNR4Y</guid>
+      <pubDate>Sun, 04 Jul 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1802</itunes:duration>
+    </item>
+    <item>
+      <title>Bermuda Triangles</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3VA4AyzV3vTGuEYVUDQrJP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Some places are magnets for the inexplicable… Ash and Alaina visit trippy locations where we’ve blamed unsolved and unexplained activity on serial killers, extraterrestrials, and Bigfoot.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3VA4AyzV3vTGuEYVUDQrJP</guid>
+      <pubDate>Sun, 27 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2047</itunes:duration>
+    </item>
+    <item>
+      <title>Deadly Vacations</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3N7OVxQ4ntH5wVjJBtzeZB?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Traveling never goes exactly right. But some trips go deadly wrong. Ash and Alaina snapshot picture-perfect vacays that turned into unsolved murders, mysterious disappearances, and road trips with tragic last stops. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3N7OVxQ4ntH5wVjJBtzeZB</guid>
+      <pubDate>Sun, 20 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1678</itunes:duration>
+    </item>
+    <item>
+      <title>Infamous Accomplices</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0nlu89SgFlzG4MvGT1Dsqm?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Loyalty is usually seen as a virtue, even if it’s a problematic one. Ash and Alaina name the most devoted sidekicks to infamous cold-blooded killers, who proved that loyalty can in fact be very problematic.  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0nlu89SgFlzG4MvGT1Dsqm</guid>
+      <pubDate>Sun, 13 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1640</itunes:duration>
+    </item>
+    <item>
+      <title>State Park Crimes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4dsOsrx3E5jrw74sS5nO8k?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The great outdoors can be peaceful… or the setting of horrific crimes. Ash and Alaina set up camp in some of the most majestic state parks in the U.S. whose reputations have been tested by murder. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4dsOsrx3E5jrw74sS5nO8k</guid>
+      <pubDate>Sun, 06 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1790</itunes:duration>
+    </item>
+    <item>
+      <title>Spine-Chilling 911 Calls</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4yJmKHfV3xDHD3wXpVeGTS?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We all know “911. What’s your emergency?” But the responses to that question can send shivers down your spine. Ash and Alaina dial up killer confessions and calls for help where goosebumps are guaranteed. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4yJmKHfV3xDHD3wXpVeGTS</guid>
+      <pubDate>Sun, 30 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1790</itunes:duration>
+    </item>
+    <item>
+      <title>Celebrity Spies</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1MzGy0dTmfH5MSQlOBaBOw?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Being famous or a secret agent seems like two very different fantasies. But in real life, these two worlds have collided quite often. Ash and Alaina unmask the celebrities who have had a starring role in espionage. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1MzGy0dTmfH5MSQlOBaBOw</guid>
+      <pubDate>Sun, 23 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1836</itunes:duration>
+    </item>
+    <item>
+      <title>Tragic Wedding Crimes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3omNWXL7se0WJI6lKL9jqh?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Weddings are meant to be magical. But when crime crashes your big day, happiness turns to horror. Ash and Alaina cordially invite you to the most unfortunate unions between matrimony and mayhem. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3omNWXL7se0WJI6lKL9jqh</guid>
+      <pubDate>Sun, 16 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1641</itunes:duration>
+    </item>
+    <item>
+      <title>Horrifying Home Invasions</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1oJF44kCOcvXjhllC13rlP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We’re all scared of what goes bump in the night. Because that noise could mean someone has just invaded your home. Ash and Alaina unlock the door to the most terrifying and deadly break-ins. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1oJF44kCOcvXjhllC13rlP</guid>
+      <pubDate>Sun, 09 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1842</itunes:duration>
+    </item>
+    <item>
+      <title>Charismatic Cult Leaders</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/368J70cHl6V0PVfF7ZPPXc?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Behind every successful cult is a persuasive leader convincing hordes of people to conform to their views of the world. Ash and Alaina rollcall the most charming leaders with the most devout followings. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">368J70cHl6V0PVfF7ZPPXc</guid>
+      <pubDate>Sun, 02 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2032</itunes:duration>
+    </item>
+    <item>
+      <title>Weird Hollywood Crimes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2GtRR6tWcD9twbLBbeBrfq?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>L.A. has seen some very odd crimes that don’t quite have a Hollywood ending. Ash and Alaina head off to La La Land for the most bizarre crimes with twists and turns that seem tailor-made for the big screen. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2GtRR6tWcD9twbLBbeBrfq</guid>
+      <pubDate>Sun, 25 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1893</itunes:duration>
+    </item>
+    <item>
+      <title>High Crimes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7I4OmcHwjLvbN3UbJ9TrZ0?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The higher you go, the further you fall. Ash and Alaina blaze through legendary crimes committed by drug smugglers, con artists and kingpins that all came at a high cost. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7I4OmcHwjLvbN3UbJ9TrZ0</guid>
+      <pubDate>Sun, 18 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1954</itunes:duration>
+    </item>
+    <item>
+      <title>Scariest Forests</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2nSud5C0QBgoIIzlJchNmz?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Their killer histories and haunting folklore leave us wondering if that was a tree we heard falling or something far more sinister. Ash and Alaina visit forests with the deadliest reputations and spookiest inhabitants. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2nSud5C0QBgoIIzlJchNmz</guid>
+      <pubDate>Sun, 11 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2135</itunes:duration>
+    </item>
+    <item>
+      <title>Deadly Sibling Dysfunction</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2Pbs9mTljFLDgp1heBr4Ix?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>As long as there have been siblings, there’s been dysfunction. But most family drama ends in apologies or time outs. Ash and Alaina introduce us to siblings whose jealousy, power struggles, and greed turned deadly. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2Pbs9mTljFLDgp1heBr4Ix</guid>
+      <pubDate>Sun, 04 Apr 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1795</itunes:duration>
+    </item>
+    <item>
+      <title>Victims Who Got Away</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1PCMgtDo1Rb5bbXPlK88a3?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The victims of ruthless killers, genocide, or deranged predators didn’t choose to put their lives at risk. But they did choose to survive. Ash and Alaina tell the harrowing tales of victims who got away — but just barely. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1PCMgtDo1Rb5bbXPlK88a3</guid>
+      <pubDate>Sun, 28 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2018</itunes:duration>
+    </item>
+    <item>
+      <title>Baffling Boston Crimes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/47pccpu6feLqupIPCTQ4kU?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Boston is a proud city. But even in the best of towns, questionable things happen in the dark. And this episode is personal. Ash and Alaina reveal the most wicked baffling crimes that happened right in their hometown. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">47pccpu6feLqupIPCTQ4kU</guid>
+      <pubDate>Sun, 21 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1916</itunes:duration>
+    </item>
+    <item>
+      <title>Twisted Spring Break Crimes </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4a1WUj6jtB0vOp8lydyLVe?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Spring Break is a chance to let loose and let your guard down. But no one loves a carefree teen quite like a killer. Ash and Alaina visit sunny hot spots where twisted crimes put an end to amazing vacations. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4a1WUj6jtB0vOp8lydyLVe</guid>
+      <pubDate>Sun, 14 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2050</itunes:duration>
+    </item>
+    <item>
+      <title>Suspicious Falls</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7kNV9DtNPtfJ77RgZzbLUn?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Whether they fell from the sky, out of a window, or just in their own home, the details of these stories will have you questioning everything. Ash and Alaina dissect the most dubious drops, pitting accident against murder. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7kNV9DtNPtfJ77RgZzbLUn</guid>
+      <pubDate>Sun, 07 Mar 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2380</itunes:duration>
+    </item>
+    <item>
+      <title>Eeriest Killer Nicknames</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7f4Mhl6ZZn7FJG80PBYJe5?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Some nicknames, given to the world’s worst killers, conjure up images of horror, bloodshed, and demented minds. Ash and Alaina roll call the eeriest of them all, and share the spine-chilling stories behind them. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7f4Mhl6ZZn7FJG80PBYJe5</guid>
+      <pubDate>Sun, 28 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2214</itunes:duration>
+    </item>
+    <item>
+      <title>Florida Man Moments</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0sRajTgFsCZm0JLwar12Ms?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ridiculous crimes from the Sunshine State helped make criminals there become an internet trend. Ash and Alaina highlight the craziest crimes where the headline started with “Florida Man...” Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0sRajTgFsCZm0JLwar12Ms</guid>
+      <pubDate>Sun, 21 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1765</itunes:duration>
+    </item>
+    <item>
+      <title>Alaina and John’s Love Story - A Valentine’s Special</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0aKpk6PfgW8HX7CrEnsKkW?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A Valentine’s Special? Count us in! Ash and Alaina are each sharing the highlights and hardships of their real-life romances in Our Love Story, a Spotify Original from Parcast. Listen here to Alaina and John recount their relationship milestones. Then search “Our Love Story” to hear Ash and Drew — and more of your favorite Parcast hosts — do the same. New episodes every Tuesday. Listen free on Spotify!  Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0aKpk6PfgW8HX7CrEnsKkW</guid>
+      <pubDate>Mon, 15 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1426</itunes:duration>
+    </item>
+    <item>
+      <title>Terrifying Urban Legends</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/743JKsGKsvIiKS367sHQe1?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Truth or twisted fiction, these stories are so hauntingly good, they’ve lasted for generations. Ash and Alaina revisit the most terrifying urban legends that blur lines between what’s real and what's just a scary story. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">743JKsGKsvIiKS367sHQe1</guid>
+      <pubDate>Sun, 14 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2071</itunes:duration>
+    </item>
+    <item>
+      <title>Game-Changing Murder Trial Evidence</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1u0sPEMuBYJyzcidYFZcak?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It’s the pivotal moment in any court-room drama — when evidence is presented that clinches a case. Ash and Alaina bang the gavel on the most significant pieces of murder trial evidence ever. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1u0sPEMuBYJyzcidYFZcak</guid>
+      <pubDate>Sun, 07 Feb 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1875</itunes:duration>
+    </item>
+    <item>
+      <title>Australian Crimes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3dXoslDeSf0I3INNUhXkJd?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>It's a country. It's a continent. It's a true crime capital. Ash and Alaina count down the worst killers, con artists, and creeps from down under. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3dXoslDeSf0I3INNUhXkJd</guid>
+      <pubDate>Sun, 31 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1830</itunes:duration>
+    </item>
+    <item>
+      <title>Mysterious Musician Deaths</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3yZnqnKZrNmhe3x1Fd04dd?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Two things people obsess over: music and murder conspiracy theories. And by people, we mean Ash and Alaina, as they investigate the strangest details behind ten rock stars' mysterious deaths. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3yZnqnKZrNmhe3x1Fd04dd</guid>
+      <pubDate>Sun, 24 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2000</itunes:duration>
+    </item>
+    <item>
+      <title>Solved Cold Case Disappearances</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7FwQrx1Cg6diauDct4QVx8?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>When the trail goes cold, that's often the end of the story. But this week, Alaina and Ash look at disappearances solved over twenty years after the person went missing. After years of wondering, the families got the closure they needed, and in some cases, a rare happy ending. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7FwQrx1Cg6diauDct4QVx8</guid>
+      <pubDate>Sun, 17 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2030</itunes:duration>
+    </item>
+    <item>
+      <title>Medieval Torture Methods</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/798GgZZAx808OhPBpjZOFz?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Everyone wants to see a criminal confess. But today's top ten may have wanted it a little too much. Ash and Alaina examine the gnarliest torture methods, the people who used them, and those who suffered before giving up information — or were killed in the process. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">798GgZZAx808OhPBpjZOFz</guid>
+      <pubDate>Sun, 10 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1902</itunes:duration>
+    </item>
+    <item>
+      <title>‘80s Horror Movie Killers</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3a8pTadTFBAGSk965iNbJ6?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Just because they're made-up doesn't make these crimes less horrifying. Especially when you consider their real-life inspirations. Ash and Alaina take a nostalgia trip to find the top ten ‘80s movie killers. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3a8pTadTFBAGSk965iNbJ6</guid>
+      <pubDate>Sun, 03 Jan 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1949</itunes:duration>
+    </item>
+    <item>
+      <title>Best of 2020: Deadly Cults</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6hgaVy6O8A2TvVKv7vdSe7?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Manson Family. Jonestown. Waco. So many cults end in tragedy. But it may be the cults you haven't heard of that are the most brutal. Ash and Alaina explore famous, infamous and lesser-known cults to determine the deadliest. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6hgaVy6O8A2TvVKv7vdSe7</guid>
+      <pubDate>Sun, 27 Dec 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2115</itunes:duration>
+    </item>
+    <item>
+      <title>Not-So-Jolly Christmas Crimes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/43I96Y2M66pSdLQDI9MjWi?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Happy holidays, weirdos! ‘Tis the season for arson, fraud and larceny as Alaina and Ash explore the most criminal ways someone’s ever ruined Christmas. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">43I96Y2M66pSdLQDI9MjWi</guid>
+      <pubDate>Sun, 13 Dec 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1967</itunes:duration>
+    </item>
+    <item>
+      <title>Creepy Cannibals</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6oZ9UWbVG6LOj6ZY3X81m5?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Ash and Alaina count down crimes that'll make you lose your appetite — and maybe the contents of your stomach. Pro tip: Listen to this one after lunch. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6oZ9UWbVG6LOj6ZY3X81m5</guid>
+      <pubDate>Sun, 06 Dec 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1940</itunes:duration>
+    </item>
+    <item>
+      <title>Death Row Last Meals</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1VymK7gba6eFZr8lZ3y2B5?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The only thing weirder than death row inmates’ last meal requests is that we, as a society, honor them. Ash and Alaina count down the top ten death row meals, and examine how usually, they’re more than just a meal. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1VymK7gba6eFZr8lZ3y2B5</guid>
+      <pubDate>Sun, 29 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1899</itunes:duration>
+    </item>
+    <item>
+      <title>JFK Assassination Theories</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4H0I7doO5gLe9cfTSBiFpe?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The murder of America's 35th president, followed by the murder of his killer, and the untimely death of his killer's killer, left the U.S. in a tailspin. Ash and Alaina tackle the ten most believable theories that surfaced in the wake of the chaos. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4H0I7doO5gLe9cfTSBiFpe</guid>
+      <pubDate>Sun, 22 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1854</itunes:duration>
+    </item>
+    <item>
+      <title>Mysterious Water Deaths</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7sOGHmzfE64gMYK14uWu5F?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>You never know what's lurking below the surface — and that applies to criminals just as much as oceans and lakes. Ash and Alaina dive into ten awfully suspicious deaths and disappearances. Were they all watery accidents? Or was there something deeper? Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7sOGHmzfE64gMYK14uWu5F</guid>
+      <pubDate>Sun, 15 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1952</itunes:duration>
+    </item>
+    <item>
+      <title>Obsessed Stalkers</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4BPg809U9wuvnjtTf5BtFi?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We've all done some light stalking: looking up a new acquaintance on Facebook, searching for a crush on Google... But there's nothing light about today's ten crimes. Ash and Alaina examine the creepiest stalkers, and their disturbing psychology. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4BPg809U9wuvnjtTf5BtFi</guid>
+      <pubDate>Sun, 08 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1816</itunes:duration>
+    </item>
+    <item>
+      <title>Greatest Art Heists</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6qDvLvBkRIJcJQOFXxTWEl?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Exciting. High-profile. And usually, no one dies! Alaina and Ash dish up ten art heists, and try to figure out why this is one crime that keeps getting labeled "cool." Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6qDvLvBkRIJcJQOFXxTWEl</guid>
+      <pubDate>Sun, 01 Nov 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1874</itunes:duration>
+    </item>
+    <item>
+      <title>Halloween Murders</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1lJuC1FjCsgu2N8pMhla5N?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>No one bats an eye when they see gore or dead bodies on Halloween... and some cold-blooded killers use that to their advantage. Alaina and Ash recount Halloween night's most unsettling crimes. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1lJuC1FjCsgu2N8pMhla5N</guid>
+      <pubDate>Sun, 25 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2228</itunes:duration>
+    </item>
+    <item>
+      <title>Haunted Murder Sites</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2AAuRyf8JPnh5rCOKuhr8y?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The only thing creepier than a room where someone was murdered? That room being haunted. Ash and Alaina present the top ten murders where the victim’s death was just the beginning… Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2AAuRyf8JPnh5rCOKuhr8y</guid>
+      <pubDate>Sun, 18 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2498</itunes:duration>
+    </item>
+    <item>
+      <title>Stolen Body Parts</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5bHkMdoq3Ty9ESFkVjvH54?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Stealing a dead body? Unsettling. Stealing a single dead finger? Simply bizarre. Ash and Alaina count down the weirdest thefts of disembodied skulls, limbs, and internal organs. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5bHkMdoq3Ty9ESFkVjvH54</guid>
+      <pubDate>Sun, 11 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2303</itunes:duration>
+    </item>
+    <item>
+      <title>Unforgettable Crimes of 1995</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5yDr292OHIf3SAIfEN3coc?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>25 years ago, most of our listeners were probably paying more attention to their Beanie Babies than to true crime. So Ash and Alaina dive into ten of 1995's crimes you may have missed... and the ones we'll never forget. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5yDr292OHIf3SAIfEN3coc</guid>
+      <pubDate>Sun, 04 Oct 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1919</itunes:duration>
+    </item>
+    <item>
+      <title>Infamous Alcatraz Inmates</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1BHC6ZOElVfqDnR5Ui3z20?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>We all agree that Alcatraz is the world’s most infamous prison, but who are its most infamous inmates? Alaina and Ash count down the most memorable criminals to ever go into Alcatraz, and a few who got out—or died trying. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1BHC6ZOElVfqDnR5Ui3z20</guid>
+      <pubDate>Sun, 27 Sep 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1968</itunes:duration>
+    </item>
+    <item>
+      <title>Royal Killers</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5JjwilnP0GTc7WcuAuKlnd?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Today’s criminals ruled with bone-crushing fists. Ash and Alaina’s top ten royal killers include a queen who protected her siblings, a king who had his wives beheaded, and vile forms of torture that could only be the result of absolute authority. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">5JjwilnP0GTc7WcuAuKlnd</guid>
+      <pubDate>Sun, 20 Sep 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2209</itunes:duration>
+    </item>
+    <item>
+      <title>Killer Texans</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6ICTjDTMn3hQMI9werkFox?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>"Don't Mess With Texas" never rang truer than in these ten criminal cases. Alaina and Ash dive into the Lone Star State's most notorious killers. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6ICTjDTMn3hQMI9werkFox</guid>
+      <pubDate>Sun, 13 Sep 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1985</itunes:duration>
+    </item>
+    <item>
+      <title>Lottery Scams</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4JFemeGyOgNJxeSnMie0dc?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>A chance of luck, a stroke of fortune, a twist to beat the odds… The lottery represents hopes and dreams—but not everyone's willing to wait for their lucky day. These criminals set out to rig the system through cons, theft, and even murder. Ash and Alaina stack up the ten most striking lottery scams. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4JFemeGyOgNJxeSnMie0dc</guid>
+      <pubDate>Sun, 06 Sep 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2406</itunes:duration>
+    </item>
+    <item>
+      <title>Shocking Daytime Murders</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3pbRaxKDpQbPCjs0Lar1x2?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>What drives a person to kill in front of witnesses? Ash and Alaina explore the tales and motives of shameless criminals who killed in broad daylight. The only thing more shocking than the brutality of these slayings is the fact that some remain unsolved. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">3pbRaxKDpQbPCjs0Lar1x2</guid>
+      <pubDate>Sun, 30 Aug 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1850</itunes:duration>
+    </item>
+    <item>
+      <title>Dangerous Moms</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0T31JWQe0R2Myi4lq70Ane?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>"Maternal" typically means warm and loving... These moms were anything but. Alaina and Ash dive into the top ten dangerous moms, including a cheer mom gone crazy, the notorious Casey Anthony, and unthinkable baby-killers. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0T31JWQe0R2Myi4lq70Ane</guid>
+      <pubDate>Sun, 23 Aug 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2290</itunes:duration>
+    </item>
+    <item>
+      <title>Daring Prison Breaks</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0iAni5ItPM2kU3AnVIhSmP?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>From Alcatraz to the Tower of London, prisons are built to keep people in. But today's criminals dodged bullets, swam miles, changed their names—and even their faces—to gain freedom. Alaina and Ash decide which prisoner took the biggest risk… and if it paid off. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">0iAni5ItPM2kU3AnVIhSmP</guid>
+      <pubDate>Sun, 16 Aug 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2110</itunes:duration>
+    </item>
+    <item>
+      <title>Hotel Crimes</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/187waVhlc5D55k9ejulfzH?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Is there anything creepier than finding a dead body in your hotel room? Whether you believe they're haunted or not, some hotels have stains that can't be cleaned. Alaina and Ash check into hotels linked to cases of mob hits, arson, and mysterious disappearances. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">187waVhlc5D55k9ejulfzH</guid>
+      <pubDate>Sun, 09 Aug 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>1954</itunes:duration>
+    </item>
+    <item>
+      <title>Serial Killer Letters</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2kLa5GtjQVhVnsSOswVLyu?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>There are two types of serial killers: Those who never want to be known, and those who crave infamy. The second group are the letter writers: the ones who add to the horror and confusion with manifestos and threats. Alaina and Ash review the ten most chilling letters, and killers who wrote them. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2kLa5GtjQVhVnsSOswVLyu</guid>
+      <pubDate>Sun, 02 Aug 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2128</itunes:duration>
+    </item>
+    <item>
+      <title>Zodiac Killer Theories</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4eGU9BltbaGrBwXBvAddml?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>He may be the most famous serial killer of all time, but we still don't know who he is. Ash and Alaina round up the most chilling Zodiac Killer suspects, and try to uncover how a notorious murderer with multiple eyewitnesses escaped prosecution. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4eGU9BltbaGrBwXBvAddml</guid>
+      <pubDate>Sun, 26 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2203</itunes:duration>
+    </item>
+    <item>
+      <title>Unsolved Murders: 1970s</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1QfXSwyCDL0kDPz1SEynfY?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Despite fifty years of investigation, a question mark still remains next to these crimes. But just because there's no answer doesn't mean there isn't disturbing evidence... or creepy suspects. Ash and Alaina dive into unsolved murders that are anything but groovy. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">1QfXSwyCDL0kDPz1SEynfY</guid>
+      <pubDate>Sun, 19 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2342</itunes:duration>
+    </item>
+    <item>
+      <title>Fatal Romances</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6aj8m88ndcX0NTRQyinCrC?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Shakespeare wrote that Iove is blind, but in these criminal cases, love is blinding. Ash and Alaina dive into obsessive, dangerous love stories—including a murdered queen, an outlaw couple and a few Beyoncé references. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">6aj8m88ndcX0NTRQyinCrC</guid>
+      <pubDate>Sun, 12 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2263</itunes:duration>
+    </item>
+    <item>
+      <title>Deadly Cults</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7KT2uUPOL8fkbZQo9nv28d?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Manson Family. Jonestown. Waco. So many cults end in tragedy. But it may be the cults you haven't heard of that are the most brutal. Ash and Alaina explore famous, infamous and lesser-known cults to determine the deadliest. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">7KT2uUPOL8fkbZQo9nv28d</guid>
+      <pubDate>Sun, 12 Jul 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>2088</itunes:duration>
+    </item>
+    <item>
+      <title>Welcome to Crime Countdown!</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2xvGrvKh5632knklf8ddgt?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The craziest events. The most disturbing criminals. The creepiest details. Ash and Alaina from the hit podcast Morbid probably don’t agree on where they should all rank… but they’re counting down anyway! This is their new Parcast series, Crime Countdown. Every Monday, discover ten unsettling true crime stories centered around a common theme. With the help of the Parcast research gods, Ash and Alaina will try to shock, surprise, and one-up each other—debating each case and their rankings with a hint of humor to lighten the mood. Topics include Fatal Romances, Serial Killer Letters, and even Stolen Body Parts. Crime Countdown premieres July 13th! Listen free on Spotify or wherever you get your podcasts! Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">2xvGrvKh5632knklf8ddgt</guid>
+      <pubDate>Wed, 17 Jun 2020 16:00:00 +0000</pubDate>
+      <itunes:duration>30</itunes:duration>
+    </item>
+  </channel>
+</rss>
+

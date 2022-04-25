@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>LOUD</title>
+    <link>https://api.spotify.com/v1/shows/6OB6xOp1sWazXMMa2z53CZ</link>
+    <description>The true story of the young people from Jamaica, Panama, Puerto Rico and beyond who beat the odds, refused to be quiet and created an irresistible musical culture that has kept the world dancing. Join Ivy Queen, one of the founders of the genre, for an incredible musical story about sex, race, drugs, censorship, and of course, perreo. From Spotify Studios and Futuro Studios.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://i.scdn.co/image/ab6765630000ba8a0622c8472a1736c4bf06d860</url>
+      <title>LOUD</title>
+      <link>https://api.spotify.com/v1/shows/6OB6xOp1sWazXMMa2z53CZ</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Apr 2022 07:50:55 +0000</lastBuildDate>
+    <item>
+      <title>10. Reggaeton Forever</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/57aMLrs80ITYL5mKAaMd1Q?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Reggaeton has now taken over the world. The scene has moved to Miami, where most of the biggest players are living and recording. As the music becomes increasingly commercial, some artists fight to keep the genre’s original rebel spirit alive. In this final episode, Ivy Queen looks back at her career and the legacy of the music she helped create.</p> ]]></description>
+      <guid isPermaLink="false">57aMLrs80ITYL5mKAaMd1Q</guid>
+      <pubDate>Tue, 05 Oct 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2368</itunes:duration>
+    </item>
+    <item>
+      <title>9. The Medellín Dream</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4BBurgmwwnJT43xZ3qQgYy?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Medellín, Colombia becomes a new reggaeton mecca thanks to a new generation of artists and producers. J Balvin, Maluma and others find a more commercial sound, and set the stage for reggaeton’s global takeover.</p> ]]></description>
+      <guid isPermaLink="false">4BBurgmwwnJT43xZ3qQgYy</guid>
+      <pubDate>Tue, 28 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2206</itunes:duration>
+    </item>
+    <item>
+      <title>8. The Rebirth</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/5hGDAl1EROiKFwq6CIPY1d?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Media is quick to pronounce the death of reggaeton, but soon Puerto Rican artists like Nicky Jam find a new promised land and the genre gets a spark of new life in Medellín, Colombia.</p> ]]></description>
+      <guid isPermaLink="false">5hGDAl1EROiKFwq6CIPY1d</guid>
+      <pubDate>Tue, 21 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2464</itunes:duration>
+    </item>
+    <item>
+      <title>7. Bigger, Badder, Louder </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4rn4iuBhIBALoBUNWIcynS?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>After “Gasolina”, music labels bet big on the genre and scramble to sign artists like Don Omar and Wisin y Yandel. But when a culture from the streets and corporate America collide, it isn’t always pretty. Meanwhile, artists battle for the reggaeton crown and Hector el Father unleashes a reign of terror on the scene.</p> ]]></description>
+      <guid isPermaLink="false">4rn4iuBhIBALoBUNWIcynS</guid>
+      <pubDate>Tue, 14 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2414</itunes:duration>
+    </item>
+    <item>
+      <title>6. Stepping on the Gas </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2LE1P1hQXwsmrXdNCo7Zkf?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the early 2000s, two artists emerged to take reggaeton to the next level. Tego Calderon’s smooth flows and message of Black pride wins new fans for the genre and Daddy Yankee’s “Gasolina” blasts out of Puerto Rico to become a global hit, marking the dawn of the global reggaeton era.</p> ]]></description>
+      <guid isPermaLink="false">2LE1P1hQXwsmrXdNCo7Zkf</guid>
+      <pubDate>Tue, 07 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2368</itunes:duration>
+    </item>
+    <item>
+      <title>5. Perreo Intenso</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1BgwfZLbyFwyh18aNXQk96?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>“El underground” becomes Reggaeton and it spreads like wildfire. Lyrics about street topics evolve into sex jams. A trend of sexually explicit videos leads a telenovela star-turned-senator to launch a crusade to regulate perreo.</p> ]]></description>
+      <guid isPermaLink="false">1BgwfZLbyFwyh18aNXQk96</guid>
+      <pubDate>Wed, 01 Sep 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2601</itunes:duration>
+    </item>
+    <item>
+      <title>4. Underground and the Underworld</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/2JmfwE5ulmzoOYJcPj0SvW?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>In the early 90s, a wave of drug-related violence in Puerto Rico leads the government to launch the "Mano Dura” policy of invading and occupying housing projects with the National Guard, and underground music gets caught up in the crackdown. At the same time, rival MCs go to war, and lyrical battles sometimes spill out into real-world violence.</p> ]]></description>
+      <guid isPermaLink="false">2JmfwE5ulmzoOYJcPj0SvW</guid>
+      <pubDate>Tue, 24 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2372</itunes:duration>
+    </item>
+    <item>
+      <title>3. The Noise</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/09aX78giUf8kN5xfqn8quZ?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>On the edge of Viejo San Juan, PR in 1991 there was a tiny night club. The Noise was DJ Negro's place, where the "underground "movement was born, and where Ivy Queen got her big break. The Noise was a sweaty rap battle mixed with a rave — to the kids from the hood who flocked there every weekend, it was the coolest party in the world.</p> ]]></description>
+      <guid isPermaLink="false">09aX78giUf8kN5xfqn8quZ</guid>
+      <pubDate>Tue, 17 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2307</itunes:duration>
+    </item>
+    <item>
+      <title>2. The Nueva York Connection</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0Ioz0XNKvbhKFLK0HAHyoW?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>El General arrives in Brooklyn in the mid-80s to find a booming dancehall scene underway, and links up with Jamaican producers who start recording and promoting Panamanian artists. Around the same time, a Spanish-language hip-hop revolution is taking place as mixtapes fly back and forth from NYC and Puerto Rico, led by legendary rapper Vico C.</p> ]]></description>
+      <guid isPermaLink="false">0Ioz0XNKvbhKFLK0HAHyoW</guid>
+      <pubDate>Tue, 10 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>1934</itunes:duration>
+    </item>
+    <item>
+      <title>1. The Zone </title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7cY7LtS3tT71hcHLEXskfI?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>First stop: Panamá. We meet three Afro-Panamanian friends — all descendants of West Indian canal workers— who start translating Jamaican dancehall songs into Spanish, and performing them at neighborhood soundsystem parties. Renato makes the first reggae en español hits and sells cassettes to commuters on tricked-out buses known as diablos rojos, that are bumping with the new sound.</p> ]]></description>
+      <guid isPermaLink="false">7cY7LtS3tT71hcHLEXskfI</guid>
+      <pubDate>Tue, 03 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>2302</itunes:duration>
+    </item>
+    <item>
+      <title>Introducing LOUD: The History of Reggaeton</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1UnzwBWEkVG9tWBL8BmsHH?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Reggaeton started the way most great movements start, en las calles. Introducing LOUD: The History of Reggaeton, hosted by Ivy Queen. We take you from Panamanian buses to the shores of Puerto Rico to the loud streets of New York City. Tune in Wednesdays to hear the true story.</p> ]]></description>
+      <guid isPermaLink="false">1UnzwBWEkVG9tWBL8BmsHH</guid>
+      <pubDate>Tue, 03 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>119</itunes:duration>
+    </item>
+    <item>
+      <title>Video Trailer Introducing LOUD: The History of Reggaeton with Ivy Queen</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/51eSVNc75XbR91X3EGBYmk?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>Like all great movements, it started in the streets. From Panama to Puerto Rico, New York to Colombia, Ivy Queen tells the story of how reggaeton became the world's soundtrack. LOUD: The History of Reggaeton. Listen free, only on Spotify.</p> ]]></description>
+      <guid isPermaLink="false">51eSVNc75XbR91X3EGBYmk</guid>
+      <pubDate>Mon, 02 Aug 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>84</itunes:duration>
+    </item>
+  </channel>
+</rss>
+

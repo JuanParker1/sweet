@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Malicious Moms</title>
+    <link>https://api.spotify.com/v1/shows/0pH2BnuqSmRfk0fYSOGF2i</link>
+    <description>Torrid affairs. Shameless greed. Deadly revenge. Every Sunday, see how far some women went to help their kids… and how others used motherhood to get away with their misdeeds. From college admissions scandals to “self-defense” ax attacks, take an intimate look at moms who took maternal instincts to illegal extremes. Malicious Moms is a Spotify Original from Parcast. Listen free, only on Spotify. </description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://i.scdn.co/image/ab6765630000ba8af51f270a2ba73e67042275a5</url>
+      <title>Malicious Moms</title>
+      <link>https://api.spotify.com/v1/shows/0pH2BnuqSmRfk0fYSOGF2i</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Apr 2022 07:22:32 +0000</lastBuildDate>
+    <item>
+      <title>Headshots to Mugshots</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/70SdunqlFKleHGufwxROfC?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The Varsity Blues Scandal in 2019 exposed the lengths some Hollywood parents would go to secure their children’s success. And for one beloved sitcom actor, the consequences were swift. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">70SdunqlFKleHGufwxROfC</guid>
+      <pubDate>Tue, 19 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>2417</itunes:duration>
+    </item>
+    <item>
+      <title>Introducing: Malicious Moms</title>
+      <description><![CDATA[ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4kQlt3I2ksFDNoFa2lWkW9?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe><p>The mother of all crime-mom collections. Listen for a sneak peek into Parcast Network’s latest catalog series, where motherhood takes a turn for the terrifying. Premieres April 17th. Listen free, only on Spotify. Learn more about your ad choices. Visit podcastchoices.com/adchoices</p> ]]></description>
+      <guid isPermaLink="false">4kQlt3I2ksFDNoFa2lWkW9</guid>
+      <pubDate>Mon, 18 Apr 2022 16:00:00 +0000</pubDate>
+      <itunes:duration>45</itunes:duration>
+    </item>
+  </channel>
+</rss>
+
